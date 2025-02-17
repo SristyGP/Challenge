@@ -1535,3 +1535,164 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.02.17-15.32.59:605][891]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.17-15.32.59:605][891]LogContentValidation: Display: Validating asset /Game/Challenge.Challenge
 [2025.02.17-15.32.59:606][891]AssetCheck: /Game/Challenge Validating asset
+[2025.02.17-15.36.59:581][235]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.17-15.37.05:822][917]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.17-15.37.12:400][635]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.17-15.37.47:546][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.17-15.37.47:616][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.02.17-15.37.47:628][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.02.17-15.37.47:635][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.02.17-15.37.47:637][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/4/16/6A0UIU7LXO9RU7OPNBEUX9
+[2025.02.17-15.37.47:637][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/6A0UIU7LXO9RU7OPNBEUX904E3CB66401DEAEB168712B5FCAEC7E0.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/4/16/6A0UIU7LXO9RU7OPNBEUX9.uasset'
+[2025.02.17-15.37.47:639][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/8/49/O9ZAA4Y5AA76B6KRRP5UNE
+[2025.02.17-15.37.47:639][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/O9ZAA4Y5AA76B6KRRP5UNE04E736524D681D1EFB4AECAA933674BD.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/8/49/O9ZAA4Y5AA76B6KRRP5UNE.uasset'
+[2025.02.17-15.37.47:640][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/A/2F/BK71WAKMP7NJQ9N37MABU9
+[2025.02.17-15.37.47:640][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/BK71WAKMP7NJQ9N37MABU9D9BA72D948C67C68FE13CBAB63C1352E.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/A/2F/BK71WAKMP7NJQ9N37MABU9.uasset'
+[2025.02.17-15.37.47:642][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/B/0P/17ZY3VKV0WLVFQ3ITOKJHP
+[2025.02.17-15.37.47:643][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/17ZY3VKV0WLVFQ3ITOKJHP13CF25BD4EC6A2AEEA8D62901DC6A5D2.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/B/0P/17ZY3VKV0WLVFQ3ITOKJHP.uasset'
+[2025.02.17-15.37.47:644][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/BO/UJDH7Y17SXIZV2USVFHSAH
+[2025.02.17-15.37.47:644][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/UJDH7Y17SXIZV2USVFHSAH9DB709A3495039CAC319839D97690656.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/BO/UJDH7Y17SXIZV2USVFHSAH.uasset'
+[2025.02.17-15.37.47:645][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/6/L1/OEPU1UEE8KH19ZOJRYNJ9I
+[2025.02.17-15.37.47:645][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/OEPU1UEE8KH19ZOJRYNJ9I1CA14EEF41B5A0C29F2AF188D920FD9C.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/6/L1/OEPU1UEE8KH19ZOJRYNJ9I.uasset'
+[2025.02.17-15.37.47:646][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/B/RP/O3MEHZPP2GW3QYQ4HD87AS
+[2025.02.17-15.37.47:647][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/O3MEHZPP2GW3QYQ4HD87ASB5673DFD44535241C533EA824CD01FC8.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/B/RP/O3MEHZPP2GW3QYQ4HD87AS.uasset'
+[2025.02.17-15.37.47:649][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/0/YI/T3OCUBRKDMT72Q6EE6DUCG
+[2025.02.17-15.37.47:649][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/T3OCUBRKDMT72Q6EE6DUCG4A5520A04AF19F7B82CEABADEFA0C1C3.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/0/YI/T3OCUBRKDMT72Q6EE6DUCG.uasset'
+[2025.02.17-15.37.47:650][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/T4/EAKGHVAXGHU7NVNQE4VT99
+[2025.02.17-15.37.47:650][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/EAKGHVAXGHU7NVNQE4VT997439EF0848164A1BC61A59A9D7B48DB6.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/T4/EAKGHVAXGHU7NVNQE4VT99.uasset'
+[2025.02.17-15.37.47:651][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/6/NN/TLURZPVSIGW04Q2OOAR3IZ
+[2025.02.17-15.37.47:652][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/TLURZPVSIGW04Q2OOAR3IZ371476E548042F0C40F4748FF78831EC.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/6/NN/TLURZPVSIGW04Q2OOAR3IZ.uasset'
+[2025.02.17-15.37.47:653][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/B/HS/1X05PEZPG7WT7MO7H5EAB9
+[2025.02.17-15.37.47:653][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/1X05PEZPG7WT7MO7H5EAB9FF6D14D142C70A31DCE2B0A3A97A0F88.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/B/HS/1X05PEZPG7WT7MO7H5EAB9.uasset'
+[2025.02.17-15.37.47:654][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/FP/9E475IBUVFNE02ISIW6K4D
+[2025.02.17-15.37.47:654][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/9E475IBUVFNE02ISIW6K4D5DAEF1C54F5BD738B64B7592F356DE04.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/FP/9E475IBUVFNE02ISIW6K4D.uasset'
+[2025.02.17-15.37.47:655][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/IN/B9IJO0UEZ4RN5Q0P4E21GE
+[2025.02.17-15.37.47:656][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/B9IJO0UEZ4RN5Q0P4E21GEC79DC4C34CFDC1E2425557A008DB93AB.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/IN/B9IJO0UEZ4RN5Q0P4E21GE.uasset'
+[2025.02.17-15.37.47:657][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/6/AY/T6YYUBLGYIA3LSLTK0ORL3
+[2025.02.17-15.37.47:657][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/T6YYUBLGYIA3LSLTK0ORL32B4D24BE4F0E332D552F869426897EE0.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/6/AY/T6YYUBLGYIA3LSLTK0ORL3.uasset'
+[2025.02.17-15.37.47:658][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/8/NM/ZTMOOKR66CNJ7EQGQZTRCV
+[2025.02.17-15.37.47:658][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/ZTMOOKR66CNJ7EQGQZTRCV218D6CCA4F7F07DE06E33CBA029EB907.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/8/NM/ZTMOOKR66CNJ7EQGQZTRCV.uasset'
+[2025.02.17-15.37.47:660][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/A/C0/7E39LIQD03QD0O4AB6DI99
+[2025.02.17-15.37.47:660][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/7E39LIQD03QD0O4AB6DI99E22A7F894796D6C308E7C2A6F2A7FD7A.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/A/C0/7E39LIQD03QD0O4AB6DI99.uasset'
+[2025.02.17-15.37.47:661][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/A/YN/XQFP29ZACB9DILTYXZ06S4
+[2025.02.17-15.37.47:661][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/XQFP29ZACB9DILTYXZ06S46E5F84C6426C8B32CFA9E0ADE30EBF3F.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/A/YN/XQFP29ZACB9DILTYXZ06S4.uasset'
+[2025.02.17-15.37.47:663][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/B/YI/4HLMWWKMJINQ9HSC4KPBTO
+[2025.02.17-15.37.47:663][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/4HLMWWKMJINQ9HSC4KPBTO747FD10D4E1C679464D5E598CC8EC5F8.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/B/YI/4HLMWWKMJINQ9HSC4KPBTO.uasset'
+[2025.02.17-15.37.47:664][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/C/NW/P3B322BWC9DG8LZV95M1VC
+[2025.02.17-15.37.47:665][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/P3B322BWC9DG8LZV95M1VC7A4C62604E52587A765FB58F601F93B6.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/C/NW/P3B322BWC9DG8LZV95M1VC.uasset'
+[2025.02.17-15.37.47:666][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/C/RO/QF6PDYPVA5YZJTLDRHCSJ9
+[2025.02.17-15.37.47:666][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/QF6PDYPVA5YZJTLDRHCSJ9B6F71624433529FE4FA8E389650AF226.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/C/RO/QF6PDYPVA5YZJTLDRHCSJ9.uasset'
+[2025.02.17-15.37.47:667][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/F/0C/81IWJEPZ9N8FRUG1LBOGIS
+[2025.02.17-15.37.47:667][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/81IWJEPZ9N8FRUG1LBOGISF98D23C24E425E2AB34D6BB09C219913.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/F/0C/81IWJEPZ9N8FRUG1LBOGIS.uasset'
+[2025.02.17-15.37.47:669][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/0/BL/5U6OIO0E85HZARFYN14V8F
+[2025.02.17-15.37.47:669][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/5U6OIO0E85HZARFYN14V8F3C43BA4A43841A999ABE569582678796.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/0/BL/5U6OIO0E85HZARFYN14V8F.uasset'
+[2025.02.17-15.37.47:670][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/4/48/XE54PMLXFM6NU71MMRN1JE
+[2025.02.17-15.37.47:670][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/XE54PMLXFM6NU71MMRN1JE535CFE1748279496D0D6CE8FFB183E84.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/4/48/XE54PMLXFM6NU71MMRN1JE.uasset'
+[2025.02.17-15.37.47:672][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/4/W2/33O6QXOQ2QWFUW7S5U96H1
+[2025.02.17-15.37.47:672][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/33O6QXOQ2QWFUW7S5U96H1959B68CA4170676DA789FD92B84B7951.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/4/W2/33O6QXOQ2QWFUW7S5U96H1.uasset'
+[2025.02.17-15.37.47:673][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/8S/WM8YJ40WYEVNTVGBZYOWXV
+[2025.02.17-15.37.47:673][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/WM8YJ40WYEVNTVGBZYOWXV7C3854504FD8AA3A200E22ABCF16A435.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/8S/WM8YJ40WYEVNTVGBZYOWXV.uasset'
+[2025.02.17-15.37.47:674][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/J1/NZL4561IBMSM8M6VTIE0JK
+[2025.02.17-15.37.47:675][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/NZL4561IBMSM8M6VTIE0JKC09BF855452508FF822C7FADA68A388F.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/J1/NZL4561IBMSM8M6VTIE0JK.uasset'
+[2025.02.17-15.37.47:676][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/6/XG/RPW5UP8BJUFLUKZTZ2MJ3O
+[2025.02.17-15.37.47:676][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/RPW5UP8BJUFLUKZTZ2MJ3O26782CCE41D0AD7BE371F3A20480E820.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/6/XG/RPW5UP8BJUFLUKZTZ2MJ3O.uasset'
+[2025.02.17-15.37.47:677][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/7/8Z/OSE960S3KDDJ98TN2PXNTS
+[2025.02.17-15.37.47:677][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/OSE960S3KDDJ98TN2PXNTSBBFDEA294B31BFAC9B5BEE9A4F7F51F8.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/7/8Z/OSE960S3KDDJ98TN2PXNTS.uasset'
+[2025.02.17-15.37.47:678][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/7/A5/8AVQQFLTM3RHN6IL8IA1Q3
+[2025.02.17-15.37.47:679][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/8AVQQFLTM3RHN6IL8IA1Q343F9B5F44DA2B561BDCBB4A99DC265C6.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/7/A5/8AVQQFLTM3RHN6IL8IA1Q3.uasset'
+[2025.02.17-15.37.47:680][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/7/OD/XDISOTQDG537O7QMQ17AC7
+[2025.02.17-15.37.47:680][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/XDISOTQDG537O7QMQ17AC794E7EB61487C83150FDF789077EC7B8B.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/7/OD/XDISOTQDG537O7QMQ17AC7.uasset'
+[2025.02.17-15.37.47:681][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/B/FD/R2EFEKA76OCNSI7QFFMEXT
+[2025.02.17-15.37.47:682][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/R2EFEKA76OCNSI7QFFMEXTD00C2CD04D3B8E9E204B0E9155A8E942.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/B/FD/R2EFEKA76OCNSI7QFFMEXT.uasset'
+[2025.02.17-15.37.47:683][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/D/14/EPMQ8NCP29IYB8NA0SOJ48
+[2025.02.17-15.37.47:683][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/EPMQ8NCP29IYB8NA0SOJ48A2F6920B41FCF044667750BC7BD8BE2F.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/D/14/EPMQ8NCP29IYB8NA0SOJ48.uasset'
+[2025.02.17-15.37.47:685][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/D/1G/KH0DUZD8H345PRUP02DCXL
+[2025.02.17-15.37.47:685][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/KH0DUZD8H345PRUP02DCXL7B23F03141FB6A168704D98ABE6E48F1.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/D/1G/KH0DUZD8H345PRUP02DCXL.uasset'
+[2025.02.17-15.37.47:686][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/F/0I/U2HHG5SRYMUP7DQIOBVEX7
+[2025.02.17-15.37.47:686][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/U2HHG5SRYMUP7DQIOBVEX745DDC88B4FDCC6ECE52A37A5DF4CF930.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/F/0I/U2HHG5SRYMUP7DQIOBVEX7.uasset'
+[2025.02.17-15.37.47:688][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/EY/ZKICXVQCGRG2K7D430FSNJ
+[2025.02.17-15.37.47:688][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/ZKICXVQCGRG2K7D430FSNJ3AC5BB984D959F4F4DB24E897B4B16B1.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/EY/ZKICXVQCGRG2K7D430FSNJ.uasset'
+[2025.02.17-15.37.47:689][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/6/J3/CEJHKVV2S8FNGSUJO1P2LG
+[2025.02.17-15.37.47:690][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/CEJHKVV2S8FNGSUJO1P2LG1B0AF6FF487038B4D9F158AA7B6F2133.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/6/J3/CEJHKVV2S8FNGSUJO1P2LG.uasset'
+[2025.02.17-15.37.47:690][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/2/ZO/WWWLLGF2KZ86STC0R4Z3SY
+[2025.02.17-15.37.47:690][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/WWWLLGF2KZ86STC0R4Z3SY7291EA6848040CE5EE33E0BEE7E15B26.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/2/ZO/WWWLLGF2KZ86STC0R4Z3SY.uasset'
+[2025.02.17-15.37.47:692][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/2E/9S74O3BURB8C64VQISV8HJ
+[2025.02.17-15.37.47:693][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/9S74O3BURB8C64VQISV8HJEB9F82584D5910604F1ECFB21E15FE6A.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/2E/9S74O3BURB8C64VQISV8HJ.uasset'
+[2025.02.17-15.37.47:694][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/A/73/9X1GOEF5Q69CZIXW79VTPO
+[2025.02.17-15.37.47:694][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/9X1GOEF5Q69CZIXW79VTPO3A6A7B0B4FF853648EC8DFB1D28F0219.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/A/73/9X1GOEF5Q69CZIXW79VTPO.uasset'
+[2025.02.17-15.37.47:695][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/4/IM/DAWTFLG7X9ZJIDX7WJK0L1
+[2025.02.17-15.37.47:695][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/DAWTFLG7X9ZJIDX7WJK0L17EBC09984CCAD00C24B4EDB81000B85B.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/4/IM/DAWTFLG7X9ZJIDX7WJK0L1.uasset'
+[2025.02.17-15.37.47:696][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/7/PB/OHU8NS3GAJYWDQQECNJ6NW
+[2025.02.17-15.37.47:696][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/OHU8NS3GAJYWDQQECNJ6NW3DECAE75463A4E3B45D5C59619E7B19F.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/7/PB/OHU8NS3GAJYWDQQECNJ6NW.uasset'
+[2025.02.17-15.37.47:697][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/7/7G/6C3CB8APH408OVR6LB7ZFG
+[2025.02.17-15.37.47:698][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/6C3CB8APH408OVR6LB7ZFG78404E6946166A2159E68BA54D889DD9.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalActors__/Challenge/7/7G/6C3CB8APH408OVR6LB7ZFG.uasset'
+[2025.02.17-15.37.47:698][794]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Challenge/C/IK/NPOMBFTPBFZFFOQ4L1BO47] ([1] browsable assets)...
+[2025.02.17-15.37.47:698][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Challenge/C/IK/NPOMBFTPBFZFFOQ4L1BO47]
+[2025.02.17-15.37.47:699][794]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Challenge/C/IK/NPOMBFTPBFZFFOQ4L1BO47
+[2025.02.17-15.37.47:699][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/NPOMBFTPBFZFFOQ4L1BO470603AD704B576CF74FCB778A59A540D5.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalObjects__/Challenge/C/IK/NPOMBFTPBFZFFOQ4L1BO47.uasset'
+[2025.02.17-15.37.47:699][794]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Challenge/1/1Q/3LPWDRDBNDVO5XG646QVEG] ([1] browsable assets)...
+[2025.02.17-15.37.47:699][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Challenge/1/1Q/3LPWDRDBNDVO5XG646QVEG]
+[2025.02.17-15.37.47:700][794]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Challenge/1/1Q/3LPWDRDBNDVO5XG646QVEG
+[2025.02.17-15.37.47:700][794]LogSavePackage: Moving 'D:/Sristy/Challenge/MyProject/Saved/3LPWDRDBNDVO5XG646QVEGDB2B95B8439ED6280B56FC8DAD6E2A36.tmp' to 'D:/Sristy/Challenge/MyProject/Content/__ExternalObjects__/Challenge/1/1Q/3LPWDRDBNDVO5XG646QVEG.uasset'
+[2025.02.17-15.37.47:745][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.721 ms (total: 865.519 ms)
+[2025.02.17-15.37.47:810][794]LogContentValidation: Display: Starting to validate 44 assets
+[2025.02.17-15.37.47:810][794]LogContentValidation: Enabled validators:
+[2025.02.17-15.37.47:810][794]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.17-15.37.47:810][794]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.17-15.37.47:810][794]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.17-15.37.47:810][794]LogContentValidation: Display: Validating asset /Game/Challenge.Challenge
+[2025.02.17-15.37.47:810][794]AssetCheck: /Game/Challenge Validating asset
+[2025.02.17-15.37.48:879][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.02.17-15.37.48:891][911]LogStall: Shutdown...
+[2025.02.17-15.37.48:897][911]LogStall: Shutdown complete.
+[2025.02.17-15.37.48:911][911]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2025.02.17-15.37.48:955][911]Cmd: QUIT_EDITOR
+[2025.02.17-15.37.48:955][912]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.02.17-15.37.48:956][912]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.02.17-15.37.48:956][912]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.02.17-15.37.48:956][912]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.02.17-15.37.48:958][912]LogWorld: UWorld::CleanupWorld for Challenge, bSessionEnded=true, bCleanupResources=true
+[2025.02.17-15.37.48:958][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.17-15.37.48:958][912]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Challenge.Challenge
+[2025.02.17-15.37.48:958][912]LogContentBundle: [Challenge(Standalone)] Deleting container.
+[2025.02.17-15.37.48:959][912]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.02.17-15.37.48:959][912]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.02.17-15.37.48:963][912]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.02.17-15.37.48:966][912]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.02.17-15.37.48:966][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.17-15.37.48:966][912]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.02.17-15.37.48:966][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.17-15.37.49:286][912]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.02.17-15.37.49:291][912]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.02.17-15.37.49:291][912]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.02.17-15.37.49:291][912]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.02.17-15.37.49:977][912]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.02.17-15.37.49:977][912]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.02.17-15.37.49:977][912]LogAudio: Display: Audio Device unregistered from world 'Challenge'.
+[2025.02.17-15.37.49:977][912]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.02.17-15.37.49:977][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.02.17-15.37.49:978][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.02.17-15.37.49:981][912]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.02.17-15.37.49:981][912]LogAudio: Display: Audio Device Manager Shutdown
+[2025.02.17-15.37.49:981][912]LogWindowsTextInputMethodSystem: Activated input method: Spanish (Spain, International Sort) - (Keyboard).
+[2025.02.17-15.37.49:985][912]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.02.17-15.37.49:985][912]LogExit: Preparing to exit.
+[2025.02.17-15.37.49:996][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.02.17-15.37.50:674][912]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.02.17-15.37.50:689][912]LogExit: Editor shut down
+[2025.02.17-15.37.50:691][912]LogExit: Transaction tracking system shut down
+[2025.02.17-15.37.50:750][912]LogExit: Object subsystem successfully closed.
+[2025.02.17-15.37.50:769][912]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.02.17-15.37.50:927][912]MemoryProfiler: Shutdown
+[2025.02.17-15.37.50:928][912]NetworkingProfiler: Shutdown
+[2025.02.17-15.37.50:928][912]LoadingProfiler: Shutdown
+[2025.02.17-15.37.50:928][912]TimingProfiler: Shutdown
+[2025.02.17-15.37.50:944][912]LogOpenImageDenoise: OIDN shutting down
+[2025.02.17-15.37.51:181][912]RenderDocPlugin: plugin has been unloaded.
+[2025.02.17-15.37.51:181][912]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.02.17-15.37.51:185][912]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.02.17-15.37.51:185][912]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B97B13A4A-4680-71F8-7429-7A875710E472%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=adc3aedb4f507ac03902689f8f44605d%7C056b2a94c81244538509ed56aec33027%7C38abf257-8459-44f2-bd3d-7683af6bfa73&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.02.17-15.37.51:225][912]LogPakFile: Destroying PakPlatformFile
+[2025.02.17-15.37.51:351][912]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.02.17-15.37.51:378][912]LogExit: Exiting.
+[2025.02.17-15.37.51:433][912]Log file closed, 02/17/25 16:37:51
