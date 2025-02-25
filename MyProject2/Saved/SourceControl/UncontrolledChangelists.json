@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Sristy/Challenge/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Sristy/Challenge/MyProject2/Content/_GENERATED/Alumno/Box_A75F7936.uasset"
+			]
+		}
+	]
+}
