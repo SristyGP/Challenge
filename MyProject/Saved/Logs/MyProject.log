@@ -2275,3 +2275,792 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.03.22-18.43.08:276][812]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
 [2025.03.22-18.43.08:276][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.03.22-18.43.08:288][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.22-18.44.21:511][628]Cmd: DELETE
+[2025.03.22-18.44.21:511][628]Cmd: ACTOR DELETE
+[2025.03.22-18.44.21:513][628]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.22-18.44.21:519][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.22-18.44.21:520][628]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2025.03.22-18.44.28:773][482]Cmd: EDIT COPY
+[2025.03.22-18.44.28:999][509]Cmd: EDIT PASTE
+[2025.03.22-18.44.59:307][ 34]Cmd: PIVOT HERE
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: ================================================
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: Total job queries 670, among them cache hits 459 (68.51%), DDC hits 185 (27.61%), Duplicates 5 (0.75%)
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: Tracking 206 distinct input hashes that result in 184 distinct outputs (89.32%)
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: RAM used: 5,97 MiB of 1,60 GiB budget. Usage: 0.36%
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: Shaders Compiled: 21
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: Jobs assigned 21, completed 21 (100%)
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: Average time worker was idle: 126.51 s
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: Job execution time: average 0.73 s, max 2.45 s
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: Job life time (pending + execution): average 0.80 s, max 2.54
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: Shader code size: average 35,276 KiB, min 27,672 KiB, max 54,199 KiB
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.25 s
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.07%
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: Jobs were issued in 21 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: Average processing rate: 2.05 jobs/sec
+[2025.03.22-18.45.25:123][ 24]LogShaderCompilers: Display: Total thread time: 7,035 s
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display: Total thread preprocess time: 7,104 s
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display: Percentage time preprocessing: 100.98%
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display: Effective parallelization: 0.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 51.63% of total time (compiled   12 times, average 0.30 sec, max 0.34 sec, min 0.27 sec)
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.35% of total time (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.58% of total time (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.40% of total time (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.24% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display: === Material stats ===
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display: Materials Translated:    215
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display: Material Translation Only: 0.04 s (39%)
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display: Material Cache Hits: 25 (12%)
+[2025.03.22-18.45.25:124][ 24]LogShaderCompilers: Display: ================================================
+[2025.03.22-18.46.41:897][983]LogSlate: Window 'Añadir contenido al proyecto' being destroyed
+[2025.03.22-18.47.00:443][982]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.4/FeaturePacks/TP_ThirdPersonBP.upack)
+[2025.03.22-18.47.00:451][982]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2025.03.22-18.47.00:455][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+[2025.03.22-18.47.00:459][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+[2025.03.22-18.47.00:462][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/IMC_Default.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/ThirdPerson/Input/IMC_Default.uasset"
+[2025.03.22-18.47.00:465][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap.umap" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+[2025.03.22-18.47.00:476][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset"
+[2025.03.22-18.47.00:480][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Jump.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/ThirdPerson/Input/Actions/IA_Jump.uasset"
+[2025.03.22-18.47.00:483][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Look.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/ThirdPerson/Input/Actions/IA_Look.uasset"
+[2025.03.22-18.47.00:485][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Move.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/ThirdPerson/Input/Actions/IA_Move.uasset"
+[2025.03.22-18.47.00:487][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset"
+[2025.03.22-18.47.00:489][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset"
+[2025.03.22-18.47.00:491][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset"
+[2025.03.22-18.47.00:494][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset"
+[2025.03.22-18.47.00:496][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset"
+[2025.03.22-18.47.00:498][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset"
+[2025.03.22-18.47.00:500][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset"
+[2025.03.22-18.47.00:503][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset"
+[2025.03.22-18.47.00:505][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset"
+[2025.03.22-18.47.00:507][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset"
+[2025.03.22-18.47.00:509][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset"
+[2025.03.22-18.47.00:511][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset"
+[2025.03.22-18.47.00:514][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+[2025.03.22-18.47.00:515][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset"
+[2025.03.22-18.47.00:517][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset"
+[2025.03.22-18.47.00:520][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset"
+[2025.03.22-18.47.00:521][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
+[2025.03.22-18.47.00:524][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset"
+[2025.03.22-18.47.00:526][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset"
+[2025.03.22-18.47.00:529][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset"
+[2025.03.22-18.47.00:531][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset"
+[2025.03.22-18.47.00:533][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset"
+[2025.03.22-18.47.00:535][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset"
+[2025.03.22-18.47.00:537][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset"
+[2025.03.22-18.47.00:539][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset"
+[2025.03.22-18.47.00:542][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset"
+[2025.03.22-18.47.00:544][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset"
+[2025.03.22-18.47.00:546][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset"
+[2025.03.22-18.47.00:548][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset"
+[2025.03.22-18.47.00:550][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset"
+[2025.03.22-18.47.00:552][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset"
+[2025.03.22-18.47.00:554][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset"
+[2025.03.22-18.47.00:556][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset"
+[2025.03.22-18.47.00:558][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
+[2025.03.22-18.47.00:560][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset"
+[2025.03.22-18.47.00:563][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset"
+[2025.03.22-18.47.00:565][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset"
+[2025.03.22-18.47.00:568][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset"
+[2025.03.22-18.47.00:570][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset"
+[2025.03.22-18.47.00:573][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset"
+[2025.03.22-18.47.00:574][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset"
+[2025.03.22-18.47.00:576][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset"
+[2025.03.22-18.47.00:579][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset"
+[2025.03.22-18.47.00:581][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset"
+[2025.03.22-18.47.00:584][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset"
+[2025.03.22-18.47.00:586][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+[2025.03.22-18.47.00:587][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset" to "../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset"
+[2025.03.22-18.47.00:907][982]LogTexture: Display: Creación de texturas: /Game/Characters/Mannequins/Materials/Functions/CA_Mannequin.CA_Mannequin (RGBA16F, 64X64 X1X1X1) (Memoria requerida aproximada: 0.218742 MB), EncodeSpeed: Fast
+[2025.03.22-18.47.00:999][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.22-18.47.01:049][982]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.03.22-18.47.01:181][982]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2025.03.22-18.47.01:199][982]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.03.22-18.47.01:200][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.03.22-18.47.01:218][982]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.03.22-18.47.01:219][982]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/BP_ThirdPersonCharacter5A1086CE4D5CB5ABBE6406924B861E3B.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.03.22-18.47.01:231][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 230.841 ms (total: 964.265 ms)
+[2025.03.22-18.47.01:413][982]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.22-18.47.01:413][982]LogContentValidation: Enabled validators:
+[2025.03.22-18.47.01:413][982]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.22-18.47.01:413][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.22-18.47.01:413][982]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.22-18.47.01:413][982]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.03.22-18.47.01:413][982]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando recurso
+[2025.03.22-18.47.04:085][176]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2025.03.22-18.47.04:085][176]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2025.03.22-18.47.04:093][176]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Challenge.Challenge:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.03.22-18.47.04:095][176]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Challenge.Challenge:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.03.22-18.47.05:053][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.22-18.47.05:071][265]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.03.22-18.47.05:076][265]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2025.03.22-18.47.05:077][265]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2025.03.22-18.47.05:082][265]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Challenge.Challenge:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_C87F5471BDE5AB5702_1622707483
+[2025.03.22-18.47.05:084][265]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Challenge.Challenge:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_C87F5471BDE5AB5702_1622707483
+[2025.03.22-18.47.08:452][441]LogSlate: Window 'Añadir contenido al proyecto' being destroyed
+[2025.03.22-18.47.20:434][321]Cmd: DELETE
+[2025.03.22-18.47.20:434][321]Cmd: ACTOR DELETE
+[2025.03.22-18.47.20:437][321]LogEditorActor: Deleted Actor: BP_ThirdPersonCharacter_C
+[2025.03.22-18.47.20:454][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.22-18.47.20:457][321]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.03.22-18.47.34:187][901]LogEditorViewport: Clicking Background
+[2025.03.22-18.48.09:165][954]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Challenge.Challenge:PersistentLevel.StaticMeshActor_UAID_C87F5471BDE5DC4F02_1898919649.StaticMeshComponent0.
+[2025.03.22-18.48.09:165][954]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Challenge.Challenge:PersistentLevel.StaticMeshActor_UAID_C87F5471BDE5935402_1393991121.StaticMeshComponent0.
+[2025.03.22-18.48.16:342][801]Cmd: TRANSACTION UNDO
+[2025.03.22-18.48.16:342][801]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.03.22-18.48.16:863][810]Cmd: TRANSACTION UNDO
+[2025.03.22-18.48.16:863][810]LogEditorTransaction: Undo Escalar elementos
+[2025.03.22-18.48.17:384][855]Cmd: TRANSACTION UNDO
+[2025.03.22-18.48.17:384][855]LogEditorTransaction: Undo Haciendo clic en actores
+[2025.03.22-18.48.17:899][911]Cmd: TRANSACTION UNDO
+[2025.03.22-18.48.17:899][911]LogEditorTransaction: Undo Haciendo clic en actores
+[2025.03.22-18.48.18:514][980]Cmd: TRANSACTION UNDO
+[2025.03.22-18.48.18:514][980]LogEditorTransaction: Undo Haciendo clic en actores
+[2025.03.22-18.48.19:955][144]LogEditorViewport: Clicking Background
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: ================================================
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Total job queries 690, among them cache hits 461 (66.81%), DDC hits 185 (26.81%), Duplicates 5 (0.72%)
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Tracking 224 distinct input hashes that result in 195 distinct outputs (87.05%)
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: RAM used: 6,29 MiB of 1,60 GiB budget. Usage: 0.38%
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Shaders Compiled: 39
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Jobs assigned 39, completed 39 (100%)
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Average time worker was idle: 445.03 s
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Job execution time: average 0.73 s, max 2.45 s
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Job life time (pending + execution): average 0.79 s, max 2.54
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Shader code size: average 34,985 KiB, min 27,672 KiB, max 54,199 KiB
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.75 s
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.07%
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Jobs were issued in 39 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Average processing rate: 3.06 jobs/sec
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Total thread time: 13,832 s
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Total thread preprocess time: 7,302 s
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Percentage time preprocessing: 52.79%
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Effective parallelization: 1.08 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 44.99% of total time (compiled   17 times, average 0.37 sec, max 0.60 sec, min 0.27 sec)
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display:                                                FAnisotropyPS - 9.41% of total time (compiled    4 times, average 0.33 sec, max 0.39 sec, min 0.25 sec)
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.93% of total time (compiled    4 times, average 0.31 sec, max 0.33 sec, min 0.28 sec)
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.72% of total time (compiled    4 times, average 0.23 sec, max 0.27 sec, min 0.18 sec)
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display:                                                FAnisotropyVS - 4.99% of total time (compiled    4 times, average 0.17 sec, max 0.20 sec, min 0.14 sec)
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: === Material stats ===
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Materials Translated:    217
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Material Translation Only: 0.04 s (40%)
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: Material Cache Hits: 25 (12%)
+[2025.03.22-18.48.25:125][759]LogShaderCompilers: Display: ================================================
+[2025.03.22-18.48.36:385][  4]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2025.03.22-18.48.36:385][  4]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2025.03.22-18.48.36:386][  4]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/Challenge.Challenge:PersistentLevel.SkeletalMeshActor_0
+[2025.03.22-18.48.36:388][  4]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/Challenge.Challenge:PersistentLevel.SkeletalMeshActor_0
+[2025.03.22-18.48.37:494][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.03.22-18.48.37:496][135]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2025.03.22-18.48.37:504][135]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2025.03.22-18.48.37:504][135]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2025.03.22-18.48.37:506][135]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/Challenge.Challenge:PersistentLevel.SkeletalMeshActor_UAID_C87F5471BDE5AB5702_1715134484
+[2025.03.22-18.48.37:507][135]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/Challenge.Challenge:PersistentLevel.SkeletalMeshActor_UAID_C87F5471BDE5AB5702_1715134484
+[2025.03.22-18.48.41:204][567]Cmd: TRANSACTION UNDO
+[2025.03.22-18.48.41:204][567]LogEditorTransaction: Undo Escalar elementos
+[2025.03.22-18.48.43:921][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.22-18.48.43:997][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.22-18.48.44:005][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.22-18.48.44:009][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.22-18.48.44:029][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/9/KY/NNXXF333VNCSLKFIFAN38P
+[2025.03.22-18.48.44:029][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/NNXXF333VNCSLKFIFAN38PF94912CE4257FBA7D559A5B49C860A27.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/9/KY/NNXXF333VNCSLKFIFAN38P.uasset'
+[2025.03.22-18.48.44:040][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/7/9O/VF2ID873L5USONGSLY4HIA
+[2025.03.22-18.48.44:040][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/VF2ID873L5USONGSLY4HIA714DA69040315EF20249FBA1F794A683.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/7/9O/VF2ID873L5USONGSLY4HIA.uasset'
+[2025.03.22-18.48.44:042][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/8/IV/Q5QQABSCLZUKKYR48JNBML
+[2025.03.22-18.48.44:042][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Q5QQABSCLZUKKYR48JNBML8B67486D42C598F5F99D33B8A06E431E.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/8/IV/Q5QQABSCLZUKKYR48JNBML.uasset'
+[2025.03.22-18.48.44:051][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/A/XX/N2PLE2PFI83A5VMWWK8MNO
+[2025.03.22-18.48.44:051][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/N2PLE2PFI83A5VMWWK8MNO597520574CEE070BDEF04999376B32F9.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/A/XX/N2PLE2PFI83A5VMWWK8MNO.uasset'
+[2025.03.22-18.48.44:054][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/2/NE/COA8S3UG0CTKJ7LLNB7SD7
+[2025.03.22-18.48.44:054][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/COA8S3UG0CTKJ7LLNB7SD7EB6A56A349785BCBF2564F953CC61723.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/2/NE/COA8S3UG0CTKJ7LLNB7SD7.uasset'
+[2025.03.22-18.48.44:064][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/6/03/LL22Q5BMK2WJ1JESVQLQKP
+[2025.03.22-18.48.44:064][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/LL22Q5BMK2WJ1JESVQLQKPE54ADD5E4C85A8B33B1BB796D7055AA4.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/6/03/LL22Q5BMK2WJ1JESVQLQKP.uasset'
+[2025.03.22-18.48.44:079][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/3/TP/4ZCFXZEAXT19X8HWWDWBLB
+[2025.03.22-18.48.44:079][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/4ZCFXZEAXT19X8HWWDWBLB377C150B4B20F047574647BF92F7EA6E.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/3/TP/4ZCFXZEAXT19X8HWWDWBLB.uasset'
+[2025.03.22-18.48.44:088][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/TO/45LYN411T4FT7H7ADRMT6E
+[2025.03.22-18.48.44:088][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/45LYN411T4FT7H7ADRMT6E7218C00F4A81712480BE51B025827E25.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/TO/45LYN411T4FT7H7ADRMT6E.uasset'
+[2025.03.22-18.48.44:090][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/0/U0/N9TY35ZV6660PGKEYXRH6D
+[2025.03.22-18.48.44:090][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/N9TY35ZV6660PGKEYXRH6DB81C655449437050D3D76E9F8880A49F.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/0/U0/N9TY35ZV6660PGKEYXRH6D.uasset'
+[2025.03.22-18.48.44:091][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/L0/YK7MEM083TGEITIKHYB7TJ
+[2025.03.22-18.48.44:091][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/YK7MEM083TGEITIKHYB7TJ50C2A0D443E3315DA6C1FE83491A601E.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/L0/YK7MEM083TGEITIKHYB7TJ.uasset'
+[2025.03.22-18.48.44:093][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/B/6P/L1CSPUQHN8BVIJVTEGO2WZ
+[2025.03.22-18.48.44:093][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/L1CSPUQHN8BVIJVTEGO2WZF95C49B54006BF60DFC037B57EDE7769.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/B/6P/L1CSPUQHN8BVIJVTEGO2WZ.uasset'
+[2025.03.22-18.48.44:102][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/8/P2/VX1SNSWGXLWUCD1E80UNVG
+[2025.03.22-18.48.44:102][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/VX1SNSWGXLWUCD1E80UNVG95301DFA4B55857029C211ABDD51A1E5.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/8/P2/VX1SNSWGXLWUCD1E80UNVG.uasset'
+[2025.03.22-18.48.44:116][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/E/CF/HP48H48ERV0LMU6G2I4I2W
+[2025.03.22-18.48.44:116][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/HP48H48ERV0LMU6G2I4I2W3B6848634B70B947325784B00E968EA4.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/E/CF/HP48H48ERV0LMU6G2I4I2W.uasset'
+[2025.03.22-18.48.44:118][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/0/6K/722O5MSQTLF4MHC85OGASC
+[2025.03.22-18.48.44:118][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/722O5MSQTLF4MHC85OGASCC0DAC02D4057DAFC36A9FA880769E539.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/0/6K/722O5MSQTLF4MHC85OGASC.uasset'
+[2025.03.22-18.48.44:119][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/NV/A62GAC9YNMYBAQ15X48I3Z
+[2025.03.22-18.48.44:119][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/A62GAC9YNMYBAQ15X48I3Z232A60CA421A826EF1759B81EAE5878F.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/NV/A62GAC9YNMYBAQ15X48I3Z.uasset'
+[2025.03.22-18.48.44:120][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/3/UG/L66YTSM4CT2ERPPXQ8OR7M
+[2025.03.22-18.48.44:120][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/L66YTSM4CT2ERPPXQ8OR7MDCA3D8304630AC1E334DEE99F77A3AB8.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/3/UG/L66YTSM4CT2ERPPXQ8OR7M.uasset'
+[2025.03.22-18.48.44:122][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/2P/Y6TZ9V6V3BCP3ET7CHX99A
+[2025.03.22-18.48.44:122][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Y6TZ9V6V3BCP3ET7CHX99A9A5F24864BA69729F1AB3E99ACF26BCF.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/2P/Y6TZ9V6V3BCP3ET7CHX99A.uasset'
+[2025.03.22-18.48.44:123][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/8/VW/67LGC30HWMH4F14O6CUE9G
+[2025.03.22-18.48.44:123][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/67LGC30HWMH4F14O6CUE9G2205AD7642156A5DDC27AF986EE90CA2.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/8/VW/67LGC30HWMH4F14O6CUE9G.uasset'
+[2025.03.22-18.48.44:124][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/9/T0/0J178P096FU5G2IRAWRXYX
+[2025.03.22-18.48.44:124][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/0J178P096FU5G2IRAWRXYX0EC0589A4963818D60149FA8B9DE2C1D.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/9/T0/0J178P096FU5G2IRAWRXYX.uasset'
+[2025.03.22-18.48.44:126][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/A/BT/8ICNCRWHL2J7MROED21UJ7
+[2025.03.22-18.48.44:126][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/8ICNCRWHL2J7MROED21UJ72C9E3A38432C7209C13A2AB93B71F34B.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/A/BT/8ICNCRWHL2J7MROED21UJ7.uasset'
+[2025.03.22-18.48.44:127][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/B/VC/V1WBKKQGMBSP4CCW2KIEZZ
+[2025.03.22-18.48.44:128][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/V1WBKKQGMBSP4CCW2KIEZZ88203C804FAA362DDE1311A640363264.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/B/VC/V1WBKKQGMBSP4CCW2KIEZZ.uasset'
+[2025.03.22-18.48.44:129][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/D/BU/RWNCQ0BUC9HBFQ3R70R3FX
+[2025.03.22-18.48.44:129][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/RWNCQ0BUC9HBFQ3R70R3FXCD46690A40D9A23E35731296FC2FED0B.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/D/BU/RWNCQ0BUC9HBFQ3R70R3FX.uasset'
+[2025.03.22-18.48.44:130][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/D/HP/IAN7NBO6J29I43UY17XD81
+[2025.03.22-18.48.44:130][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/IAN7NBO6J29I43UY17XD811193D2E64196B7BA1DCC0381BB1DE146.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/D/HP/IAN7NBO6J29I43UY17XD81.uasset'
+[2025.03.22-18.48.44:131][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/E/3W/D33UPBWDA1JE0L471IOXFL
+[2025.03.22-18.48.44:132][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/D33UPBWDA1JE0L471IOXFLCC150B8B4976F2A405DE5584E18093DE.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/E/3W/D33UPBWDA1JE0L471IOXFL.uasset'
+[2025.03.22-18.48.44:133][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/E/U3/MN6V2O2STSS2V18BA1AQXR
+[2025.03.22-18.48.44:133][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/MN6V2O2STSS2V18BA1AQXR3DC54CFD4663202395FEEFA466BCAC35.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/E/U3/MN6V2O2STSS2V18BA1AQXR.uasset'
+[2025.03.22-18.48.44:133][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/F/2F/QRPF57Q7NY4QGOA3Q36RNS
+[2025.03.22-18.48.44:134][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/QRPF57Q7NY4QGOA3Q36RNS0FCE593F4192C44DFF8D21A714E8D2D4.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/F/2F/QRPF57Q7NY4QGOA3Q36RNS.uasset'
+[2025.03.22-18.48.44:135][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/F/3A/ZCDIQENXAWKRPWKTKK5FA3
+[2025.03.22-18.48.44:135][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/ZCDIQENXAWKRPWKTKK5FA36EAE0FE64BF572A9008AA282E33CED55.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/F/3A/ZCDIQENXAWKRPWKTKK5FA3.uasset'
+[2025.03.22-18.48.44:136][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/E/CY/Q8SBZU00CYFU8SOC2KW9P4
+[2025.03.22-18.48.44:136][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Q8SBZU00CYFU8SOC2KW9P48F5505A8418C59040EC56D98652CAFA7.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/E/CY/Q8SBZU00CYFU8SOC2KW9P4.uasset'
+[2025.03.22-18.48.44:151][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/8/F2/5MNDYBQ6CNZ52PVFUIIKUV
+[2025.03.22-18.48.44:152][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/5MNDYBQ6CNZ52PVFUIIKUV525DB8474CC251EC68E320A17673ACE3.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/8/F2/5MNDYBQ6CNZ52PVFUIIKUV.uasset'
+[2025.03.22-18.48.44:153][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/2/NG/144CNQ4T4I46IU1ZMLF15P
+[2025.03.22-18.48.44:153][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/144CNQ4T4I46IU1ZMLF15PF7BDBD294DB06BA865D50AB722989E89.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/2/NG/144CNQ4T4I46IU1ZMLF15P.uasset'
+[2025.03.22-18.48.44:153][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/4/EP/Q84SOFU2THC3ZE61I6BL5O
+[2025.03.22-18.48.44:153][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Q84SOFU2THC3ZE61I6BL5O65A21BEA4830117C5E72ECB05D228961.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/4/EP/Q84SOFU2THC3ZE61I6BL5O.uasset'
+[2025.03.22-18.48.44:155][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/AC/3CYU7BRA1TSA3M6667FPOM
+[2025.03.22-18.48.44:156][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/3CYU7BRA1TSA3M6667FPOM58F416A648BFBE7307682F8E4CBEC650.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/AC/3CYU7BRA1TSA3M6667FPOM.uasset'
+[2025.03.22-18.48.44:157][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/K1/PMUFHS5QFLFM8RD0VTQGP2
+[2025.03.22-18.48.44:157][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/PMUFHS5QFLFM8RD0VTQGP2F11FE6564508D8ED2FF67E997C7BF3F6.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/K1/PMUFHS5QFLFM8RD0VTQGP2.uasset'
+[2025.03.22-18.48.44:170][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/4/53/P2OFGNNZFQ4O6H7L2UN430
+[2025.03.22-18.48.44:170][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/P2OFGNNZFQ4O6H7L2UN4307895EF0E4F81395A5C2DA48F3250E0C9.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/4/53/P2OFGNNZFQ4O6H7L2UN430.uasset'
+[2025.03.22-18.48.44:183][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/C/ML/J661G3UODAGM98A7UB7KPM
+[2025.03.22-18.48.44:184][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/J661G3UODAGM98A7UB7KPM94AA29864F93DFD9892A7D9DF1A7C496.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/C/ML/J661G3UODAGM98A7UB7KPM.uasset'
+[2025.03.22-18.48.44:185][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/0/01/RTFXMQKO3FR40F1AU63V1B
+[2025.03.22-18.48.44:185][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/RTFXMQKO3FR40F1AU63V1B7B24978E4F9F3F4C9671B0936C992C37.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/0/01/RTFXMQKO3FR40F1AU63V1B.uasset'
+[2025.03.22-18.48.44:186][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/0/1C/4VMQ9YI3DL6SL6IF5KEVY2
+[2025.03.22-18.48.44:186][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/4VMQ9YI3DL6SL6IF5KEVY2B37BBCAD4B4B0D13C6181185D1B7776D.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/0/1C/4VMQ9YI3DL6SL6IF5KEVY2.uasset'
+[2025.03.22-18.48.44:190][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/0/28/16UZ4EM3U21KQOAAVGRCV0
+[2025.03.22-18.48.44:191][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/16UZ4EM3U21KQOAAVGRCV0B697EEAE4020F10F19375FA3CB97989D.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/0/28/16UZ4EM3U21KQOAAVGRCV0.uasset'
+[2025.03.22-18.48.44:192][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/0/28/EAG4BUH3Q4FLBRYK2FCYPG
+[2025.03.22-18.48.44:192][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/EAG4BUH3Q4FLBRYK2FCYPGF84D159F4DE7A328D93A8A995A39BB48.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/0/28/EAG4BUH3Q4FLBRYK2FCYPG.uasset'
+[2025.03.22-18.48.44:193][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/0/3P/PJ24H6QGZYVNH7KQO0J67J
+[2025.03.22-18.48.44:193][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/PJ24H6QGZYVNH7KQO0J67JE4BE9AFC4CE70D93DBFA949EFB006AA7.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/0/3P/PJ24H6QGZYVNH7KQO0J67J.uasset'
+[2025.03.22-18.48.44:194][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/0/G2/JVPH3ANYC0XG1WCQBMK6C1
+[2025.03.22-18.48.44:194][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/JVPH3ANYC0XG1WCQBMK6C145562E8942F9CF1E737ED69A533C5BC3.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/0/G2/JVPH3ANYC0XG1WCQBMK6C1.uasset'
+[2025.03.22-18.48.44:195][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/0/HJ/JCOVCZKO5T6LIY5CDPP9XA
+[2025.03.22-18.48.44:196][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/JCOVCZKO5T6LIY5CDPP9XAF76AA9C743A699836D94D090A0E9DBA4.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/0/HJ/JCOVCZKO5T6LIY5CDPP9XA.uasset'
+[2025.03.22-18.48.44:197][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/42/EDDMML83XJUXESEXIILRPC
+[2025.03.22-18.48.44:197][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/EDDMML83XJUXESEXIILRPCA5491E6C4684652704F42A8478F43FBB.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/42/EDDMML83XJUXESEXIILRPC.uasset'
+[2025.03.22-18.48.44:198][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/FG/MIR3UCTIBP65SON66XPS70
+[2025.03.22-18.48.44:198][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/MIR3UCTIBP65SON66XPS708D3134BA49EF9D80F541F09BD53AD13F.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/FG/MIR3UCTIBP65SON66XPS70.uasset'
+[2025.03.22-18.48.44:199][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/GG/4BGG7GVO13AFQIFHD0JWJU
+[2025.03.22-18.48.44:199][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/4BGG7GVO13AFQIFHD0JWJU3EE0CAF6427E1C73C9E1CDB7C4C35103.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/GG/4BGG7GVO13AFQIFHD0JWJU.uasset'
+[2025.03.22-18.48.44:200][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/GY/R813FJMK1E5M2HOJL31OBG
+[2025.03.22-18.48.44:201][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/R813FJMK1E5M2HOJL31OBG963108964C778F3F1CBC1A98840DDB97.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/GY/R813FJMK1E5M2HOJL31OBG.uasset'
+[2025.03.22-18.48.44:202][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/LO/V1RQDDF199IIBV3YK8PVPM
+[2025.03.22-18.48.44:202][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/V1RQDDF199IIBV3YK8PVPMB6A0F9D0479657CBC0AECD879FCC2FB3.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/LO/V1RQDDF199IIBV3YK8PVPM.uasset'
+[2025.03.22-18.48.44:203][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/WS/DU97C612CRNHFQ8BYWLVRM
+[2025.03.22-18.48.44:204][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/DU97C612CRNHFQ8BYWLVRMA54B456B425558FCF6BF408C65B1B119.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/WS/DU97C612CRNHFQ8BYWLVRM.uasset'
+[2025.03.22-18.48.44:205][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/3/0K/LJBJHP6S9UBYG9ODPUGXZY
+[2025.03.22-18.48.44:205][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/LJBJHP6S9UBYG9ODPUGXZY5EFF08CE4785D58030EC879ED090AB45.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/3/0K/LJBJHP6S9UBYG9ODPUGXZY.uasset'
+[2025.03.22-18.48.44:206][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/3/16/GJCAHF8OVQDAWU7PZHMTBD
+[2025.03.22-18.48.44:206][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/GJCAHF8OVQDAWU7PZHMTBD30F2DE6F448C2A9FEF76B58996EE94B0.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/3/16/GJCAHF8OVQDAWU7PZHMTBD.uasset'
+[2025.03.22-18.48.44:207][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/3/B1/2O9NZ7R4NXSHM36WPQVV8Y
+[2025.03.22-18.48.44:207][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/2O9NZ7R4NXSHM36WPQVV8Y400A528142646EF5A00DF08FC6A9C4B6.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/3/B1/2O9NZ7R4NXSHM36WPQVV8Y.uasset'
+[2025.03.22-18.48.44:208][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/3/FR/Z3K1NTBJGBRNXW9GY93YSJ
+[2025.03.22-18.48.44:208][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Z3K1NTBJGBRNXW9GY93YSJ0B66F22D4A787618330A989B9FE1304B.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/3/FR/Z3K1NTBJGBRNXW9GY93YSJ.uasset'
+[2025.03.22-18.48.44:209][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/3/MA/0IVCMABTYY9KBM30JJBXZM
+[2025.03.22-18.48.44:209][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/0IVCMABTYY9KBM30JJBXZM0BBAEABD47B297AE02FA07A6C05FFE90.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/3/MA/0IVCMABTYY9KBM30JJBXZM.uasset'
+[2025.03.22-18.48.44:210][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/4/0S/E2KIX1HURQXQLCN28J6SBX
+[2025.03.22-18.48.44:211][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/E2KIX1HURQXQLCN28J6SBXF9524AF54174A9895CEDD79C99A0D4A7.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/4/0S/E2KIX1HURQXQLCN28J6SBX.uasset'
+[2025.03.22-18.48.44:211][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/4/4V/VBFF099VTF63F6WQPEIGSW
+[2025.03.22-18.48.44:211][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/VBFF099VTF63F6WQPEIGSWA8138A49403774835136C7ACDF2783B3.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/4/4V/VBFF099VTF63F6WQPEIGSW.uasset'
+[2025.03.22-18.48.44:213][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/4/8T/B77Q0FYNHMHNA3LBHRBBAE
+[2025.03.22-18.48.44:213][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/B77Q0FYNHMHNA3LBHRBBAE29D27B5D4B3B2446C1390A808AE270FE.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/4/8T/B77Q0FYNHMHNA3LBHRBBAE.uasset'
+[2025.03.22-18.48.44:214][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/4/B8/QLDUMYFQFODLC469Z8RI60
+[2025.03.22-18.48.44:215][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/QLDUMYFQFODLC469Z8RI6005CD78424346A470D31026973B9BE9F7.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/4/B8/QLDUMYFQFODLC469Z8RI60.uasset'
+[2025.03.22-18.48.44:216][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/4/X8/FXERZH6H6QFSKPIOFC3ZY8
+[2025.03.22-18.48.44:216][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/FXERZH6H6QFSKPIOFC3ZY81498AA814DF9A3D6996C3197B1B81964.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/4/X8/FXERZH6H6QFSKPIOFC3ZY8.uasset'
+[2025.03.22-18.48.44:217][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/55/0YXUX43SPWNRIZJD3PU2SA
+[2025.03.22-18.48.44:217][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/0YXUX43SPWNRIZJD3PU2SA6933A5D9448EB6A2CAFAEFAB2BF80219.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/55/0YXUX43SPWNRIZJD3PU2SA.uasset'
+[2025.03.22-18.48.44:218][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/56/2X8YN3ACG5ST36SI7K1KDI
+[2025.03.22-18.48.44:218][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/2X8YN3ACG5ST36SI7K1KDIEFAD9130411A0DFBD15E4B848932B239.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/56/2X8YN3ACG5ST36SI7K1KDI.uasset'
+[2025.03.22-18.48.44:219][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/5C/9RXMZ4RM8CHQD70DX2R5MH
+[2025.03.22-18.48.44:219][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/9RXMZ4RM8CHQD70DX2R5MH6122CBF2466D521E140A0288663012CC.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/5C/9RXMZ4RM8CHQD70DX2R5MH.uasset'
+[2025.03.22-18.48.44:220][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/8M/2WJZCB50H2ONTUJS4V2VL6
+[2025.03.22-18.48.44:220][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/2WJZCB50H2ONTUJS4V2VL69181982B4031094C45C725867A13B0A2.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/8M/2WJZCB50H2ONTUJS4V2VL6.uasset'
+[2025.03.22-18.48.44:221][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/EP/WFWT1B60EH3I9I0NG7S6ZC
+[2025.03.22-18.48.44:221][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/WFWT1B60EH3I9I0NG7S6ZCC67A467F46274FA63A405985E2D071DC.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/EP/WFWT1B60EH3I9I0NG7S6ZC.uasset'
+[2025.03.22-18.48.44:223][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/IY/6RT696VMVGAHDGU8XSA6T2
+[2025.03.22-18.48.44:223][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/6RT696VMVGAHDGU8XSA6T2A834CD924FDA7AF5B029F4A38AF27EB6.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/IY/6RT696VMVGAHDGU8XSA6T2.uasset'
+[2025.03.22-18.48.44:224][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/R8/7TCV7NF845HKEKCUBKGD3S
+[2025.03.22-18.48.44:224][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/7TCV7NF845HKEKCUBKGD3S503147D14A628934F2D435852A828E7E.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/R8/7TCV7NF845HKEKCUBKGD3S.uasset'
+[2025.03.22-18.48.44:225][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/ZA/SLSXOBQLUGTWTZQEGFVTBR
+[2025.03.22-18.48.44:225][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/SLSXOBQLUGTWTZQEGFVTBR125E53724317198E00E74DB52ACCC972.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/ZA/SLSXOBQLUGTWTZQEGFVTBR.uasset'
+[2025.03.22-18.48.44:226][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/6/MS/T2ZPLH8VNVUG9AYDZJ97WR
+[2025.03.22-18.48.44:226][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/T2ZPLH8VNVUG9AYDZJ97WR03FD7A224B3BFA5FC54EB1ACDD4FAE2C.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/6/MS/T2ZPLH8VNVUG9AYDZJ97WR.uasset'
+[2025.03.22-18.48.44:227][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/6/VE/T11JR0EPEJARGKUXYIZ80N
+[2025.03.22-18.48.44:227][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/T11JR0EPEJARGKUXYIZ80NB028DCA149367375D758BDB569A1A0B3.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/6/VE/T11JR0EPEJARGKUXYIZ80N.uasset'
+[2025.03.22-18.48.44:228][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/6/ZR/G9926WDYHOLKCS01DC7FNR
+[2025.03.22-18.48.44:228][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/G9926WDYHOLKCS01DC7FNRC96115E24140643F7D2FA0AC8F119E84.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/6/ZR/G9926WDYHOLKCS01DC7FNR.uasset'
+[2025.03.22-18.48.44:229][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/7/0R/KNZH51X0ODTYCBH8YM2Z4X
+[2025.03.22-18.48.44:230][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/KNZH51X0ODTYCBH8YM2Z4XCE5AC70A486CF3C50328C3BD44A3ED3B.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/7/0R/KNZH51X0ODTYCBH8YM2Z4X.uasset'
+[2025.03.22-18.48.44:231][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/7/7S/87NJA3TZNDWWHL0IJWWO6K
+[2025.03.22-18.48.44:231][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/87NJA3TZNDWWHL0IJWWO6K2AABC86542988C45793841AB5C2443E2.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/7/7S/87NJA3TZNDWWHL0IJWWO6K.uasset'
+[2025.03.22-18.48.44:231][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/7/LS/YZUN3STG7JZP2MIWXG09DM
+[2025.03.22-18.48.44:233][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/YZUN3STG7JZP2MIWXG09DM3856274E48E912249EE6148B31C261C2.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/7/LS/YZUN3STG7JZP2MIWXG09DM.uasset'
+[2025.03.22-18.48.44:234][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/7/TX/0KLLYKQTNUEFRK25FKG5VB
+[2025.03.22-18.48.44:234][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/0KLLYKQTNUEFRK25FKG5VBD367B4674B2B787D212CA6A2C908F59C.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/7/TX/0KLLYKQTNUEFRK25FKG5VB.uasset'
+[2025.03.22-18.48.44:235][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/7/XJ/LA36VU9TIW1H4KKWQ1AJ2S
+[2025.03.22-18.48.44:235][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/LA36VU9TIW1H4KKWQ1AJ2SDA54130D4FF7C63D0859498F9ADDC546.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/7/XJ/LA36VU9TIW1H4KKWQ1AJ2S.uasset'
+[2025.03.22-18.48.44:236][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/7/Z8/S5TCLQRX6D2Q6KLD8TL0GD
+[2025.03.22-18.48.44:236][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/S5TCLQRX6D2Q6KLD8TL0GD928939624EE9BB34A285E6BF18F1398D.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/7/Z8/S5TCLQRX6D2Q6KLD8TL0GD.uasset'
+[2025.03.22-18.48.44:237][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/8/1J/HPSG4P289J8K59JRN1JP80
+[2025.03.22-18.48.44:237][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/HPSG4P289J8K59JRN1JP80258E33FB4982FA730ADD94ACA662F017.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/8/1J/HPSG4P289J8K59JRN1JP80.uasset'
+[2025.03.22-18.48.44:238][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/8/90/DFRWGR6NT2EJUTYBQEC4IH
+[2025.03.22-18.48.44:239][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/DFRWGR6NT2EJUTYBQEC4IH5516247141572E654390B5BF5F800730.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/8/90/DFRWGR6NT2EJUTYBQEC4IH.uasset'
+[2025.03.22-18.48.44:240][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/8/JH/HHSE4PZ6HHDIT5R26GDXWV
+[2025.03.22-18.48.44:240][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/HHSE4PZ6HHDIT5R26GDXWV516C9AEA4DB29029C1A756B4FA12677F.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/8/JH/HHSE4PZ6HHDIT5R26GDXWV.uasset'
+[2025.03.22-18.48.44:241][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/9/01/UDTL5695NPYG7MYCM157BV
+[2025.03.22-18.48.44:241][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/UDTL5695NPYG7MYCM157BV88015BB142CA85381A68288B85AFD3C2.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/9/01/UDTL5695NPYG7MYCM157BV.uasset'
+[2025.03.22-18.48.44:242][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/9/3B/E3T79FOC3C2Y5WLLPC30VO
+[2025.03.22-18.48.44:242][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/E3T79FOC3C2Y5WLLPC30VOBBC5EA5A4F18ED75FD01E9B3A9FA7D5F.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/9/3B/E3T79FOC3C2Y5WLLPC30VO.uasset'
+[2025.03.22-18.48.44:243][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/9/7O/HBM6GJU9KL7I3Y884CPQ7H
+[2025.03.22-18.48.44:243][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/HBM6GJU9KL7I3Y884CPQ7H7EC61EF44AADA712655F5FAF39E11AE1.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/9/7O/HBM6GJU9KL7I3Y884CPQ7H.uasset'
+[2025.03.22-18.48.44:244][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/9/G8/J67K9WVZHP5HCO3BIBGEG6
+[2025.03.22-18.48.44:245][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/J67K9WVZHP5HCO3BIBGEG64A597E51464279D534474AAD0D45BF6C.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/9/G8/J67K9WVZHP5HCO3BIBGEG6.uasset'
+[2025.03.22-18.48.44:246][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/A/2P/EVLXOADG8U9JTTXA81NKU8
+[2025.03.22-18.48.44:246][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/EVLXOADG8U9JTTXA81NKU888CC6C4D4D26F1F9F73A15AD7EED8627.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/A/2P/EVLXOADG8U9JTTXA81NKU8.uasset'
+[2025.03.22-18.48.44:247][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/B/8F/M9X9LN5VHC6QOTRNTIYQBM
+[2025.03.22-18.48.44:247][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/M9X9LN5VHC6QOTRNTIYQBMD96F8C374115ECD82FDC4B90814A00E0.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/B/8F/M9X9LN5VHC6QOTRNTIYQBM.uasset'
+[2025.03.22-18.48.44:248][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/B/IR/WNACAVK22OEORPHYYXWACN
+[2025.03.22-18.48.44:249][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/WNACAVK22OEORPHYYXWACN54BE69B1408EB5764001D9B3F247D1A7.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/B/IR/WNACAVK22OEORPHYYXWACN.uasset'
+[2025.03.22-18.48.44:250][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/C/6G/MYTXN0BASK1MOVRT88A91E
+[2025.03.22-18.48.44:250][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/MYTXN0BASK1MOVRT88A91E40C0E6164CF3A05C02DB4C80811EEA47.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/C/6G/MYTXN0BASK1MOVRT88A91E.uasset'
+[2025.03.22-18.48.44:251][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/C/IV/4Y3SBQGDHJJ0OROVKHFG55
+[2025.03.22-18.48.44:251][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/4Y3SBQGDHJJ0OROVKHFG55113ABC04461D8855EF07BFBA6B15635B.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/C/IV/4Y3SBQGDHJJ0OROVKHFG55.uasset'
+[2025.03.22-18.48.44:252][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/C/L7/10UMNDQHNIK81NWPH9NLFM
+[2025.03.22-18.48.44:252][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/10UMNDQHNIK81NWPH9NLFM691F9B634E3F5770ED7CCA90695AD3A7.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/C/L7/10UMNDQHNIK81NWPH9NLFM.uasset'
+[2025.03.22-18.48.44:253][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/D/AV/D0NLEXAEAVMPOPF3HT69QD
+[2025.03.22-18.48.44:253][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/D0NLEXAEAVMPOPF3HT69QDD5879FFD42787119371B368A81DB32A0.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/D/AV/D0NLEXAEAVMPOPF3HT69QD.uasset'
+[2025.03.22-18.48.44:254][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/D/R6/RG67MRFWR5SB9VWG1TGQWE
+[2025.03.22-18.48.44:255][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/RG67MRFWR5SB9VWG1TGQWEAD9E1DFB43B5601282C994AE1C57760F.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/D/R6/RG67MRFWR5SB9VWG1TGQWE.uasset'
+[2025.03.22-18.48.44:256][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/D/TL/NOER357LTJUY7SAAVR7GR8
+[2025.03.22-18.48.44:256][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/NOER357LTJUY7SAAVR7GR8114639BC47590A22DE27398D311ECB07.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/D/TL/NOER357LTJUY7SAAVR7GR8.uasset'
+[2025.03.22-18.48.44:257][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/E/RT/JSUW7OXJQZ1O1V4WHA8YHA
+[2025.03.22-18.48.44:257][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/JSUW7OXJQZ1O1V4WHA8YHA96AA5CF3492A319BE4F0ECA354938011.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/E/RT/JSUW7OXJQZ1O1V4WHA8YHA.uasset'
+[2025.03.22-18.48.44:258][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/E/VD/UPS17DGAXNT0M6CP0VK5YG
+[2025.03.22-18.48.44:258][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/UPS17DGAXNT0M6CP0VK5YG9A2A293143C5567802951DACD4CC94C1.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/E/VD/UPS17DGAXNT0M6CP0VK5YG.uasset'
+[2025.03.22-18.48.44:259][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/E/XF/BLMIBEXF8EJ2Q02IJNGNT3
+[2025.03.22-18.48.44:259][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/BLMIBEXF8EJ2Q02IJNGNT36A0A85614A54926C7B323595716E759C.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/E/XF/BLMIBEXF8EJ2Q02IJNGNT3.uasset'
+[2025.03.22-18.48.44:260][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/E/YV/48DOPN1ETWZIB8WZ44FIQW
+[2025.03.22-18.48.44:260][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/48DOPN1ETWZIB8WZ44FIQW9D8B993A4213C3961208A3A7BA90C62A.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/E/YV/48DOPN1ETWZIB8WZ44FIQW.uasset'
+[2025.03.22-18.48.44:261][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/F/1R/FDQFR529FP2HD1HGLXGODN
+[2025.03.22-18.48.44:261][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/FDQFR529FP2HD1HGLXGODN0BBC56174BAB797730CEA293F0ADD4B7.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/F/1R/FDQFR529FP2HD1HGLXGODN.uasset'
+[2025.03.22-18.48.44:275][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/A/9G/Z3W0KKO5GFG2IR5PRWZT7T
+[2025.03.22-18.48.44:276][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Z3W0KKO5GFG2IR5PRWZT7T4DD6EA074A86AE98B935B9AEDB484039.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/A/9G/Z3W0KKO5GFG2IR5PRWZT7T.uasset'
+[2025.03.22-18.48.44:288][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/7/54/ISPIPQ7HK1MB7AFGCGBM6Y
+[2025.03.22-18.48.44:289][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/ISPIPQ7HK1MB7AFGCGBM6Y96561916416F46B51B659599D35986DF.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/7/54/ISPIPQ7HK1MB7AFGCGBM6Y.uasset'
+[2025.03.22-18.48.44:290][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/0/F2/7KJOQIKI9GR8420VPRNHTO
+[2025.03.22-18.48.44:290][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/7KJOQIKI9GR8420VPRNHTOFDBEE7854EBE7C332AC7EC8C893AE7B8.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/0/F2/7KJOQIKI9GR8420VPRNHTO.uasset'
+[2025.03.22-18.48.44:291][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/3B/AYDT74RVAITOJGJ9OZHYIW
+[2025.03.22-18.48.44:291][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/AYDT74RVAITOJGJ9OZHYIW4C571E6C44F63FA53B57F4A7C42C829E.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/3B/AYDT74RVAITOJGJ9OZHYIW.uasset'
+[2025.03.22-18.48.44:292][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/4/WM/1UZLVAQK9M3LTWMTYERMPA
+[2025.03.22-18.48.44:292][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/1UZLVAQK9M3LTWMTYERMPA377832254D704C6FF48099A0547EF434.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/4/WM/1UZLVAQK9M3LTWMTYERMPA.uasset'
+[2025.03.22-18.48.44:293][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/8/EE/01OXD4AUHDQNBBPZJ9Y4U7
+[2025.03.22-18.48.44:293][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/01OXD4AUHDQNBBPZJ9Y4U79D0F98E84218A47758980BBE257145D4.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/8/EE/01OXD4AUHDQNBBPZJ9Y4U7.uasset'
+[2025.03.22-18.48.44:294][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/B/ZJ/7P144O8LF4D8PEYT2C9T50
+[2025.03.22-18.48.44:294][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/7P144O8LF4D8PEYT2C9T50B711862A4D8822F52ADA9B943491BB80.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/B/ZJ/7P144O8LF4D8PEYT2C9T50.uasset'
+[2025.03.22-18.48.44:295][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/7/98/LSU34VAI5L5W5Q7SW2LZ1O
+[2025.03.22-18.48.44:295][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/LSU34VAI5L5W5Q7SW2LZ1O469947854C1CC91D519C668B3574EF4B.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/7/98/LSU34VAI5L5W5Q7SW2LZ1O.uasset'
+[2025.03.22-18.48.44:296][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/A/FY/SQ26AEY4O9BNV7OLNS9PAV
+[2025.03.22-18.48.44:296][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/SQ26AEY4O9BNV7OLNS9PAVBD6FC47D4CAA8084261442802AF8E0A5.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/A/FY/SQ26AEY4O9BNV7OLNS9PAV.uasset'
+[2025.03.22-18.48.44:297][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/2/AI/K0SUGJJMD3HFEWXHLGKPL6
+[2025.03.22-18.48.44:297][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/K0SUGJJMD3HFEWXHLGKPL6A763ACBC4058D1BE181B7B8EF09B9413.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/2/AI/K0SUGJJMD3HFEWXHLGKPL6.uasset'
+[2025.03.22-18.48.44:298][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/7/1M/CSSG2HAL1FU3TG5AYFTZQN
+[2025.03.22-18.48.44:298][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/CSSG2HAL1FU3TG5AYFTZQNBD9F688D45911D2AF071AA80D4F988C8.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/7/1M/CSSG2HAL1FU3TG5AYFTZQN.uasset'
+[2025.03.22-18.48.44:300][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/LO/VPOAHEOOCHJTN3N1JF8XFQ
+[2025.03.22-18.48.44:300][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/VPOAHEOOCHJTN3N1JF8XFQAA820D5641DF0A911DC724A3D1840ED1.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/LO/VPOAHEOOCHJTN3N1JF8XFQ.uasset'
+[2025.03.22-18.48.44:301][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/F/3C/ZK3CVDQSU31FBZ523P3EAD
+[2025.03.22-18.48.44:301][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/ZK3CVDQSU31FBZ523P3EADA15771484A974C8899291BA80C2E1096.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/F/3C/ZK3CVDQSU31FBZ523P3EAD.uasset'
+[2025.03.22-18.48.44:302][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/C/OZ/RICIHMENMMBWQ8HWTYU1WD
+[2025.03.22-18.48.44:302][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/RICIHMENMMBWQ8HWTYU1WD46554ECF4ABE53294A4A6792A96BCD5E.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/C/OZ/RICIHMENMMBWQ8HWTYU1WD.uasset'
+[2025.03.22-18.48.44:303][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/4/V2/0O7X55WES3YWYSA595T5RP
+[2025.03.22-18.48.44:303][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/0O7X55WES3YWYSA595T5RPB3BD371D474621EDCF6D05BF3BD598D4.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/4/V2/0O7X55WES3YWYSA595T5RP.uasset'
+[2025.03.22-18.48.44:304][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/P2/UP0ZF3JBYX18PM2VJJUDAF
+[2025.03.22-18.48.44:304][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/UP0ZF3JBYX18PM2VJJUDAFD53F8F5E4715018607FCC88F14B31444.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/P2/UP0ZF3JBYX18PM2VJJUDAF.uasset'
+[2025.03.22-18.48.44:305][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/E/LR/N725X060S6TBDTDA3O3K61
+[2025.03.22-18.48.44:305][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/N725X060S6TBDTDA3O3K61EAFCF824498CBE86C260DBA31D36A974.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/E/LR/N725X060S6TBDTDA3O3K61.uasset'
+[2025.03.22-18.48.44:306][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/8/LL/C9TXZVJ8XCO4TNF4LHZL3I
+[2025.03.22-18.48.44:306][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/C9TXZVJ8XCO4TNF4LHZL3I93FC9CE149D7122F3CEC8D82A4CBCB5C.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/8/LL/C9TXZVJ8XCO4TNF4LHZL3I.uasset'
+[2025.03.22-18.48.44:307][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/E/WW/THGEHOEQI6NKCJ4ERQGRRB
+[2025.03.22-18.48.44:307][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/THGEHOEQI6NKCJ4ERQGRRBB57C603C409ADB4DEFBA2F899D50E5AB.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/E/WW/THGEHOEQI6NKCJ4ERQGRRB.uasset'
+[2025.03.22-18.48.44:308][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/D/DF/QR5THLY3B7YWRVQZ35TQBI
+[2025.03.22-18.48.44:308][833]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/QR5THLY3B7YWRVQZ35TQBI3BF2875A4C8BFA83ACA2D0A423F64D9A.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/D/DF/QR5THLY3B7YWRVQZ35TQBI.uasset'
+[2025.03.22-18.48.44:316][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 395.118 ms (total: 1.35 sec)
+[2025.03.22-18.48.44:362][833]LogContentValidation: Display: Starting to validate 116 assets
+[2025.03.22-18.48.44:362][833]LogContentValidation: Enabled validators:
+[2025.03.22-18.48.44:362][833]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.22-18.48.44:362][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.22-18.48.44:362][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.22-18.48.44:362][833]LogContentValidation: Display: Validating asset /Game/Challenge.Challenge
+[2025.03.22-18.48.44:362][833]AssetCheck: /Game/Challenge Validando recurso
+[2025.03.22-18.48.44:941][897]Cmd: TRANSACTION UNDO
+[2025.03.22-18.48.44:941][897]LogEditorTransaction: Undo Escalar elementos
+[2025.03.22-18.49.07:782][440]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2025.03.22-18.49.07:787][440]LogContentBundle: [Challenge(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2025.03.22-18.49.07:787][440]LogWorldPartition: Display: GenerateStreaming for 'Challenge' started...
+[2025.03.22-18.49.07:793][440]LogWorldPartition: Display: GenerateStreaming for 'Challenge' took 6.299 ms
+[2025.03.22-18.49.07:794][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.22-18.49.07:797][440]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.03.22-18.49.07:797][440]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.03.22-18.49.07:797][440]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Challenge
+[2025.03.22-18.49.07:808][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011019s)
+[2025.03.22-18.49.07:808][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Challenge.Challenge to /Game/UEDPIE_0_Challenge.Challenge (0.011053s)
+[2025.03.22-18.49.07:812][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.22-18.49.07:814][440]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.22-18.49.07:815][440]LogWorldPartition: ULevel::OnLevelLoaded(Challenge)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.22-18.49.07:815][440]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.22-18.49.07:815][440]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Challenge.Challenge, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.22-18.49.07:816][440]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.22-18.49.07:821][440]LogContentBundle: [Challenge(Autónomo)] Creating new container.
+[2025.03.22-18.49.07:821][440]LogWorldPartition: Display: WorldPartition initialize took 5.716 ms (total: 1.06 sec)
+[2025.03.22-18.49.07:821][440]LogPlayLevel: PIE: World Init took: (0.006925s)
+[2025.03.22-18.49.07:828][440]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.03.22-18.49.07:828][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.22-18.49.07:828][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.22-18.49.07:828][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.22-18.49.07:828][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.22-18.49.07:828][440]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.22-18.49.07:828][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.22-18.49.07:828][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.22-18.49.07:828][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.22-18.49.07:828][440]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.22-18.49.07:828][440]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.22-18.49.07:828][440]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.22-18.49.07:829][440]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.22-18.49.07:841][440]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.03.22-18.49.07:842][440]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.22-18.49.07:842][440]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.22-18.49.07:842][440]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.22-18.49.07:842][440]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.03.22-18.49.07:842][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.03.22-18.49.07:843][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.03.22-18.49.07:843][440]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.03.22-18.49.07:843][440]LogInit: FAudioDevice initialized with ID 2.
+[2025.03.22-18.49.07:843][440]LogAudio: Display: Audio Device (ID: 2) registered with world 'Challenge'.
+[2025.03.22-18.49.07:843][440]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.22-18.49.07:846][440]LogLoad: Game class is 'GameModeBase'
+[2025.03.22-18.49.07:848][440]LogWorld: Bringing World /Game/UEDPIE_0_Challenge.Challenge up for play (max tick rate 0) at 2025.03.22-19.49.07
+[2025.03.22-18.49.07:848][440]LogWorld: Bringing up level for play took: 0.001102
+[2025.03.22-18.49.07:849][440]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.03.22-18.49.07:860][440]LogStreaming: Display: FlushAsyncLoading(): 40 QueuedPackages, 0 AsyncPackages
+[2025.03.22-18.49.07:920][440]PIE: El servidor ha iniciado sesión
+[2025.03.22-18.49.07:920][440]PIE: Tiempo de inicio total de la reproducción en el editor de 0,135 segundos.
+[2025.03.22-18.49.12:855][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.22-18.49.12:855][ 13]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Challenge
+[2025.03.22-18.49.12:858][ 13]LogWorld: UWorld::CleanupWorld for Challenge, bSessionEnded=true, bCleanupResources=true
+[2025.03.22-18.49.12:858][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.22-18.49.12:858][ 13]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Challenge.Challenge
+[2025.03.22-18.49.12:858][ 13]LogContentBundle: [Challenge(Autónomo)] Deleting container.
+[2025.03.22-18.49.12:858][ 13]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.22-18.49.12:858][ 13]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.22-18.49.12:861][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.22-18.49.12:863][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.22-18.49.12:869][ 13]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.22-18.49.12:869][ 13]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.22-18.49.12:869][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.22-18.49.12:871][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.22-18.49.12:873][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.22-18.49.12:877][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.22-18.49.12:951][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.03.22-18.49.28:824][821]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2025.03.22-18.49.28:824][821]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2025.03.22-18.49.28:828][821]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Challenge.Challenge:PersistentLevel.BP_ThirdPersonCharacter_C_1
+[2025.03.22-18.49.28:830][821]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Challenge.Challenge:PersistentLevel.BP_ThirdPersonCharacter_C_1
+[2025.03.22-18.49.29:980][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.22-18.49.29:982][952]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2025.03.22-18.49.29:986][952]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2025.03.22-18.49.29:986][952]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2025.03.22-18.49.29:990][952]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Challenge.Challenge:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_C87F5471BDE5AB5702_1767616485
+[2025.03.22-18.49.29:993][952]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Challenge.Challenge:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_C87F5471BDE5AB5702_1767616485
+[2025.03.22-18.49.31:816][114]Cmd: DELETE
+[2025.03.22-18.49.31:816][114]Cmd: ACTOR DELETE
+[2025.03.22-18.49.31:818][114]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.03.22-18.49.31:825][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.22-18.49.31:826][114]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.03.22-18.51.22:541][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.22-18.51.22:544][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/0/28/16UZ4EM3U21KQOAAVGRCV0_Auto4
+[2025.03.22-18.51.22:544][590]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/16UZ4EM3U21KQOAAVGRCV0_Auto4ADEB87C64A3629644B482293D7AF6DBC.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/0/28/16UZ4EM3U21KQOAAVGRCV0_Auto4.uasset'
+[2025.03.22-18.51.22:545][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/D/CL/BZ0318CWQYK2MAK6MUANV1_Auto4
+[2025.03.22-18.51.22:545][590]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/BZ0318CWQYK2MAK6MUANV1_Auto4557319764D910AD9C8C7AB89C56DC86C.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/D/CL/BZ0318CWQYK2MAK6MUANV1_Auto4.uasset'
+[2025.03.22-18.51.22:546][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/E/VD/UPS17DGAXNT0M6CP0VK5YG_Auto4
+[2025.03.22-18.51.22:546][590]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/UPS17DGAXNT0M6CP0VK5YG_Auto4959208544C7962603C44C5B0D2BA6BE3.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/E/VD/UPS17DGAXNT0M6CP0VK5YG_Auto4.uasset'
+[2025.03.22-18.51.22:548][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/8/WA/9DXQEVE3AARS9FH6DGOTRE_Auto4
+[2025.03.22-18.51.22:548][590]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/9DXQEVE3AARS9FH6DGOTRE_Auto4DD9AECF04C43D5D7B498CF8252F5FA59.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/8/WA/9DXQEVE3AARS9FH6DGOTRE_Auto4.uasset'
+[2025.03.22-18.51.22:548][590]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Challenge' took 0.016
+[2025.03.22-18.51.22:548][590]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.016
+[2025.03.22-18.52.20:253][119]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2025.03.22-18.52.20:258][119]LogContentBundle: [Challenge(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2025.03.22-18.52.20:258][119]LogWorldPartition: Display: GenerateStreaming for 'Challenge' started...
+[2025.03.22-18.52.20:263][119]LogWorldPartition: Display: GenerateStreaming for 'Challenge' took 5.442 ms (total: 11.742 ms)
+[2025.03.22-18.52.20:263][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.22-18.52.20:264][119]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Challenge
+[2025.03.22-18.52.20:274][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010460s)
+[2025.03.22-18.52.20:274][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Challenge.Challenge to /Game/UEDPIE_0_Challenge.Challenge (0.010485s)
+[2025.03.22-18.52.20:279][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.22-18.52.20:280][119]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.22-18.52.20:281][119]LogWorldPartition: ULevel::OnLevelLoaded(Challenge)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.22-18.52.20:281][119]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.22-18.52.20:281][119]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Challenge.Challenge, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.22-18.52.20:281][119]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.22-18.52.20:287][119]LogContentBundle: [Challenge(Autónomo)] Creating new container.
+[2025.03.22-18.52.20:287][119]LogWorldPartition: Display: WorldPartition initialize took 5.805 ms (total: 1.07 sec)
+[2025.03.22-18.52.20:287][119]LogPlayLevel: PIE: World Init took: (0.007095s)
+[2025.03.22-18.52.20:295][119]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.03.22-18.52.20:295][119]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.22-18.52.20:295][119]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.22-18.52.20:295][119]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.22-18.52.20:295][119]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.22-18.52.20:295][119]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.22-18.52.20:295][119]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.22-18.52.20:295][119]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.22-18.52.20:295][119]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.22-18.52.20:295][119]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.22-18.52.20:295][119]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.22-18.52.20:295][119]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.22-18.52.20:296][119]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.22-18.52.20:308][119]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.03.22-18.52.20:308][119]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.22-18.52.20:308][119]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.22-18.52.20:308][119]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.22-18.52.20:309][119]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.03.22-18.52.20:309][119]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.03.22-18.52.20:310][119]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.03.22-18.52.20:310][119]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.03.22-18.52.20:310][119]LogInit: FAudioDevice initialized with ID 3.
+[2025.03.22-18.52.20:310][119]LogAudio: Display: Audio Device (ID: 3) registered with world 'Challenge'.
+[2025.03.22-18.52.20:310][119]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.22-18.52.20:312][119]LogLoad: Game class is 'GameModeBase'
+[2025.03.22-18.52.20:313][119]LogWorld: Bringing World /Game/UEDPIE_0_Challenge.Challenge up for play (max tick rate 0) at 2025.03.22-19.52.20
+[2025.03.22-18.52.20:313][119]LogWorld: Bringing up level for play took: 0.001043
+[2025.03.22-18.52.20:314][119]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.03.22-18.52.20:328][119]LogStreaming: Display: FlushAsyncLoading(): 40 QueuedPackages, 0 AsyncPackages
+[2025.03.22-18.52.20:357][119]LogTexture: Display: Esperando que texturas esté listo62 /120 (/Memory/UEDPIE_0_7IT1FCW96YDVZ6PJ9RO2CBTR2_InstanceOf_/Game/__ExternalActors__/Challenge/7/54/ISPIPQ7HK1MB7AFGCGBM6Y)...
+[2025.03.22-18.52.20:388][119]PIE: El servidor ha iniciado sesión
+[2025.03.22-18.52.20:389][119]PIE: Tiempo de inicio total de la reproducción en el editor de 0,131 segundos.
+[2025.03.22-18.52.38:545][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.22-18.52.38:545][282]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Challenge
+[2025.03.22-18.52.38:548][282]LogWorld: UWorld::CleanupWorld for Challenge, bSessionEnded=true, bCleanupResources=true
+[2025.03.22-18.52.38:548][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.22-18.52.38:548][282]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Challenge.Challenge
+[2025.03.22-18.52.38:548][282]LogContentBundle: [Challenge(Autónomo)] Deleting container.
+[2025.03.22-18.52.38:548][282]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.22-18.52.38:548][282]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.22-18.52.38:551][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.22-18.52.38:553][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.22-18.52.38:561][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.22-18.52.38:561][282]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.22-18.52.38:561][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.22-18.52.38:563][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.22-18.52.38:569][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.22-18.52.38:640][283]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.03.22-18.52.52:680][440]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2025.03.22-18.52.52:686][440]LogContentBundle: [Challenge(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2025.03.22-18.52.52:686][440]LogWorldPartition: Display: GenerateStreaming for 'Challenge' started...
+[2025.03.22-18.52.52:692][440]LogWorldPartition: Display: GenerateStreaming for 'Challenge' took 6.206 ms (total: 17.948 ms)
+[2025.03.22-18.52.52:692][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.22-18.52.52:714][440]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Challenge
+[2025.03.22-18.52.52:724][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010230s)
+[2025.03.22-18.52.52:724][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Challenge.Challenge to /Game/UEDPIE_0_Challenge.Challenge (0.010264s)
+[2025.03.22-18.52.52:729][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.22-18.52.52:730][440]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.22-18.52.52:731][440]LogWorldPartition: ULevel::OnLevelLoaded(Challenge)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.22-18.52.52:731][440]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.22-18.52.52:731][440]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Challenge.Challenge, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.22-18.52.52:731][440]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.22-18.52.52:736][440]LogContentBundle: [Challenge(Autónomo)] Creating new container.
+[2025.03.22-18.52.52:736][440]LogWorldPartition: Display: WorldPartition initialize took 5.930 ms (total: 1.07 sec)
+[2025.03.22-18.52.52:736][440]LogPlayLevel: PIE: World Init took: (0.006784s)
+[2025.03.22-18.52.52:743][440]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.03.22-18.52.52:743][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.22-18.52.52:743][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.22-18.52.52:743][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.22-18.52.52:743][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.22-18.52.52:743][440]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.22-18.52.52:743][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.22-18.52.52:743][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.22-18.52.52:743][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.22-18.52.52:743][440]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.22-18.52.52:743][440]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.22-18.52.52:743][440]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.22-18.52.52:745][440]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.22-18.52.52:756][440]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.03.22-18.52.52:757][440]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.22-18.52.52:757][440]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.22-18.52.52:757][440]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.22-18.52.52:757][440]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.03.22-18.52.52:757][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.03.22-18.52.52:758][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.03.22-18.52.52:758][440]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.03.22-18.52.52:758][440]LogInit: FAudioDevice initialized with ID 4.
+[2025.03.22-18.52.52:758][440]LogAudio: Display: Audio Device (ID: 4) registered with world 'Challenge'.
+[2025.03.22-18.52.52:758][440]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.22-18.52.52:761][440]LogLoad: Game class is 'GameModeBase'
+[2025.03.22-18.52.52:762][440]LogWorld: Bringing World /Game/UEDPIE_0_Challenge.Challenge up for play (max tick rate 0) at 2025.03.22-19.52.52
+[2025.03.22-18.52.52:762][440]LogWorld: Bringing up level for play took: 0.001076
+[2025.03.22-18.52.52:762][440]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.03.22-18.52.52:774][440]LogStreaming: Display: FlushAsyncLoading(): 40 QueuedPackages, 0 AsyncPackages
+[2025.03.22-18.52.52:817][440]PIE: El servidor ha iniciado sesión
+[2025.03.22-18.52.52:817][440]PIE: Tiempo de inicio total de la reproducción en el editor de 0,135 segundos.
+[2025.03.22-18.53.00:486][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.22-18.53.00:486][342]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Challenge
+[2025.03.22-18.53.00:489][342]LogWorld: UWorld::CleanupWorld for Challenge, bSessionEnded=true, bCleanupResources=true
+[2025.03.22-18.53.00:489][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.22-18.53.00:489][342]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Challenge.Challenge
+[2025.03.22-18.53.00:489][342]LogContentBundle: [Challenge(Autónomo)] Deleting container.
+[2025.03.22-18.53.00:489][342]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.22-18.53.00:489][342]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.22-18.53.00:492][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.22-18.53.00:494][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.22-18.53.00:503][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.22-18.53.00:503][342]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.22-18.53.00:503][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.22-18.53.00:505][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.22-18.53.00:507][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.22-18.53.00:512][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.22-18.53.00:614][343]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.03.22-19.01.48:709][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.22-19.01.48:712][356]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/0/01/RTFXMQKO3FR40F1AU63V1B_Auto5
+[2025.03.22-19.01.48:712][356]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/RTFXMQKO3FR40F1AU63V1B_Auto5D93E3C59413A24CD7CE39692E67D8DE3.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/0/01/RTFXMQKO3FR40F1AU63V1B_Auto5.uasset'
+[2025.03.22-19.01.48:714][356]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/E/XF/BLMIBEXF8EJ2Q02IJNGNT3_Auto5
+[2025.03.22-19.01.48:714][356]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/BLMIBEXF8EJ2Q02IJNGNT3_Auto51220FFF04A3AFDBF4A8D53BCDA62BFA9.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/E/XF/BLMIBEXF8EJ2Q02IJNGNT3_Auto5.uasset'
+[2025.03.22-19.01.48:714][356]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/F/3C/ZK3CVDQSU31FBZ523P3EAD_Auto5
+[2025.03.22-19.01.48:714][356]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/ZK3CVDQSU31FBZ523P3EAD_Auto549F7C830450EA8351FFC90A94F6CABAC.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/F/3C/ZK3CVDQSU31FBZ523P3EAD_Auto5.uasset'
+[2025.03.22-19.01.48:716][356]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/C/OZ/RICIHMENMMBWQ8HWTYU1WD_Auto5
+[2025.03.22-19.01.48:716][356]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/RICIHMENMMBWQ8HWTYU1WD_Auto5221C2E7A4924A4363AEB159E5B35CB84.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/C/OZ/RICIHMENMMBWQ8HWTYU1WD_Auto5.uasset'
+[2025.03.22-19.01.48:717][356]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/4/V2/0O7X55WES3YWYSA595T5RP_Auto5
+[2025.03.22-19.01.48:717][356]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/0O7X55WES3YWYSA595T5RP_Auto55952B1C244F9BFC00755D5ACA170E5FF.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/4/V2/0O7X55WES3YWYSA595T5RP_Auto5.uasset'
+[2025.03.22-19.01.48:718][356]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/1/P2/UP0ZF3JBYX18PM2VJJUDAF_Auto5
+[2025.03.22-19.01.48:718][356]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/UP0ZF3JBYX18PM2VJJUDAF_Auto5A0B7043342EFCC14FC0AE7A2A8AC52B8.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/1/P2/UP0ZF3JBYX18PM2VJJUDAF_Auto5.uasset'
+[2025.03.22-19.01.48:720][356]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/8/WA/9DXQEVE3AARS9FH6DGOTRE_Auto5
+[2025.03.22-19.01.48:720][356]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/9DXQEVE3AARS9FH6DGOTRE_Auto5E592572441994A175FBD17AAF4828BC8.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/8/WA/9DXQEVE3AARS9FH6DGOTRE_Auto5.uasset'
+[2025.03.22-19.01.48:720][356]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Challenge' took 0.023
+[2025.03.22-19.01.48:720][356]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
+[2025.03.22-19.04.20:682][813]LogDerivedDataCache: C:/Users/USUARIO/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.22-19.10.56:754][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.22-19.10.56:817][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.22-19.10.56:823][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.22-19.10.56:829][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.22-19.10.56:831][198]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/0/01/RTFXMQKO3FR40F1AU63V1B
+[2025.03.22-19.10.56:831][198]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/RTFXMQKO3FR40F1AU63V1BCB025E5F47BB3B23C1FB4D960DDFE678.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/0/01/RTFXMQKO3FR40F1AU63V1B.uasset'
+[2025.03.22-19.10.56:832][198]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/0/28/16UZ4EM3U21KQOAAVGRCV0
+[2025.03.22-19.10.56:832][198]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/16UZ4EM3U21KQOAAVGRCV0FBD8C67942424373B5CC0AA79038E2E9.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/0/28/16UZ4EM3U21KQOAAVGRCV0.uasset'
+[2025.03.22-19.10.56:833][198]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/D/CL/BZ0318CWQYK2MAK6MUANV1
+[2025.03.22-19.10.56:833][198]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/BZ0318CWQYK2MAK6MUANV1D3B40B6647F82734E141C3A4464AA9AC.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/D/CL/BZ0318CWQYK2MAK6MUANV1.uasset'
+[2025.03.22-19.10.56:835][198]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/E/VD/UPS17DGAXNT0M6CP0VK5YG
+[2025.03.22-19.10.56:836][198]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/UPS17DGAXNT0M6CP0VK5YG1FFB01154F910BFF5940328D62AC6881.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/E/VD/UPS17DGAXNT0M6CP0VK5YG.uasset'
+[2025.03.22-19.10.56:837][198]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/E/XF/BLMIBEXF8EJ2Q02IJNGNT3
+[2025.03.22-19.10.56:837][198]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/BLMIBEXF8EJ2Q02IJNGNT3710619D84FF728392BBA80BE4DC3C090.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/E/XF/BLMIBEXF8EJ2Q02IJNGNT3.uasset'
+[2025.03.22-19.10.56:838][198]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/F/3C/ZK3CVDQSU31FBZ523P3EAD
+[2025.03.22-19.10.56:838][198]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/ZK3CVDQSU31FBZ523P3EADF61B26D8412DC25E10E3A0A583986577.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/F/3C/ZK3CVDQSU31FBZ523P3EAD.uasset'
+[2025.03.22-19.10.56:839][198]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/C/OZ/RICIHMENMMBWQ8HWTYU1WD
+[2025.03.22-19.10.56:839][198]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/RICIHMENMMBWQ8HWTYU1WDCC1DAC9A4D54D76B110BA5B9566D8055.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/C/OZ/RICIHMENMMBWQ8HWTYU1WD.uasset'
+[2025.03.22-19.10.56:840][198]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/4/V2/0O7X55WES3YWYSA595T5RP
+[2025.03.22-19.10.56:841][198]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/0O7X55WES3YWYSA595T5RPFF12FE2F4D01B4770CA41BB1F9F40627.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/4/V2/0O7X55WES3YWYSA595T5RP.uasset'
+[2025.03.22-19.10.56:842][198]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/P2/UP0ZF3JBYX18PM2VJJUDAF
+[2025.03.22-19.10.56:842][198]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/UP0ZF3JBYX18PM2VJJUDAF5E4A88974E488816FC68199232F6DFB4.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/P2/UP0ZF3JBYX18PM2VJJUDAF.uasset'
+[2025.03.22-19.10.56:844][198]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/8/WA/9DXQEVE3AARS9FH6DGOTRE
+[2025.03.22-19.10.56:844][198]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/9DXQEVE3AARS9FH6DGOTREF9A42A7640F4A9F164C7B9A6B17D9909.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/8/WA/9DXQEVE3AARS9FH6DGOTRE.uasset'
+[2025.03.22-19.10.56:849][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.302 ms (total: 1.45 sec)
+[2025.03.22-19.10.56:888][198]LogContentValidation: Display: Starting to validate 10 assets
+[2025.03.22-19.10.56:888][198]LogContentValidation: Enabled validators:
+[2025.03.22-19.10.56:888][198]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.22-19.10.56:888][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.22-19.10.56:888][198]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.22-19.10.56:888][198]LogContentValidation: Display: Validating asset /Game/Challenge.Challenge
+[2025.03.22-19.10.56:888][198]AssetCheck: /Game/Challenge Validando recurso
+[2025.03.22-19.11.05:825][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.22-19.11.05:835][193]LogStall: Shutdown...
+[2025.03.22-19.11.05:841][193]LogStall: Shutdown complete.
+[2025.03.22-19.11.05:855][193]LogSlate: Window 'Explorador de contenido' being destroyed
+[2025.03.22-19.11.05:860][193]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2025.03.22-19.11.05:903][193]Cmd: QUIT_EDITOR
+[2025.03.22-19.11.05:903][194]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.22-19.11.05:904][194]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.22-19.11.05:904][194]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.22-19.11.05:904][194]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.22-19.11.05:906][194]LogWorld: UWorld::CleanupWorld for Challenge, bSessionEnded=true, bCleanupResources=true
+[2025.03.22-19.11.05:907][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.22-19.11.05:907][194]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Challenge.Challenge
+[2025.03.22-19.11.05:907][194]LogContentBundle: [Challenge(Autónomo)] Deleting container.
+[2025.03.22-19.11.05:907][194]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.22-19.11.05:907][194]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.22-19.11.05:911][194]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.22-19.11.05:936][194]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.22-19.11.05:936][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.22-19.11.05:936][194]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.22-19.11.05:936][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.22-19.11.05:936][194]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.22-19.11.05:936][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.22-19.11.05:936][194]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.22-19.11.05:936][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.22-19.11.05:936][194]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.03.22-19.11.05:936][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.22-19.11.05:936][194]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.22-19.11.05:936][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.22-19.11.05:977][194]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.03.22-19.11.05:978][194]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.03.22-19.11.05:978][194]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.03.22-19.11.05:978][194]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.03.22-19.11.06:245][194]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.22-19.11.06:245][194]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.22-19.11.06:245][194]LogAudio: Display: Audio Device unregistered from world 'Challenge'.
+[2025.03.22-19.11.06:245][194]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.03.22-19.11.06:245][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.22-19.11.06:246][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.22-19.11.06:249][194]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.03.22-19.11.06:249][194]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.22-19.11.06:250][194]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2025.03.22-19.11.06:251][194]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.22-19.11.06:252][194]LogExit: Preparing to exit.
+[2025.03.22-19.11.06:264][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.22-19.11.06:899][194]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.22-19.11.06:911][194]LogExit: Editor shut down
+[2025.03.22-19.11.06:912][194]LogExit: Transaction tracking system shut down
+[2025.03.22-19.11.06:987][194]LogExit: Object subsystem successfully closed.
+[2025.03.22-19.11.07:027][194]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.03.22-19.11.07:122][194]MemoryProfiler: Shutdown
+[2025.03.22-19.11.07:122][194]NetworkingProfiler: Shutdown
+[2025.03.22-19.11.07:122][194]LoadingProfiler: Shutdown
+[2025.03.22-19.11.07:122][194]TimingProfiler: Shutdown
+[2025.03.22-19.11.07:305][194]LogOpenImageDenoise: OIDN shutting down
+[2025.03.22-19.11.07:546][194]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.03.22-19.11.07:559][194]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.03.22-19.11.07:559][194]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B26BC2B4D-44FC-1469-584B-50810A991AD8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.3-34507850%2B%2B%2BUE5%2BRelease-5.4&UserID=029779cb4622641e50a152846b9298de%7C056b2a94c81244538509ed56aec33027%7Cad224616-cce6-45b1-9925-8ef6b6dfea89&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.03.22-19.11.07:580][194]RenderDocPlugin: plugin has been unloaded.
+[2025.03.22-19.11.07:581][194]LogXGEController: Cleaning working directory: C:/Users/USUARIO/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.03.22-19.11.07:582][194]LogPakFile: Destroying PakPlatformFile
+[2025.03.22-19.11.07:671][194]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.03.22-19.11.07:696][194]LogExit: Exiting.
+[2025.03.22-19.11.07:712][194]Log file closed, 03/22/25 20:11:07
