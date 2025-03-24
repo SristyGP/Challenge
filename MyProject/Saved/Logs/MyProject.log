@@ -1624,3 +1624,26 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.03.24-22.34.19:300][484]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.24-22.34.19:300][484]LogContentValidation: Display: Validating asset /Game/Challenge.Challenge
 [2025.03.24-22.34.19:300][484]AssetCheck: /Game/Challenge Validando recurso
+[2025.03.24-22.34.48:121][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.24-22.34.48:122][ 47]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Challenge' took 0.009
+[2025.03.24-22.34.48:122][ 47]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CorrectFBX/FBX_Rubbish/FBX_Poster] ([1] browsable assets)...
+[2025.03.24-22.34.48:143][ 47]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CorrectFBX/FBX_Rubbish/FBX_Poster.FBX_Poster]
+[2025.03.24-22.34.48:143][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/CorrectFBX/FBX_Rubbish/FBX_Poster]
+[2025.03.24-22.34.48:145][ 47]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CorrectFBX/FBX_Rubbish/FBX_Poster_Auto2
+[2025.03.24-22.34.48:145][ 47]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/FBX_Poster_Auto253059A3441C3C9CAC2A2498EBE3CC91C.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/CorrectFBX/FBX_Rubbish/FBX_Poster_Auto2.uasset'
+[2025.03.24-22.34.48:146][ 47]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CorrectFBX/FBX_Rubbish/poster] ([1] browsable assets)...
+[2025.03.24-22.34.48:176][ 47]OBJ SavePackage:     Rendered thumbnail for [Material /Game/CorrectFBX/FBX_Rubbish/poster.poster]
+[2025.03.24-22.34.48:176][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/CorrectFBX/FBX_Rubbish/poster]
+[2025.03.24-22.34.48:177][ 47]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CorrectFBX/FBX_Rubbish/poster_Auto2
+[2025.03.24-22.34.48:177][ 47]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/poster_Auto2C77CDEE24572F15A903C72A511B6C400.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/CorrectFBX/FBX_Rubbish/poster_Auto2.uasset'
+[2025.03.24-22.34.48:178][ 47]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CorrectFBX/Gato/GATO] ([1] browsable assets)...
+[2025.03.24-22.34.48:182][ 47]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CorrectFBX/Gato/GATO.GATO]
+[2025.03.24-22.34.48:182][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/CorrectFBX/Gato/GATO]
+[2025.03.24-22.34.48:185][ 47]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CorrectFBX/Gato/GATO_Auto2
+[2025.03.24-22.34.48:185][ 47]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/GATO_Auto24CDC72B647371637CBE5A08A8067AC45.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/CorrectFBX/Gato/GATO_Auto2.uasset'
+[2025.03.24-22.34.48:185][ 47]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CorrectFBX/Gato/Material] ([1] browsable assets)...
+[2025.03.24-22.34.48:214][ 47]OBJ SavePackage:     Rendered thumbnail for [Material /Game/CorrectFBX/Gato/Material.Material]
+[2025.03.24-22.34.48:214][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/CorrectFBX/Gato/Material]
+[2025.03.24-22.34.48:215][ 47]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CorrectFBX/Gato/Material_Auto2
+[2025.03.24-22.34.48:215][ 47]LogSavePackage: Moving '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Material_Auto29D4B48BB4642439D509B4A94F3D4C25E.tmp' to '../../../../../../Users/USUARIO/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/CorrectFBX/Gato/Material_Auto2.uasset'
+[2025.03.24-22.34.48:217][ 47]LogFileHelpers: Auto-saving content packages took 0.094
