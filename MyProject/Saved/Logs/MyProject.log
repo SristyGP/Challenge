@@ -1656,3 +1656,441 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.04.30-09.56.09:538][119]LogContentValidation: Display: Validating asset /Game/Challenge.Challenge
 [2025.04.30-09.56.09:538][119]AssetCheck: /Game/Challenge Validating asset
 [2025.04.30-09.57.03:824][610]LogEditorViewport: Clicking Background
+[2025.04.30-10.04.16:831][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.04.30-10.04.16:834][428]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/C/RM/G71WEW8TNCA8G6NTKY7FM1_Auto3
+[2025.04.30-10.04.16:834][428]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/G71WEW8TNCA8G6NTKY7FM1_Auto32BD1913C403AA3A4AE1DA094DF6EDC71.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/C/RM/G71WEW8TNCA8G6NTKY7FM1_Auto3.uasset'
+[2025.04.30-10.04.16:838][428]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/A/1M/J06MC41JKBMNB0IAQ7LGVT_Auto3
+[2025.04.30-10.04.16:838][428]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/J06MC41JKBMNB0IAQ7LGVT_Auto3334C162F4CBCA3B263299EB1F9D54DC1.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/A/1M/J06MC41JKBMNB0IAQ7LGVT_Auto3.uasset'
+[2025.04.30-10.04.16:839][428]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Challenge' took 0.014
+[2025.04.30-10.04.16:839][428]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.014
+[2025.04.30-10.05.23:826][864]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.30-10.05.34:750][893]Cmd: EDIT COPY
+[2025.04.30-10.05.34:956][913]Cmd: EDIT PASTE
+[2025.04.30-10.06.44:110][164]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.30-10.07.38:911][953]Cmd: DELETE
+[2025.04.30-10.07.38:911][953]Cmd: ACTOR DELETE
+[2025.04.30-10.07.38:913][953]LogEditorActor: Deleted Actor: RectLight
+[2025.04.30-10.07.38:918][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.04.30-10.07.38:921][953]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.04.30-10.08.05:214][722]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.30-10.08.31:343][140]LogEditorViewport: Clicking Background
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: ================================================
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Total job queries 8624, among them cache hits 164 (1.90%), DDC hits 3369 (39.07%), Duplicates 1451 (16.83%)
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Tracking 7000 distinct input hashes that result in 6458 distinct outputs (92.26%)
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: RAM used: 146,07 MiB of 1,60 GiB budget. Usage: 8.92%
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Shaders Compiled: 3631
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Jobs assigned 3631, completed 3631 (100%)
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Average time worker was idle: 17.12 s
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Time job spent in pending queue: average 56.53 s, longest 128.50 s
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Job execution time: average 4.81 s, max 32.82 s
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Job life time (pending + execution): average 61.35 s, max 131.91
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Shader code size: average 45,04 KiB, min 2,706 KiB, max 332,057 KiB
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 175.15 s
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.92%
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Jobs were issued in 544 batches (only local compilation was used), average 6.67 jobs/batch
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Average processing rate: 20.73 jobs/sec
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Total thread time: 1857,381 s
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Total thread preprocess time: 64,338 s
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Percentage time preprocessing: 3.46%
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Effective parallelization: 10.60 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 11.57 sec, max 21.58 sec, min 1.56 sec)
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 11.25 sec, max 11.25 sec, min 11.25 sec)
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 8.07 sec, max 8.07 sec, min 8.07 sec)
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display:                                        FCloudRenderViewPS100 (compiled    1 times, average 5.14 sec, max 5.14 sec, min 5.14 sec)
+[2025.04.30-10.09.50:816][958]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 4.67 sec, max 7.80 sec, min 1.53 sec)
+[2025.04.30-10.09.50:817][958]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.30-10.09.50:817][958]LogShaderCompilers: Display:                                             FDeferredLightPS - 13.00% of total time (compiled  262 times, average 0.92 sec, max 2.37 sec, min 0.58 sec)
+[2025.04.30-10.09.50:817][958]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 8.12% of total time (compiled   68 times, average 2.22 sec, max 6.37 sec, min 0.80 sec)
+[2025.04.30-10.09.50:817][958]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 6.06% of total time (compiled  321 times, average 0.35 sec, max 1.17 sec, min 0.15 sec)
+[2025.04.30-10.09.50:817][958]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 5.79% of total time (compiled   96 times, average 1.12 sec, max 1.57 sec, min 0.81 sec)
+[2025.04.30-10.09.50:817][958]LogShaderCompilers: Display:                                                FOcclusionRGS - 5.22% of total time (compiled  192 times, average 0.50 sec, max 0.88 sec, min 0.24 sec)
+[2025.04.30-10.09.50:817][958]LogShaderCompilers: Display: === Material stats ===
+[2025.04.30-10.09.50:817][958]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.30-10.09.50:817][958]LogShaderCompilers: Display: Materials Translated:    169
+[2025.04.30-10.09.50:817][958]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.04.30-10.09.50:817][958]LogShaderCompilers: Display: Material Translation Only: 0.06 s (44%)
+[2025.04.30-10.09.50:817][958]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.30-10.09.50:817][958]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.04.30-10.09.50:817][958]LogShaderCompilers: Display: ================================================
+[2025.04.30-10.10.15:386][500]Cmd: TRANSACTION UNDO
+[2025.04.30-10.10.15:386][500]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.30-10.10.15:835][505]Cmd: TRANSACTION UNDO
+[2025.04.30-10.10.15:835][505]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.30-10.10.16:374][543]Cmd: TRANSACTION UNDO
+[2025.04.30-10.10.16:374][543]LogEditorTransaction: Undo Replace component used material
+[2025.04.30-10.10.41:010][999]LogEditorViewport: Clicking Background
+[2025.04.30-10.11.47:980][430]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: ================================================
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Total job queries 8643, among them cache hits 180 (2.08%), DDC hits 3369 (38.98%), Duplicates 1451 (16.79%)
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Tracking 7003 distinct input hashes that result in 6461 distinct outputs (92.26%)
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: RAM used: 146,16 MiB of 1,60 GiB budget. Usage: 8.92%
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Shaders Compiled: 3634
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Jobs assigned 3634, completed 3634 (100%)
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Average time worker was idle: 17.06 s
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Time job spent in pending queue: average 56.49 s, longest 128.50 s
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Job execution time: average 4.81 s, max 32.82 s
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Job life time (pending + execution): average 61.30 s, max 131.91
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Shader code size: average 45,029 KiB, min 2,706 KiB, max 332,057 KiB
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 176.56 s
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.92%
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Jobs were issued in 547 batches (only local compilation was used), average 6.64 jobs/batch
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Average processing rate: 20.58 jobs/sec
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Total thread time: 1858,743 s
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Total thread preprocess time: 64,506 s
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Percentage time preprocessing: 3.47%
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Effective parallelization: 10.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 11.57 sec, max 21.58 sec, min 1.56 sec)
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 11.25 sec, max 11.25 sec, min 11.25 sec)
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 8.07 sec, max 8.07 sec, min 8.07 sec)
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display:                                        FCloudRenderViewPS100 (compiled    1 times, average 5.14 sec, max 5.14 sec, min 5.14 sec)
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 4.67 sec, max 7.80 sec, min 1.53 sec)
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.99% of total time (compiled  262 times, average 0.92 sec, max 2.37 sec, min 0.58 sec)
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 8.11% of total time (compiled   68 times, average 2.22 sec, max 6.37 sec, min 0.80 sec)
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 6.06% of total time (compiled  321 times, average 0.35 sec, max 1.17 sec, min 0.15 sec)
+[2025.04.30-10.12.50:875][341]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 5.78% of total time (compiled   96 times, average 1.12 sec, max 1.57 sec, min 0.81 sec)
+[2025.04.30-10.12.50:876][341]LogShaderCompilers: Display:                                                FOcclusionRGS - 5.21% of total time (compiled  192 times, average 0.50 sec, max 0.88 sec, min 0.24 sec)
+[2025.04.30-10.12.50:876][341]LogShaderCompilers: Display: === Material stats ===
+[2025.04.30-10.12.50:876][341]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.30-10.12.50:876][341]LogShaderCompilers: Display: Materials Translated:    169
+[2025.04.30-10.12.50:876][341]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.04.30-10.12.50:876][341]LogShaderCompilers: Display: Material Translation Only: 0.06 s (44%)
+[2025.04.30-10.12.50:876][341]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.30-10.12.50:876][341]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.04.30-10.12.50:876][341]LogShaderCompilers: Display: ================================================
+[2025.04.30-10.14.43:935][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.04.30-10.14.43:938][680]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/C/RM/G71WEW8TNCA8G6NTKY7FM1_Auto4
+[2025.04.30-10.14.43:938][680]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/G71WEW8TNCA8G6NTKY7FM1_Auto48222901F4911D7FCE48CD4AE03DACA2F.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/C/RM/G71WEW8TNCA8G6NTKY7FM1_Auto4.uasset'
+[2025.04.30-10.14.43:940][680]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/6/D6/OOM5LI7K5FHFETUIMESM1E_Auto4
+[2025.04.30-10.14.43:940][680]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/OOM5LI7K5FHFETUIMESM1E_Auto4E9188911456962A5F64E8991637227F3.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/6/D6/OOM5LI7K5FHFETUIMESM1E_Auto4.uasset'
+[2025.04.30-10.14.43:943][680]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/A/1M/J06MC41JKBMNB0IAQ7LGVT_Auto4
+[2025.04.30-10.14.43:943][680]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/J06MC41JKBMNB0IAQ7LGVT_Auto49A3FCE1E4CCEA3EB9FCE0E9E6E666F8A.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/A/1M/J06MC41JKBMNB0IAQ7LGVT_Auto4.uasset'
+[2025.04.30-10.14.43:946][680]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/D/CC/OQ7JPOC5EYGUUFRALBD7MN_Auto4
+[2025.04.30-10.14.43:946][680]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/OQ7JPOC5EYGUUFRALBD7MN_Auto4CE90E9CD47F15C51F0B1758DA447DF46.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/D/CC/OQ7JPOC5EYGUUFRALBD7MN_Auto4.uasset'
+[2025.04.30-10.14.43:947][680]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Challenge' took 0.017
+[2025.04.30-10.14.43:947][680]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.017
+[2025.04.30-10.15.39:634][ 59]LogEditorViewport: Clicking Background
+[2025.04.30-10.16.42:573][ 87]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.30-10.16.46:722][556]LogEditorViewport: Clicking Background
+[2025.04.30-10.17.19:065][406]Cmd: EDIT COPY
+[2025.04.30-10.17.19:332][438]Cmd: EDIT PASTE
+[2025.04.30-10.17.21:201][652]Cmd: TRANSACTION UNDO
+[2025.04.30-10.17.21:201][652]LogEditorTransaction: Undo Paste
+[2025.04.30-10.17.29:707][452]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.30-10.17.30:799][535]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.30-10.17.33:115][711]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.30-10.17.59:440][777]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2025.04.30-10.17.59:440][777]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2025.04.30-10.18.23:256][520]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.30-10.18.30:418][ 55]Cmd: EDIT COPY
+[2025.04.30-10.18.30:627][ 71]Cmd: EDIT PASTE
+[2025.04.30-10.18.38:250][636]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.30-10.18.47:426][269]LogEditorViewport: Clicking Background
+[2025.04.30-10.18.48:731][365]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.30-10.19.50:214][ 55]Cmd: TRANSACTION UNDO
+[2025.04.30-10.19.50:214][ 55]LogEditorTransaction: Undo Scale Elements
+[2025.04.30-10.20.18:402][178]Cmd: DELETE
+[2025.04.30-10.20.18:402][178]Cmd: ACTOR DELETE
+[2025.04.30-10.20.18:405][178]LogEditorActor: Deleted Actor: PointLight
+[2025.04.30-10.20.18:410][178]LogWorldPartition: Actor /Game/Challenge.Challenge:PersistentLevel.PointLight_UAID_145AFC3FADECD46302_1678665353 is unreachable without properly detaching object /Game/__ExternalActors__/Challenge/9/5M/IMDV5QKMNGGH4NOZ7JTHLU.PackageMetaData in its package
+[2025.04.30-10.20.18:412][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.04.30-10.20.18:414][178]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2025.04.30-10.20.18:419][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.04.30-10.20.20:503][409]Cmd: DELETE
+[2025.04.30-10.20.20:503][409]Cmd: ACTOR DELETE
+[2025.04.30-10.20.20:506][409]LogEditorActor: Deleted Actor: PointLight
+[2025.04.30-10.20.20:510][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.04.30-10.20.20:514][409]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.04.30-10.20.42:409][663]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Emisivos/Emissicered1.Emissicered1
+[2025.04.30-10.20.42:434][663]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2025.04.30-10.20.42:457][663]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2025.04.30-10.20.42:713][663]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-10.20.42:713][663]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-10.20.42:713][663]MaterialEditorStats: Shader Count: 0
+[2025.04.30-10.20.42:713][663]MaterialEditorStats: Preshaders: 3  (3 param fetches, 8 ops)
+[2025.04.30-10.20.42:730][663]LogSlate: Took 0.006328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.30-10.20.42:854][665]MaterialEditorStats: Base pass shader: 138 instructions
+[2025.04.30-10.20.42:854][665]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-10.20.42:854][665]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-10.20.42:854][665]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-10.20.42:854][665]MaterialEditorStats: Shader Count: 9
+[2025.04.30-10.20.42:854][665]MaterialEditorStats: Preshaders: 3  (3 param fetches, 8 ops)
+[2025.04.30-10.20.58:613][765]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-10.20.58:613][765]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-10.20.58:613][765]MaterialEditorStats: Shader Count: 0
+[2025.04.30-10.20.58:613][765]MaterialEditorStats: Preshaders: 3  (3 param fetches, 8 ops)
+[2025.04.30-10.20.58:640][767]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-10.20.58:640][767]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-10.20.58:640][767]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-10.20.58:640][767]MaterialEditorStats: Shader Count: 4
+[2025.04.30-10.20.58:640][767]MaterialEditorStats: Preshaders: 3  (3 param fetches, 8 ops)
+[2025.04.30-10.20.58:653][768]MaterialEditorStats: Base pass shader: 138 instructions
+[2025.04.30-10.20.58:653][768]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-10.20.58:653][768]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-10.20.58:653][768]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-10.20.58:653][768]MaterialEditorStats: Shader Count: 9
+[2025.04.30-10.20.58:653][768]MaterialEditorStats: Preshaders: 3  (3 param fetches, 8 ops)
+[2025.04.30-10.21.02:811][ 34]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-10.21.02:812][ 34]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-10.21.02:812][ 34]MaterialEditorStats: Shader Count: 0
+[2025.04.30-10.21.02:812][ 34]MaterialEditorStats: Preshaders: 3  (3 param fetches, 8 ops)
+[2025.04.30-10.21.02:852][ 37]MaterialEditorStats: Base pass shader: 138 instructions
+[2025.04.30-10.21.02:852][ 37]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-10.21.02:852][ 37]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-10.21.02:852][ 37]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-10.21.02:852][ 37]MaterialEditorStats: Shader Count: 9
+[2025.04.30-10.21.02:852][ 37]MaterialEditorStats: Preshaders: 3  (3 param fetches, 8 ops)
+[2025.04.30-10.21.09:234][476]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-10.21.09:234][476]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-10.21.09:234][476]MaterialEditorStats: Shader Count: 0
+[2025.04.30-10.21.09:234][476]MaterialEditorStats: Preshaders: 3  (3 param fetches, 8 ops)
+[2025.04.30-10.21.09:365][479]MaterialEditorStats: Base pass shader: 138 instructions
+[2025.04.30-10.21.09:365][479]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-10.21.09:365][479]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-10.21.09:365][479]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-10.21.09:365][479]MaterialEditorStats: Shader Count: 9
+[2025.04.30-10.21.09:365][479]MaterialEditorStats: Preshaders: 3  (3 param fetches, 8 ops)
+[2025.04.30-10.21.13:747][766]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.30-10.21.13:751][766]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-10.21.13:751][766]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-10.21.13:751][766]MaterialEditorStats: Shader Count: 0
+[2025.04.30-10.21.13:751][766]MaterialEditorStats: Preshaders: 3  (3 param fetches, 8 ops)
+[2025.04.30-10.21.13:851][769]MaterialEditorStats: Base pass shader: 138 instructions
+[2025.04.30-10.21.13:851][769]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-10.21.13:851][769]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-10.21.13:851][769]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-10.21.13:851][769]MaterialEditorStats: Shader Count: 9
+[2025.04.30-10.21.13:851][769]MaterialEditorStats: Preshaders: 3  (3 param fetches, 8 ops)
+[2025.04.30-10.21.16:643][964]LogMaterialEditor: Saving and Compiling material Emissicered1
+[2025.04.30-10.21.16:731][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.30-10.21.17:699][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.04.30-10.21.17:710][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-10.21.17:767][964]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Emisivos/Emissicered1] ([1] browsable assets)...
+[2025.04.30-10.21.17:814][964]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Emisivos/Emissicered1.Emissicered1]
+[2025.04.30-10.21.17:814][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Emisivos/Emissicered1]
+[2025.04.30-10.21.17:814][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Emisivos/Emissicered1" FILE="../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/Emisivos/Emissicered1.uasset" SILENT=true
+[2025.04.30-10.21.17:816][964]LogSavePackage: Moving output files for package: /Game/Materials/Emisivos/Emissicered1
+[2025.04.30-10.21.17:817][964]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Emissicered1B1A46EA1443CA0AC77E73D8FB06EA3F7.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/Emisivos/Emissicered1.uasset'
+[2025.04.30-10.21.17:826][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.259 ms (total: 197.013 ms)
+[2025.04.30-10.21.17:883][964]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-10.21.17:883][964]LogContentValidation: Enabled validators:
+[2025.04.30-10.21.17:883][964]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-10.21.17:883][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-10.21.17:883][964]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-10.21.17:884][964]LogContentValidation: Display: Validating asset /Game/Materials/Emisivos/Emissicered1.Emissicered1
+[2025.04.30-10.21.17:884][964]AssetCheck: /Game/Materials/Emisivos/Emissicered1 Validating asset
+[2025.04.30-10.21.31:221][367]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.04.30-10.21.33:255][589]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.04.30-10.21.49:597][501]Cmd: TRANSACTION UNDO
+[2025.04.30-10.21.49:597][501]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: ================================================
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: Total job queries 8777, among them cache hits 293 (3.34%), DDC hits 3371 (38.41%), Duplicates 1451 (16.53%)
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: Tracking 7024 distinct input hashes that result in 6476 distinct outputs (92.20%)
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: RAM used: 146,50 MiB of 1,60 GiB budget. Usage: 8.94%
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: Shaders Compiled: 3653
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: Jobs assigned 3653, completed 3653 (100%)
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: Average time worker was idle: 42.77 s
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: Time job spent in pending queue: average 56.19 s, longest 128.50 s
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: Job execution time: average 4.79 s, max 32.82 s
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: Job life time (pending + execution): average 60.98 s, max 131.91
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: Shader code size: average 44,982 KiB, min 2,706 KiB, max 332,057 KiB
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 180.37 s
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.92%
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: Jobs were issued in 566 batches (only local compilation was used), average 6.45 jobs/batch
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: Average processing rate: 20.25 jobs/sec
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: Total thread time: 1866,491 s
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: Total thread preprocess time: 65,855 s
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: Percentage time preprocessing: 3.53%
+[2025.04.30-10.21.50:895][567]LogShaderCompilers: Display: Effective parallelization: 10.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 11.57 sec, max 21.58 sec, min 1.56 sec)
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 11.25 sec, max 11.25 sec, min 11.25 sec)
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 8.07 sec, max 8.07 sec, min 8.07 sec)
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display:                                        FCloudRenderViewPS100 (compiled    1 times, average 5.14 sec, max 5.14 sec, min 5.14 sec)
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 4.67 sec, max 7.80 sec, min 1.53 sec)
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.94% of total time (compiled  262 times, average 0.92 sec, max 2.37 sec, min 0.58 sec)
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 8.08% of total time (compiled   68 times, average 2.22 sec, max 6.37 sec, min 0.80 sec)
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 6.03% of total time (compiled  321 times, average 0.35 sec, max 1.17 sec, min 0.15 sec)
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 5.76% of total time (compiled   96 times, average 1.12 sec, max 1.57 sec, min 0.81 sec)
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display:                                                FOcclusionRGS - 5.19% of total time (compiled  192 times, average 0.50 sec, max 0.88 sec, min 0.24 sec)
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display: === Material stats ===
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display: Materials Translated:    183
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display: Material Translation Only: 0.07 s (43%)
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.04.30-10.21.50:896][567]LogShaderCompilers: Display: ================================================
+[2025.04.30-10.22.15:717][165]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics/Secuencer.Secuencer
+[2025.04.30-10.22.36:353][264]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.30-10.22.36:505][265]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.30-10.22.42:078][568]Cmd: TRANSACTION UNDO
+[2025.04.30-10.22.42:078][568]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.30-10.22.45:763][881]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.30-10.22.54:292][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.30-10.22.54:298][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.30-10.22.54:310][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.30-10.22.54:318][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.30-10.23.03:363][445]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.30-10.24.38:778][ 95]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.30-10.24.47:480][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.04.30-10.24.47:485][714]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/6/Y8/4IPNYFC8K769F4OUFEJ7HJ_Auto5
+[2025.04.30-10.24.47:485][714]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/4IPNYFC8K769F4OUFEJ7HJ_Auto54D1FD57345C594F6FE90C5BBB3CD0A9E.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/6/Y8/4IPNYFC8K769F4OUFEJ7HJ_Auto5.uasset'
+[2025.04.30-10.24.47:487][714]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/8/IV/Q5QQABSCLZUKKYR48JNBML_Auto5
+[2025.04.30-10.24.47:487][714]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Q5QQABSCLZUKKYR48JNBML_Auto58F24787A47F1FF6F5B618594DA36453B.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/8/IV/Q5QQABSCLZUKKYR48JNBML_Auto5.uasset'
+[2025.04.30-10.24.47:488][714]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/C/RM/G71WEW8TNCA8G6NTKY7FM1_Auto5
+[2025.04.30-10.24.47:489][714]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/G71WEW8TNCA8G6NTKY7FM1_Auto5A08D72B04733A96558BA039C4E883506.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/C/RM/G71WEW8TNCA8G6NTKY7FM1_Auto5.uasset'
+[2025.04.30-10.24.47:491][714]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/6/D6/OOM5LI7K5FHFETUIMESM1E_Auto5
+[2025.04.30-10.24.47:491][714]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/OOM5LI7K5FHFETUIMESM1E_Auto5904C65B44DCD08841A44CD9F5E0B8BE6.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/6/D6/OOM5LI7K5FHFETUIMESM1E_Auto5.uasset'
+[2025.04.30-10.24.47:494][714]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/A/1M/J06MC41JKBMNB0IAQ7LGVT_Auto5
+[2025.04.30-10.24.47:494][714]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/J06MC41JKBMNB0IAQ7LGVT_Auto59FF8F57D4607A4AB0136C58387DBC88F.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/A/1M/J06MC41JKBMNB0IAQ7LGVT_Auto5.uasset'
+[2025.04.30-10.24.47:496][714]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/D/CC/OQ7JPOC5EYGUUFRALBD7MN_Auto5
+[2025.04.30-10.24.47:496][714]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/OQ7JPOC5EYGUUFRALBD7MN_Auto5539DC09D4D756828F6BEFF9E4B209ECB.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/D/CC/OQ7JPOC5EYGUUFRALBD7MN_Auto5.uasset'
+[2025.04.30-10.24.47:498][714]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/E/ZZ/IES4C8C9MA98AGFDFJ59NZ_Auto5
+[2025.04.30-10.24.47:498][714]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/IES4C8C9MA98AGFDFJ59NZ_Auto53A412CCE448C1B184B26B794EB6B99B2.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/E/ZZ/IES4C8C9MA98AGFDFJ59NZ_Auto5.uasset'
+[2025.04.30-10.24.47:500][714]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/0/IQ/PXSV95400KI8MXGCW7QYYL_Auto5
+[2025.04.30-10.24.47:500][714]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/PXSV95400KI8MXGCW7QYYL_Auto59155A4754ED40C4719F4C48BE391CCAC.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/0/IQ/PXSV95400KI8MXGCW7QYYL_Auto5.uasset'
+[2025.04.30-10.24.47:597][714]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Challenge' took 0.123
+[2025.04.30-10.24.47:597][714]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.123
+[2025.04.30-10.24.47:597][714]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Secuencer] ([1] browsable assets)...
+[2025.04.30-10.24.47:597][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Secuencer]
+[2025.04.30-10.24.47:607][714]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cinematics/Secuencer_Auto5
+[2025.04.30-10.24.47:607][714]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Secuencer_Auto52571383C4F76CE27FB1CD796F793834E.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/Cinematics/Secuencer_Auto5.uasset'
+[2025.04.30-10.24.47:607][714]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.04.30-10.24.49:270][803]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.30-10.26.25:915][876]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.04.30-10.26.50:581][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.30-10.26.50:589][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.30-10.26.50:597][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.30-10.26.50:606][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.30-10.26.54:211][322]Cmd: TRANSACTION UNDO
+[2025.04.30-10.26.54:211][322]LogEditorTransaction: Undo Move Elements
+[2025.04.30-10.27.26:898][817]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.04.30-10.30.53:649][468]LogEditorViewport: Clicking Background
+[2025.04.30-10.31.11:880][475]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BoxReflectionCapture
+[2025.04.30-10.31.11:880][475]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BoxReflectionCapture
+[2025.04.30-10.31.11:882][475]LogActorFactory: Actor Factory spawned Class /Script/Engine.BoxReflectionCapture as actor: BoxReflectionCapture /Game/Challenge.Challenge:PersistentLevel.BoxReflectionCapture_UAID_145AFC3FADECD56302_1437470533
+[2025.04.30-10.31.11:883][475]LogActorFactory: Actor Factory spawned Class /Script/Engine.BoxReflectionCapture as actor: BoxReflectionCapture /Game/Challenge.Challenge:PersistentLevel.BoxReflectionCapture_UAID_145AFC3FADECD56302_1437470533
+[2025.04.30-10.33.19:283][849]LogDerivedDataCache: D:/ZZ_Cache/Unreal: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: ================================================
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Total job queries 8779, among them cache hits 293 (3.34%), DDC hits 3371 (38.40%), Duplicates 1451 (16.53%)
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Tracking 7026 distinct input hashes that result in 6478 distinct outputs (92.20%)
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: RAM used: 146,56 MiB of 1,60 GiB budget. Usage: 8.95%
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Shaders Compiled: 3655
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Jobs assigned 3655, completed 3655 (100%)
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Average time worker was idle: 44.76 s
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Time job spent in pending queue: average 56.16 s, longest 128.50 s
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Job execution time: average 4.79 s, max 32.82 s
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Job life time (pending + execution): average 60.95 s, max 131.91
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Shader code size: average 44,989 KiB, min 2,706 KiB, max 332,057 KiB
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 181.13 s
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.92%
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Jobs were issued in 568 batches (only local compilation was used), average 6.43 jobs/batch
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Average processing rate: 20.18 jobs/sec
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Total thread time: 1867,193 s
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Total thread preprocess time: 65,873 s
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Percentage time preprocessing: 3.53%
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Effective parallelization: 10.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 11.57 sec, max 21.58 sec, min 1.56 sec)
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 11.25 sec, max 11.25 sec, min 11.25 sec)
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 8.07 sec, max 8.07 sec, min 8.07 sec)
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display:                                        FCloudRenderViewPS100 (compiled    1 times, average 5.14 sec, max 5.14 sec, min 5.14 sec)
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 4.67 sec, max 7.80 sec, min 1.53 sec)
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.93% of total time (compiled  262 times, average 0.92 sec, max 2.37 sec, min 0.58 sec)
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 8.08% of total time (compiled   68 times, average 2.22 sec, max 6.37 sec, min 0.80 sec)
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 6.03% of total time (compiled  321 times, average 0.35 sec, max 1.17 sec, min 0.15 sec)
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 5.76% of total time (compiled   96 times, average 1.12 sec, max 1.57 sec, min 0.81 sec)
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display:                                                FOcclusionRGS - 5.19% of total time (compiled  192 times, average 0.50 sec, max 0.88 sec, min 0.24 sec)
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: === Material stats ===
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Materials Translated:    183
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Material Translation Only: 0.07 s (43%)
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.04.30-10.33.50:925][533]LogShaderCompilers: Display: ================================================
+[2025.04.30-10.34.49:175][362]LogWorldPartition: Actor /Game/Challenge.Challenge:PersistentLevel.RectLight_UAID_145AFC3FADECD56302_1178439532 is unreachable without properly detaching object /Game/__ExternalActors__/Challenge/B/7F/6XKG2LNNT61N76P1YDETY9.PackageMetaData in its package
+[2025.04.30-10.34.49:182][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.04.30-10.34.49:187][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/6/Y8/4IPNYFC8K769F4OUFEJ7HJ_Auto6
+[2025.04.30-10.34.49:187][362]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/4IPNYFC8K769F4OUFEJ7HJ_Auto6B155069E46A45278712195B228975B32.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/6/Y8/4IPNYFC8K769F4OUFEJ7HJ_Auto6.uasset'
+[2025.04.30-10.34.49:190][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/8/IV/Q5QQABSCLZUKKYR48JNBML_Auto6
+[2025.04.30-10.34.49:190][362]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Q5QQABSCLZUKKYR48JNBML_Auto628E227214BE7DBE5B0DF839F02FD49C3.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/8/IV/Q5QQABSCLZUKKYR48JNBML_Auto6.uasset'
+[2025.04.30-10.34.49:195][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/C/RM/G71WEW8TNCA8G6NTKY7FM1_Auto6
+[2025.04.30-10.34.49:195][362]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/G71WEW8TNCA8G6NTKY7FM1_Auto6692BFE624C0BD5654DC7D4AA44B82ECF.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/C/RM/G71WEW8TNCA8G6NTKY7FM1_Auto6.uasset'
+[2025.04.30-10.34.49:195][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/6/D6/OOM5LI7K5FHFETUIMESM1E_Auto6
+[2025.04.30-10.34.49:195][362]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/OOM5LI7K5FHFETUIMESM1E_Auto6068A5A864617CB15DF1E5C81DF6202C3.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/6/D6/OOM5LI7K5FHFETUIMESM1E_Auto6.uasset'
+[2025.04.30-10.34.49:195][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/A/1M/J06MC41JKBMNB0IAQ7LGVT_Auto6
+[2025.04.30-10.34.49:195][362]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/J06MC41JKBMNB0IAQ7LGVT_Auto63BDA52C34892678A6A9AA281B6B40057.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/A/1M/J06MC41JKBMNB0IAQ7LGVT_Auto6.uasset'
+[2025.04.30-10.34.49:197][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/D/CC/OQ7JPOC5EYGUUFRALBD7MN_Auto6
+[2025.04.30-10.34.49:197][362]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/OQ7JPOC5EYGUUFRALBD7MN_Auto6B802E2C842AF4C5F78F445A1413423D6.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/D/CC/OQ7JPOC5EYGUUFRALBD7MN_Auto6.uasset'
+[2025.04.30-10.34.49:199][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/E/ZZ/IES4C8C9MA98AGFDFJ59NZ_Auto6
+[2025.04.30-10.34.49:199][362]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/IES4C8C9MA98AGFDFJ59NZ_Auto6EA1526DC4A11AFC539F218B8DEB0C1AA.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/E/ZZ/IES4C8C9MA98AGFDFJ59NZ_Auto6.uasset'
+[2025.04.30-10.34.49:201][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/0/IQ/PXSV95400KI8MXGCW7QYYL_Auto6
+[2025.04.30-10.34.49:201][362]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/PXSV95400KI8MXGCW7QYYL_Auto697B857B14FDDF191C34BCC962DD5D92E.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/0/IQ/PXSV95400KI8MXGCW7QYYL_Auto6.uasset'
+[2025.04.30-10.34.49:205][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/2/CX/VER2HP45MYOUSFY7VJLEF2_Auto6
+[2025.04.30-10.34.49:205][362]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/VER2HP45MYOUSFY7VJLEF2_Auto65FDB2043454164A9F1E7EBA7E626A9EE.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/2/CX/VER2HP45MYOUSFY7VJLEF2_Auto6.uasset'
+[2025.04.30-10.34.49:207][362]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Challenge' took 0.038
+[2025.04.30-10.34.49:207][362]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2025.04.30-10.34.49:207][362]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Secuencer] ([1] browsable assets)...
+[2025.04.30-10.34.49:207][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Secuencer]
+[2025.04.30-10.34.49:215][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cinematics/Secuencer_Auto6
+[2025.04.30-10.34.49:215][362]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Secuencer_Auto664439839432A5E71617CC491A408DA63.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/Cinematics/Secuencer_Auto6.uasset'
+[2025.04.30-10.34.49:216][362]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.04.30-10.34.49:472][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.04.30-10.37.52:511][199]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BoxReflectionCapture
+[2025.04.30-10.37.52:511][199]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BoxReflectionCapture
+[2025.04.30-10.37.52:514][199]LogActorFactory: Actor Factory spawned Class /Script/Engine.BoxReflectionCapture as actor: BoxReflectionCapture /Game/Challenge.Challenge:PersistentLevel.BoxReflectionCapture_UAID_145AFC3FADECD56302_1838101534
+[2025.04.30-10.37.52:514][199]LogActorFactory: Actor Factory spawned Class /Script/Engine.BoxReflectionCapture as actor: BoxReflectionCapture /Game/Challenge.Challenge:PersistentLevel.BoxReflectionCapture_UAID_145AFC3FADECD56302_1838101534
+[2025.04.30-10.40.07:732][717]Cmd: EDIT COPY
+[2025.04.30-10.40.08:009][746]Cmd: EDIT PASTE
+[2025.04.30-10.40.54:825][176]Cmd: EDIT COPY
+[2025.04.30-10.40.55:020][192]Cmd: EDIT PASTE
+[2025.04.30-10.41.52:092][764]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-10.41.52:170][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.04.30-10.41.52:177][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.04.30-10.41.52:181][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.04.30-10.41.52:184][764]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/6/Y8/4IPNYFC8K769F4OUFEJ7HJ
+[2025.04.30-10.41.52:184][764]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/4IPNYFC8K769F4OUFEJ7HJ336B6F0A484B96DC6FE45385466BDCE5.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/6/Y8/4IPNYFC8K769F4OUFEJ7HJ.uasset'
+[2025.04.30-10.41.52:186][764]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/8/IV/Q5QQABSCLZUKKYR48JNBML
+[2025.04.30-10.41.52:187][764]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Q5QQABSCLZUKKYR48JNBMLD87E50D14F226BD82CAEDFA6ADB45640.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/8/IV/Q5QQABSCLZUKKYR48JNBML.uasset'
+[2025.04.30-10.41.52:188][764]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/C/RM/G71WEW8TNCA8G6NTKY7FM1
+[2025.04.30-10.41.52:188][764]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/G71WEW8TNCA8G6NTKY7FM109BC0A314C078038366D59A2C1062B77.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/C/RM/G71WEW8TNCA8G6NTKY7FM1.uasset'
+[2025.04.30-10.41.52:191][764]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/6/D6/OOM5LI7K5FHFETUIMESM1E
+[2025.04.30-10.41.52:191][764]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/OOM5LI7K5FHFETUIMESM1EE1F0D8664BD34A9E5CB4188CD49E2013.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/6/D6/OOM5LI7K5FHFETUIMESM1E.uasset'
+[2025.04.30-10.41.52:193][764]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/A/1M/J06MC41JKBMNB0IAQ7LGVT
+[2025.04.30-10.41.52:194][764]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/J06MC41JKBMNB0IAQ7LGVT0EF5354B4DDB98C17824BBA0F2AA1C3D.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/A/1M/J06MC41JKBMNB0IAQ7LGVT.uasset'
+[2025.04.30-10.41.52:195][764]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/D/CC/OQ7JPOC5EYGUUFRALBD7MN
+[2025.04.30-10.41.52:196][764]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/OQ7JPOC5EYGUUFRALBD7MNABC5A1B44CF4D4D9113FD8AB26093189.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/D/CC/OQ7JPOC5EYGUUFRALBD7MN.uasset'
+[2025.04.30-10.41.52:198][764]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/E/ZZ/IES4C8C9MA98AGFDFJ59NZ
+[2025.04.30-10.41.52:198][764]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/IES4C8C9MA98AGFDFJ59NZ271AC2FB4D3E72EFCCF9BFBE0AF0B094.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/E/ZZ/IES4C8C9MA98AGFDFJ59NZ.uasset'
+[2025.04.30-10.41.52:199][764]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/0/IQ/PXSV95400KI8MXGCW7QYYL
+[2025.04.30-10.41.52:199][764]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/PXSV95400KI8MXGCW7QYYLEF61EC114F1F6CF8FE6560897170F693.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/0/IQ/PXSV95400KI8MXGCW7QYYL.uasset'
+[2025.04.30-10.41.52:201][764]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/2/CX/VER2HP45MYOUSFY7VJLEF2
+[2025.04.30-10.41.52:201][764]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/VER2HP45MYOUSFY7VJLEF242DDE2E74379CC7294E877854E4D34A8.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/2/CX/VER2HP45MYOUSFY7VJLEF2.uasset'
+[2025.04.30-10.41.52:203][764]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/D/N7/7FSZ63S2DLJW3FH7GQ4VCK
+[2025.04.30-10.41.52:203][764]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/7FSZ63S2DLJW3FH7GQ4VCK909C23ED4BA0B36E0A4D4B9BD51598B1.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/D/N7/7FSZ63S2DLJW3FH7GQ4VCK.uasset'
+[2025.04.30-10.41.52:205][764]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/8/H2/WHF9KQXNHCWYL9DMV40JCU
+[2025.04.30-10.41.52:205][764]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/WHF9KQXNHCWYL9DMV40JCUDC5077F840F608BB425250B13B82A378.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/8/H2/WHF9KQXNHCWYL9DMV40JCU.uasset'
+[2025.04.30-10.41.52:207][764]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/B/DJ/SSPA4DEIF8S1U6RRF8NINW
+[2025.04.30-10.41.52:207][764]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/SSPA4DEIF8S1U6RRF8NINW818B43F14B00368951118EA3DFF5CB2F.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/B/DJ/SSPA4DEIF8S1U6RRF8NINW.uasset'
+[2025.04.30-10.41.52:218][764]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.274 ms (total: 323.287 ms)
+[2025.04.30-10.41.52:268][764]LogContentValidation: Display: Starting to validate 12 assets
+[2025.04.30-10.41.52:268][764]LogContentValidation: Enabled validators:
+[2025.04.30-10.41.52:268][764]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-10.41.52:268][764]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-10.41.52:268][764]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-10.41.52:269][764]LogContentValidation: Display: Validating asset /Game/Challenge.Challenge
+[2025.04.30-10.41.52:269][764]AssetCheck: /Game/Challenge Validating asset
