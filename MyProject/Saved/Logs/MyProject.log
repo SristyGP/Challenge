@@ -3505,3 +3505,108 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.04.30-11.57.30:749][468]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.30-11.57.30:749][468]LogContentValidation: Display: Validating asset /Game/Challenge.Challenge
 [2025.04.30-11.57.30:750][468]AssetCheck: /Game/Challenge Validating asset
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: ================================================
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Total job queries 9524, among them cache hits 928 (9.74%), DDC hits 3371 (35.39%), Duplicates 1451 (15.24%)
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Tracking 7136 distinct input hashes that result in 6565 distinct outputs (92.00%)
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: RAM used: 148,89 MiB of 1,60 GiB budget. Usage: 9.09%
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Shaders Compiled: 3765
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Jobs assigned 3765, completed 3765 (100%)
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Average time worker was idle: 91.40 s
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Time job spent in pending queue: average 54.52 s, longest 128.50 s
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Job execution time: average 4.67 s, max 32.82 s
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Job life time (pending + execution): average 59.19 s, max 131.91
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Shader code size: average 44,875 KiB, min 2,706 KiB, max 332,057 KiB
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 209.97 s
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.90%
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Jobs were issued in 678 batches (only local compilation was used), average 5.55 jobs/batch
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Average processing rate: 17.93 jobs/sec
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Total thread time: 1918,416 s
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Total thread preprocess time: 73,15 s
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Percentage time preprocessing: 3.81%
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Effective parallelization: 9.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 11.57 sec, max 21.58 sec, min 1.56 sec)
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 11.25 sec, max 11.25 sec, min 11.25 sec)
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 8.07 sec, max 8.07 sec, min 8.07 sec)
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display:                                        FCloudRenderViewPS100 (compiled    1 times, average 5.14 sec, max 5.14 sec, min 5.14 sec)
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 4.67 sec, max 7.80 sec, min 1.53 sec)
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.59% of total time (compiled  262 times, average 0.92 sec, max 2.37 sec, min 0.58 sec)
+[2025.04.30-11.57.51:998][656]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 7.86% of total time (compiled   68 times, average 2.22 sec, max 6.37 sec, min 0.80 sec)
+[2025.04.30-11.57.51:999][656]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.87% of total time (compiled  321 times, average 0.35 sec, max 1.17 sec, min 0.15 sec)
+[2025.04.30-11.57.51:999][656]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 5.60% of total time (compiled   96 times, average 1.12 sec, max 1.57 sec, min 0.81 sec)
+[2025.04.30-11.57.51:999][656]LogShaderCompilers: Display:                                                FOcclusionRGS - 5.05% of total time (compiled  192 times, average 0.50 sec, max 0.88 sec, min 0.24 sec)
+[2025.04.30-11.57.51:999][656]LogShaderCompilers: Display: === Material stats ===
+[2025.04.30-11.57.51:999][656]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.30-11.57.51:999][656]LogShaderCompilers: Display: Materials Translated:    361
+[2025.04.30-11.57.51:999][656]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.04.30-11.57.51:999][656]LogShaderCompilers: Display: Material Translation Only: 0.09 s (45%)
+[2025.04.30-11.57.51:999][656]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.30-11.57.51:999][656]LogShaderCompilers: Display: Material Cache Hits: 1 (0%)
+[2025.04.30-11.57.51:999][656]LogShaderCompilers: Display: ================================================
+[2025.04.30-11.58.49:664][ 46]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/CorrectFBX/PoliceCar/CRISTALCOCHE.CRISTALCOCHE
+[2025.04.30-11.58.49:853][ 46]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.58.49:853][ 46]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.58.49:853][ 46]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.58.49:853][ 46]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.58.49:928][ 48]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.58.49:928][ 48]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.58.49:928][ 48]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.58.49:928][ 48]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.58.49:928][ 48]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.58.58:238][514]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.58.58:238][514]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.58.58:238][514]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.58.58:238][514]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.58.58:276][517]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.58.58:276][517]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.58.58:276][517]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.58.58:276][517]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.58.58:276][517]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.59.00:637][643]LogMaterialEditor: Saving and Compiling material CRISTALCOCHE
+[2025.04.30-11.59.00:727][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.04.30-11.59.01:692][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.04.30-11.59.01:702][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-11.59.01:741][643]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CorrectFBX/PoliceCar/CRISTALCOCHE] ([1] browsable assets)...
+[2025.04.30-11.59.01:746][643]OBJ SavePackage:     Rendered thumbnail for [Material /Game/CorrectFBX/PoliceCar/CRISTALCOCHE.CRISTALCOCHE]
+[2025.04.30-11.59.01:746][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/CorrectFBX/PoliceCar/CRISTALCOCHE]
+[2025.04.30-11.59.01:748][643]LogSavePackage: Moving output files for package: /Game/CorrectFBX/PoliceCar/CRISTALCOCHE
+[2025.04.30-11.59.01:749][643]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/CRISTALCOCHEFF0369D44828BCD95C354BB13967FF3D.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/CorrectFBX/PoliceCar/CRISTALCOCHE.uasset'
+[2025.04.30-11.59.01:756][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.573 ms (total: 1.83 sec)
+[2025.04.30-11.59.01:808][643]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-11.59.01:808][643]LogContentValidation: Enabled validators:
+[2025.04.30-11.59.01:808][643]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-11.59.01:808][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-11.59.01:808][643]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-11.59.01:809][643]LogContentValidation: Display: Validating asset /Game/CorrectFBX/PoliceCar/CRISTALCOCHE.CRISTALCOCHE
+[2025.04.30-11.59.01:809][643]AssetCheck: /Game/CorrectFBX/PoliceCar/CRISTALCOCHE Validating asset
+[2025.04.30-11.59.01:820][643]MaterialEditorStats: Base pass shader: 230 instructions
+[2025.04.30-11.59.01:820][643]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.59.01:820][643]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.59.01:820][643]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.59.01:820][643]MaterialEditorStats: Shader Count: 13
+[2025.04.30-11.59.01:820][643]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.59.05:149][814]LogSlate: Window 'CRISTALCOCHE' being destroyed
+[2025.04.30-11.59.05:164][814]LogSlate: Window 'CRISTALCOCHE' being destroyed
+[2025.04.30-11.59.05:189][814]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.04.30-11.59.05:189][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.30-11.59.05:206][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.04.30-11.59.32:992][816]LogEditorViewport: Clicking Background
+[2025.04.30-11.59.38:151][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-11.59.38:232][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.04.30-11.59.38:240][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.04.30-11.59.38:246][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.04.30-11.59.38:247][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/D/BU/RWNCQ0BUC9HBFQ3R70R3FX
+[2025.04.30-11.59.38:248][216]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/RWNCQ0BUC9HBFQ3R70R3FX42CDD1CB45C5B62F78532B81DEA1BD3A.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/D/BU/RWNCQ0BUC9HBFQ3R70R3FX.uasset'
+[2025.04.30-11.59.38:250][216]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/EW/WR7P0AD6K3CFM0AC5HCCQU
+[2025.04.30-11.59.38:250][216]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/WR7P0AD6K3CFM0AC5HCCQU089BFE464F60F8E266F466A6A56269AD.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/EW/WR7P0AD6K3CFM0AC5HCCQU.uasset'
+[2025.04.30-11.59.38:265][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.850 ms (total: 1.94 sec)
+[2025.04.30-11.59.38:321][216]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.30-11.59.38:321][216]LogContentValidation: Enabled validators:
+[2025.04.30-11.59.38:321][216]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-11.59.38:321][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-11.59.38:321][216]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-11.59.38:321][216]LogContentValidation: Display: Validating asset /Game/Challenge.Challenge
+[2025.04.30-11.59.38:322][216]AssetCheck: /Game/Challenge Validating asset
