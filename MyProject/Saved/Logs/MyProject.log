@@ -2094,3 +2094,1414 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.04.30-10.41.52:268][764]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.30-10.41.52:269][764]LogContentValidation: Display: Validating asset /Game/Challenge.Challenge
 [2025.04.30-10.41.52:269][764]AssetCheck: /Game/Challenge Validating asset
+[2025.04.30-10.44.54:609][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.04.30-10.44.54:612][895]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Challenge' took 0.010
+[2025.04.30-10.44.54:612][895]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Secuencer] ([1] browsable assets)...
+[2025.04.30-10.44.54:612][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Secuencer]
+[2025.04.30-10.44.54:621][895]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cinematics/Secuencer_Auto7
+[2025.04.30-10.44.54:621][895]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Secuencer_Auto717A8C8084D2DF49976796296923C185E.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/Cinematics/Secuencer_Auto7.uasset'
+[2025.04.30-10.44.54:622][895]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.04.30-11.01.12:836][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.04.30-11.01.12:844][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/1/L7/K6HK83NBPUIYS4FVSY848C_Auto8
+[2025.04.30-11.01.12:844][878]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/K6HK83NBPUIYS4FVSY848C_Auto8701325854718036AAD4726B61405833F.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/1/L7/K6HK83NBPUIYS4FVSY848C_Auto8.uasset'
+[2025.04.30-11.01.12:847][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/2/CX/VER2HP45MYOUSFY7VJLEF2_Auto8
+[2025.04.30-11.01.12:847][878]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/VER2HP45MYOUSFY7VJLEF2_Auto82A4BDA3741C4029B86CCB19C5335A44F.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/2/CX/VER2HP45MYOUSFY7VJLEF2_Auto8.uasset'
+[2025.04.30-11.01.12:850][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/D/N7/7FSZ63S2DLJW3FH7GQ4VCK_Auto8
+[2025.04.30-11.01.12:850][878]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/7FSZ63S2DLJW3FH7GQ4VCK_Auto80646D4E34BCC2DCB2283F7AFC52FB3C5.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/D/N7/7FSZ63S2DLJW3FH7GQ4VCK_Auto8.uasset'
+[2025.04.30-11.01.12:854][878]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Challenge' took 0.027
+[2025.04.30-11.01.12:854][878]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2025.04.30-11.01.12:854][878]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Secuencer] ([1] browsable assets)...
+[2025.04.30-11.01.12:854][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Secuencer]
+[2025.04.30-11.01.12:862][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cinematics/Secuencer_Auto8
+[2025.04.30-11.01.12:862][878]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Secuencer_Auto8571E931444996F206112BABA57A70706.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/Cinematics/Secuencer_Auto8.uasset'
+[2025.04.30-11.01.12:863][878]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.04.30-11.07.49:451][801]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2025.04.30-11.09.39:355][905]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/CorrectFBX/EmissiveCat/EmmisiveCat.fbx)
+[2025.04.30-11.09.39:372][905]LogFbx: Loading FBX Scene from C:/Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/CorrectFBX/EmissiveCat/EmmisiveCat.fbx
+[2025.04.30-11.09.39:377][905]LogFbx: FBX Scene Loaded Succesfully
+[2025.04.30-11.09.42:078][905]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.04.30-11.09.42:161][905]LogStaticMesh: Built static mesh [0.01s] /Game/CorrectFBX/EmissiveCat/EmmisiveCat.EmmisiveCat
+[2025.04.30-11.09.42:299][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-11.09.42:360][906]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CorrectFBX/EmissiveCat/EmmisiveCat] ([1] browsable assets)...
+[2025.04.30-11.09.42:441][906]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CorrectFBX/EmissiveCat/EmmisiveCat.EmmisiveCat]
+[2025.04.30-11.09.42:441][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/CorrectFBX/EmissiveCat/EmmisiveCat]
+[2025.04.30-11.09.42:454][906]LogSavePackage: Moving output files for package: /Game/CorrectFBX/EmissiveCat/EmmisiveCat
+[2025.04.30-11.09.42:454][906]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/EmmisiveCat5609CAD64D4589B86AFECA971024C99B.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/CorrectFBX/EmissiveCat/EmmisiveCat.uasset'
+[2025.04.30-11.09.42:465][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.385 ms (total: 488.673 ms)
+[2025.04.30-11.09.42:640][907]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-11.09.42:640][907]LogContentValidation: Enabled validators:
+[2025.04.30-11.09.42:640][907]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-11.09.42:640][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-11.09.42:640][907]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-11.09.42:642][907]LogContentValidation: Display: Validating asset /Game/CorrectFBX/EmissiveCat/EmmisiveCat.EmmisiveCat
+[2025.04.30-11.09.42:642][907]AssetCheck: /Game/CorrectFBX/EmissiveCat/EmmisiveCat Validating asset
+[2025.04.30-11.09.44:675][ 52]LogSlate: Window 'Message Log' being destroyed
+[2025.04.30-11.09.44:679][ 52]LogSlate: Window 'Message Log' being destroyed
+[2025.04.30-11.09.45:466][113]AssetReimport: Importing new asset /Game/CorrectFBX/EmissiveCat/EmmisiveCat.
+[2025.04.30-11.09.58:760][315]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.30-11.10.05:965][856]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CorrectFBX/EmissiveCat/EmmisiveCat.EmmisiveCat
+[2025.04.30-11.10.05:965][856]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CorrectFBX/EmissiveCat/EmmisiveCat.EmmisiveCat
+[2025.04.30-11.10.05:966][856]LogActorFactory: Actor Factory spawned StaticMesh /Game/CorrectFBX/EmissiveCat/EmmisiveCat.EmmisiveCat as actor: StaticMeshActor /Game/Challenge.Challenge:PersistentLevel.StaticMeshActor_0
+[2025.04.30-11.10.08:669][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.04.30-11.10.08:672][ 88]LogEditorActor: Deleted 0 Actors (0.010 secs)
+[2025.04.30-11.10.08:680][ 88]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CorrectFBX/EmissiveCat/EmmisiveCat.EmmisiveCat
+[2025.04.30-11.10.08:680][ 88]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CorrectFBX/EmissiveCat/EmmisiveCat.EmmisiveCat
+[2025.04.30-11.10.08:682][ 88]LogActorFactory: Actor Factory spawned StaticMesh /Game/CorrectFBX/EmissiveCat/EmmisiveCat.EmmisiveCat as actor: StaticMeshActor /Game/Challenge.Challenge:PersistentLevel.StaticMeshActor_UAID_145AFC3FADECD76302_1626786889
+[2025.04.30-11.10.44:245][590]LogEditorViewport: Clicking Background
+[2025.04.30-11.11.11:884][790]Cmd: DELETE
+[2025.04.30-11.11.11:884][790]Cmd: ACTOR DELETE
+[2025.04.30-11.11.11:888][790]LogEditorActor: Deleted Actor: CineCameraActor
+[2025.04.30-11.11.11:893][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.04.30-11.11.11:897][790]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.04.30-11.11.12:886][855]Cmd: DELETE
+[2025.04.30-11.11.12:886][855]Cmd: ACTOR DELETE
+[2025.04.30-11.11.12:889][855]LogEditorActor: Deleted Actor: CineCameraActor
+[2025.04.30-11.11.12:919][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.04.30-11.11.12:923][855]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2025.04.30-11.11.25:151][835]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cinematics/Secuencer.Secuencer
+[2025.04.30-11.11.25:255][835]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.30-11.12.23:730][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.04.30-11.12.23:735][315]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/5/D0/7CE378OVQ2IIMBLSWMLZKT_Auto9
+[2025.04.30-11.12.23:735][315]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/7CE378OVQ2IIMBLSWMLZKT_Auto902B0BD9446536E7596BF04866AA03027.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/5/D0/7CE378OVQ2IIMBLSWMLZKT_Auto9.uasset'
+[2025.04.30-11.12.23:738][315]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Challenge' took 0.014
+[2025.04.30-11.12.23:738][315]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.014
+[2025.04.30-11.12.23:739][315]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Secuencer] ([1] browsable assets)...
+[2025.04.30-11.12.23:739][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Secuencer]
+[2025.04.30-11.12.23:749][315]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cinematics/Secuencer_Auto9
+[2025.04.30-11.12.23:749][315]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Secuencer_Auto94A031C784C968AB238DFC3BF0F3E08E2.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/Cinematics/Secuencer_Auto9.uasset'
+[2025.04.30-11.12.23:749][315]LogFileHelpers: Auto-saving content packages took 0.011
+[2025.04.30-11.15.38:352][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CorrectFBX/EmissiveCat/EmmisiveCat.EmmisiveCat
+[2025.04.30-11.15.38:352][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CorrectFBX/EmissiveCat/EmmisiveCat.EmmisiveCat
+[2025.04.30-11.15.38:352][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/CorrectFBX/EmissiveCat/EmmisiveCat.EmmisiveCat as actor: StaticMeshActor /Game/Challenge.Challenge:PersistentLevel.StaticMeshActor_1
+[2025.04.30-11.15.39:416][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.04.30-11.15.39:417][ 48]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2025.04.30-11.15.39:422][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CorrectFBX/EmissiveCat/EmmisiveCat.EmmisiveCat
+[2025.04.30-11.15.39:422][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CorrectFBX/EmissiveCat/EmmisiveCat.EmmisiveCat
+[2025.04.30-11.15.39:424][ 48]LogActorFactory: Actor Factory spawned StaticMesh /Game/CorrectFBX/EmissiveCat/EmmisiveCat.EmmisiveCat as actor: StaticMeshActor /Game/Challenge.Challenge:PersistentLevel.StaticMeshActor_UAID_145AFC3FADECD76302_1957528890
+[2025.04.30-11.22.24:180][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.04.30-11.22.24:186][925]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/3/I7/YNMTI4RTDPL804B6YFVYZ1_Auto0
+[2025.04.30-11.22.24:186][925]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/YNMTI4RTDPL804B6YFVYZ1_Auto04122D50B4FB6EAA6EED1B88D0E979286.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/3/I7/YNMTI4RTDPL804B6YFVYZ1_Auto0.uasset'
+[2025.04.30-11.22.24:190][925]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Challenge' took 0.017
+[2025.04.30-11.22.24:190][925]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.017
+[2025.04.30-11.22.24:190][925]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Secuencer] ([1] browsable assets)...
+[2025.04.30-11.22.24:190][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Secuencer]
+[2025.04.30-11.22.24:202][925]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cinematics/Secuencer_Auto0
+[2025.04.30-11.22.24:202][925]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Secuencer_Auto04BA69A134FEEB2B9928DCABBAAE235C5.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/Cinematics/Secuencer_Auto0.uasset'
+[2025.04.30-11.22.24:202][925]LogFileHelpers: Auto-saving content packages took 0.012
+[2025.04.30-11.25.30:869][459]Cmd: DELETE
+[2025.04.30-11.25.30:869][459]Cmd: ACTOR DELETE
+[2025.04.30-11.25.30:872][459]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.30-11.25.30:884][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.04.30-11.25.30:887][459]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2025.04.30-11.25.42:648][306]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/CorrectFBX/EmissiveCat/Chill_Out.fbx)
+[2025.04.30-11.25.42:653][306]LogFbx: Loading FBX Scene from C:/Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/CorrectFBX/EmissiveCat/Chill_Out.fbx
+[2025.04.30-11.25.42:656][306]LogFbx: FBX Scene Loaded Succesfully
+[2025.04.30-11.25.44:068][306]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.04.30-11.25.44:129][306]LogStaticMesh: Built static mesh [0.01s] /Game/CorrectFBX/EmissiveCat/Chill_Out.Chill_Out
+[2025.04.30-11.25.44:225][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-11.25.44:285][307]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CorrectFBX/EmissiveCat/Chill_Out] ([1] browsable assets)...
+[2025.04.30-11.25.44:367][307]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CorrectFBX/EmissiveCat/Chill_Out.Chill_Out]
+[2025.04.30-11.25.44:367][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/CorrectFBX/EmissiveCat/Chill_Out]
+[2025.04.30-11.25.44:367][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CorrectFBX/EmissiveCat/Chill_Out" FILE="../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/CorrectFBX/EmissiveCat/Chill_Out.uasset" SILENT=true
+[2025.04.30-11.25.44:372][307]LogSavePackage: Moving output files for package: /Game/CorrectFBX/EmissiveCat/Chill_Out
+[2025.04.30-11.25.44:372][307]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Chill_Out2F05E84D4EB7BD4A00AF57AA6D058F04.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/CorrectFBX/EmissiveCat/Chill_Out.uasset'
+[2025.04.30-11.25.44:381][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.776 ms (total: 645.449 ms)
+[2025.04.30-11.25.44:549][308]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-11.25.44:549][308]LogContentValidation: Enabled validators:
+[2025.04.30-11.25.44:549][308]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-11.25.44:549][308]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-11.25.44:549][308]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-11.25.44:549][308]LogContentValidation: Display: Validating asset /Game/CorrectFBX/EmissiveCat/Chill_Out.Chill_Out
+[2025.04.30-11.25.44:549][308]AssetCheck: /Game/CorrectFBX/EmissiveCat/Chill_Out Validating asset
+[2025.04.30-11.25.46:185][419]LogSlate: Window 'Message Log' being destroyed
+[2025.04.30-11.25.46:189][419]LogSlate: Window 'Message Log' being destroyed
+[2025.04.30-11.25.47:390][510]AssetReimport: Importing new asset /Game/CorrectFBX/EmissiveCat/Chill_Out.
+[2025.04.30-11.25.52:631][916]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CorrectFBX/EmissiveCat/Chill_Out.Chill_Out
+[2025.04.30-11.25.52:631][916]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CorrectFBX/EmissiveCat/Chill_Out.Chill_Out
+[2025.04.30-11.25.52:632][916]LogActorFactory: Actor Factory spawned StaticMesh /Game/CorrectFBX/EmissiveCat/Chill_Out.Chill_Out as actor: StaticMeshActor /Game/Challenge.Challenge:PersistentLevel.StaticMeshActor_2
+[2025.04.30-11.25.54:387][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.04.30-11.25.54:390][ 86]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2025.04.30-11.25.54:396][ 86]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CorrectFBX/EmissiveCat/Chill_Out.Chill_Out
+[2025.04.30-11.25.54:396][ 86]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CorrectFBX/EmissiveCat/Chill_Out.Chill_Out
+[2025.04.30-11.25.54:398][ 86]LogActorFactory: Actor Factory spawned StaticMesh /Game/CorrectFBX/EmissiveCat/Chill_Out.Chill_Out as actor: StaticMeshActor /Game/Challenge.Challenge:PersistentLevel.StaticMeshActor_UAID_145AFC3FADECD86302_1498761067
+[2025.04.30-11.27.05:539][751]LogEditorViewport: Clicking Background
+[2025.04.30-11.30.26:725][ 22]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.30-11.30.29:397][195]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.30-11.30.32:363][359]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.30-11.30.42:079][963]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.30-11.32.03:800][581]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.30-11.32.04:668][638]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.30-11.32.05:229][673]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.30-11.32.26:969][ 46]Cmd: EDIT COPY
+[2025.04.30-11.32.27:191][ 60]Cmd: EDIT PASTE
+[2025.04.30-11.32.54:356][168]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.30-11.33.19:283][802]LogDerivedDataCache: D:/ZZ_Cache/Unreal: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.30-11.34.24:949][163]Cmd: DELETE
+[2025.04.30-11.34.24:949][163]Cmd: ACTOR DELETE
+[2025.04.30-11.34.24:952][163]LogEditorActor: Deleted Actor: BoxReflectionCapture
+[2025.04.30-11.34.24:965][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.04.30-11.34.24:970][163]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.04.30-11.34.42:317][409]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.30-11.35.02:725][933]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.30-11.35.02:741][933]LogContentBundle: [Challenge(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.30-11.35.02:741][933]LogWorldPartition: Display: GenerateStreaming for 'Challenge' started...
+[2025.04.30-11.35.02:752][933]LogWorldPartition: Display: GenerateStreaming for 'Challenge' took 11.308 ms
+[2025.04.30-11.35.02:756][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.30-11.35.02:764][933]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.04.30-11.35.02:765][933]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.04.30-11.35.02:766][933]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Challenge
+[2025.04.30-11.35.02:785][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019207s)
+[2025.04.30-11.35.02:785][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Challenge.Challenge to /Game/UEDPIE_0_Challenge.Challenge (0.019381s)
+[2025.04.30-11.35.02:792][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.04.30-11.35.02:794][933]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.04.30-11.35.02:795][933]LogWorldPartition: ULevel::OnLevelLoaded(Challenge)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.30-11.35.02:795][933]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.30-11.35.02:795][933]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Challenge.Challenge, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.30-11.35.02:796][933]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.30-11.35.02:800][933]LogContentBundle: [Challenge(Standalone)] Creating new container.
+[2025.04.30-11.35.02:800][933]LogWorldPartition: Display: WorldPartition initialize took 4.806 ms (total: 986.490 ms)
+[2025.04.30-11.35.02:800][933]LogPlayLevel: PIE: World Init took: (0.006735s)
+[2025.04.30-11.35.02:827][933]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.04.30-11.35.02:827][933]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.30-11.35.02:827][933]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.30-11.35.02:827][933]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.30-11.35.02:827][933]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.30-11.35.02:827][933]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.30-11.35.02:827][933]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.30-11.35.02:827][933]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.30-11.35.02:827][933]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.30-11.35.02:827][933]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.30-11.35.02:827][933]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.30-11.35.02:827][933]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.30-11.35.02:829][933]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.30-11.35.02:859][933]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.04.30-11.35.02:859][933]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.30-11.35.02:859][933]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.30-11.35.02:859][933]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.30-11.35.02:860][933]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.04.30-11.35.02:860][933]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.04.30-11.35.02:861][933]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.04.30-11.35.02:861][933]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.04.30-11.35.02:861][933]LogInit: FAudioDevice initialized with ID 2.
+[2025.04.30-11.35.02:861][933]LogAudio: Display: Audio Device (ID: 2) registered with world 'Challenge'.
+[2025.04.30-11.35.02:861][933]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.04.30-11.35.02:866][933]LogLoad: Game class is 'GameModeBase'
+[2025.04.30-11.35.02:867][933]LogWorld: Bringing World /Game/UEDPIE_0_Challenge.Challenge up for play (max tick rate 0) at 2025.04.30-13.35.02
+[2025.04.30-11.35.02:868][933]LogWorld: Bringing up level for play took: 0.001098
+[2025.04.30-11.35.02:870][933]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.04.30-11.35.02:914][933]LogStreaming: Display: FlushAsyncLoading(): 17 QueuedPackages, 0 AsyncPackages
+[2025.04.30-11.35.03:098][933]PIE: Server logged in
+[2025.04.30-11.35.03:099][933]PIE: Play in editor total start time 0,363 seconds.
+[2025.04.30-11.35.30:265][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.30-11.35.30:265][  0]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Challenge
+[2025.04.30-11.35.30:270][  0]LogWorld: UWorld::CleanupWorld for Challenge, bSessionEnded=true, bCleanupResources=true
+[2025.04.30-11.35.30:271][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.30-11.35.30:271][  0]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Challenge.Challenge
+[2025.04.30-11.35.30:271][  0]LogContentBundle: [Challenge(Standalone)] Deleting container.
+[2025.04.30-11.35.30:272][  0]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.04.30-11.35.30:272][  0]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.04.30-11.35.30:276][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.30-11.35.30:276][  0]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Challenge, Actor: /Game/UEDPIE_0_Challenge.Challenge:PersistentLevel.PoliceCarCamara_11
+[2025.04.30-11.35.30:276][  0]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Challenge, Actor: /Game/UEDPIE_0_Challenge.Challenge:PersistentLevel.CatCamara_9
+[2025.04.30-11.35.30:276][  0]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Challenge, Actor: /Game/UEDPIE_0_Challenge.Challenge:PersistentLevel.RubbishCamera_7
+[2025.04.30-11.35.30:282][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.30-11.35.30:288][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.30-11.35.30:289][  0]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.04.30-11.35.30:291][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.30-11.35.30:293][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.30-11.35.30:296][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.30-11.35.30:304][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.04.30-11.35.30:363][  1]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.04.30-11.37.45:208][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.30-11.37.45:212][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/5/AC/3CYU7BRA1TSA3M6667FPOM_Auto1
+[2025.04.30-11.37.45:212][ 21]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/3CYU7BRA1TSA3M6667FPOM_Auto130B4F93445F432829CC6598384789FEB.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/5/AC/3CYU7BRA1TSA3M6667FPOM_Auto1.uasset'
+[2025.04.30-11.37.45:215][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/E/9A/8M96UUONME92N2MGIJ55N2_Auto1
+[2025.04.30-11.37.45:215][ 21]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/8M96UUONME92N2MGIJ55N2_Auto194C2AA474A03E8A27610E8B0568F1589.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/E/9A/8M96UUONME92N2MGIJ55N2_Auto1.uasset'
+[2025.04.30-11.37.45:217][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/2/NG/144CNQ4T4I46IU1ZMLF15P_Auto1
+[2025.04.30-11.37.45:217][ 21]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/144CNQ4T4I46IU1ZMLF15P_Auto13A8E4BDB4835AA2DBA7E3384E7AC0331.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/2/NG/144CNQ4T4I46IU1ZMLF15P_Auto1.uasset'
+[2025.04.30-11.37.45:220][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/D/N7/7FSZ63S2DLJW3FH7GQ4VCK_Auto1
+[2025.04.30-11.37.45:220][ 21]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/7FSZ63S2DLJW3FH7GQ4VCK_Auto1E1E2D0F34537B516EA439EA2DD6225C1.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/D/N7/7FSZ63S2DLJW3FH7GQ4VCK_Auto1.uasset'
+[2025.04.30-11.37.45:222][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/8/H2/WHF9KQXNHCWYL9DMV40JCU_Auto1
+[2025.04.30-11.37.45:222][ 21]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/WHF9KQXNHCWYL9DMV40JCU_Auto18372AF3940F55908EEBDA0BF535CA5BB.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/8/H2/WHF9KQXNHCWYL9DMV40JCU_Auto1.uasset'
+[2025.04.30-11.37.45:224][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/B/DJ/SSPA4DEIF8S1U6RRF8NINW_Auto1
+[2025.04.30-11.37.45:224][ 21]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/SSPA4DEIF8S1U6RRF8NINW_Auto11853C58F45828CCA8A63309409213EA5.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/B/DJ/SSPA4DEIF8S1U6RRF8NINW_Auto1.uasset'
+[2025.04.30-11.37.45:226][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/3/I7/YNMTI4RTDPL804B6YFVYZ1_Auto1
+[2025.04.30-11.37.45:226][ 21]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/YNMTI4RTDPL804B6YFVYZ1_Auto13FDF3D864AC97340ADD61A87CDEDF21B.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/3/I7/YNMTI4RTDPL804B6YFVYZ1_Auto1.uasset'
+[2025.04.30-11.37.45:227][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Challenge/C/TJ/FN4A7KBN4E8FMTCX9BHH6C_Auto1
+[2025.04.30-11.37.45:227][ 21]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/FN4A7KBN4E8FMTCX9BHH6C_Auto1B72CE77E4A71D0F1A388E6A813CD32CB.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/__ExternalActors__/Challenge/C/TJ/FN4A7KBN4E8FMTCX9BHH6C_Auto1.uasset'
+[2025.04.30-11.37.45:231][ 21]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Challenge' took 0.031
+[2025.04.30-11.37.45:231][ 21]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2025.04.30-11.37.45:231][ 21]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Secuencer] ([1] browsable assets)...
+[2025.04.30-11.37.45:231][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Secuencer]
+[2025.04.30-11.37.45:241][ 21]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cinematics/Secuencer_Auto1
+[2025.04.30-11.37.45:241][ 21]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Secuencer_Auto14E59C17B4B465637C851C7844082B70E.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/Cinematics/Secuencer_Auto1.uasset'
+[2025.04.30-11.37.45:242][ 21]LogFileHelpers: Auto-saving content packages took 0.011
+[2025.04.30-11.41.07:626][703]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/CorrectFBX/Charcos/Carco1.fbx)
+[2025.04.30-11.41.07:630][703]LogFbx: Loading FBX Scene from C:/Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/CorrectFBX/Charcos/Carco1.fbx
+[2025.04.30-11.41.07:633][703]LogFbx: FBX Scene Loaded Succesfully
+[2025.04.30-11.41.09:237][703]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.04.30-11.41.09:273][703]LogStaticMesh: Built static mesh [0.00s] /Game/CorrectFBX/Charcos/Carco1.Carco1
+[2025.04.30-11.41.09:329][703]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.04.30-11.41.09:329][703]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2025.04.30-11.41.09:329][703]LogPhysics: Warning: TConvex Name:BodySetup /Game/CorrectFBX/Charcos/Carco1.Carco1:BodySetup_0, Element [0] has no Geometry
+[2025.04.30-11.41.09:360][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-11.41.09:413][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CorrectFBX/Charcos/Carco1] ([1] browsable assets)...
+[2025.04.30-11.41.09:491][704]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CorrectFBX/Charcos/Carco1.Carco1]
+[2025.04.30-11.41.09:491][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/CorrectFBX/Charcos/Carco1]
+[2025.04.30-11.41.09:491][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CorrectFBX/Charcos/Carco1" FILE="../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/CorrectFBX/Charcos/Carco1.uasset" SILENT=true
+[2025.04.30-11.41.09:493][704]LogSavePackage: Moving output files for package: /Game/CorrectFBX/Charcos/Carco1
+[2025.04.30-11.41.09:493][704]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Carco19FD023E241716515FAB21CB3770670DA.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/CorrectFBX/Charcos/Carco1.uasset'
+[2025.04.30-11.41.09:503][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.991 ms (total: 788.441 ms)
+[2025.04.30-11.41.09:644][705]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-11.41.09:645][705]LogContentValidation: Enabled validators:
+[2025.04.30-11.41.09:645][705]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-11.41.09:645][705]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-11.41.09:645][705]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-11.41.09:646][705]LogContentValidation: Display: Validating asset /Game/CorrectFBX/Charcos/Carco1.Carco1
+[2025.04.30-11.41.09:646][705]AssetCheck: /Game/CorrectFBX/Charcos/Carco1 Validating asset
+[2025.04.30-11.41.11:668][839]LogSlate: Window 'Message Log' being destroyed
+[2025.04.30-11.41.11:689][839]LogSlate: Window 'Message Log' being destroyed
+[2025.04.30-11.41.12:511][901]AssetReimport: Importing new asset /Game/CorrectFBX/Charcos/Carco1.
+[2025.04.30-11.41.20:340][483]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CorrectFBX/Charcos/Carco1.Carco1
+[2025.04.30-11.41.20:340][483]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CorrectFBX/Charcos/Carco1.Carco1
+[2025.04.30-11.41.20:341][483]LogActorFactory: Actor Factory spawned StaticMesh /Game/CorrectFBX/Charcos/Carco1.Carco1 as actor: StaticMeshActor /Game/Challenge.Challenge:PersistentLevel.StaticMeshActor_3
+[2025.04.30-11.41.21:972][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.04.30-11.41.21:974][607]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2025.04.30-11.41.21:980][607]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CorrectFBX/Charcos/Carco1.Carco1
+[2025.04.30-11.41.21:980][607]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CorrectFBX/Charcos/Carco1.Carco1
+[2025.04.30-11.41.21:982][607]LogActorFactory: Actor Factory spawned StaticMesh /Game/CorrectFBX/Charcos/Carco1.Carco1 as actor: StaticMeshActor /Game/Challenge.Challenge:PersistentLevel.StaticMeshActor_UAID_145AFC3FADECD96302_1352603245
+[2025.04.30-11.41.51:662][750]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.04.30-11.41.51:673][750]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.04.30-11.41.51:695][751]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.04.30-11.41.56:018][ 95]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Water
+[2025.04.30-11.41.56:020][ 95]LogContentBrowser: End creating deferred item NewMaterial
+[2025.04.30-11.41.57:185][168]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Water.M_Water
+[2025.04.30-11.41.57:416][168]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.41.57:416][168]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.41.57:416][168]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.41.57:416][168]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.30-11.41.57:489][170]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.41.57:489][170]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.41.57:489][170]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.41.57:489][170]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.41.57:489][170]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.30-11.41.58:979][255]MaterialEditorStats: Base pass shader: 127 instructions
+[2025.04.30-11.41.58:979][255]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.41.58:979][255]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.41.58:979][255]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.41.58:979][255]MaterialEditorStats: Shader Count: 4
+[2025.04.30-11.41.58:979][255]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.30-11.42.22:072][558]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.42.22:072][558]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.42.22:072][558]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.42.22:072][558]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.42.22:133][559]MaterialEditorStats: Base pass shader: 132 instructions
+[2025.04.30-11.42.22:133][559]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.42.22:133][559]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.42.22:133][559]MaterialEditorStats: Shader Count: 4
+[2025.04.30-11.42.22:133][559]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.42.22:158][560]MaterialEditorStats: Base pass shader: 132 instructions
+[2025.04.30-11.42.22:158][560]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.42.22:158][560]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.42.22:158][560]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.42.22:158][560]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.42.22:158][560]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.42.25:843][760]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.30-11.42.25:851][760]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.42.25:851][760]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.42.25:851][760]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.42.25:851][760]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.42.25:897][762]MaterialEditorStats: Base pass shader: 132 instructions
+[2025.04.30-11.42.25:897][762]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.42.25:897][762]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.42.25:897][762]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.42.25:897][762]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.42.25:897][762]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.42.44:991][845]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.42.44:991][845]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.42.44:991][845]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.42.44:991][845]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.42.45:021][847]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.42.45:021][847]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.42.45:021][847]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.42.45:021][847]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.42.45:021][847]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.42.45:785][888]MaterialEditorStats: Base pass shader: 132 instructions
+[2025.04.30-11.42.45:785][888]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.42.45:785][888]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.42.45:785][888]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.42.45:785][888]MaterialEditorStats: Shader Count: 4
+[2025.04.30-11.42.45:785][888]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.42.51:220][186]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.42.51:220][186]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.42.51:220][186]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.42.51:220][186]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.42.51:256][189]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.42.51:256][189]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.42.51:256][189]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.42.51:256][189]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.42.51:256][189]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.42.51:704][212]MaterialEditorStats: Base pass shader: 132 instructions
+[2025.04.30-11.42.51:704][212]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.42.51:704][212]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.42.51:704][212]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.42.51:704][212]MaterialEditorStats: Shader Count: 4
+[2025.04.30-11.42.51:704][212]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: ================================================
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Total job queries 8868, among them cache hits 371 (4.18%), DDC hits 3371 (38.01%), Duplicates 1451 (16.36%)
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Tracking 7037 distinct input hashes that result in 6487 distinct outputs (92.18%)
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: RAM used: 146,75 MiB of 1,60 GiB budget. Usage: 8.96%
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Shaders Compiled: 3665
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Jobs assigned 3666, completed 3665 (99.97%)
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Average time worker was idle: 67.67 s
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Time job spent in pending queue: average 56.00 s, longest 128.50 s
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Job execution time: average 4.78 s, max 32.82 s
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Job life time (pending + execution): average 60.79 s, max 131.91
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Shader code size: average 44,955 KiB, min 2,706 KiB, max 332,057 KiB
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 185.06 s
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.92%
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Jobs were issued in 579 batches (only local compilation was used), average 6.33 jobs/batch
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Average processing rate: 19.80 jobs/sec
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Total thread time: 1871,045 s
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Total thread preprocess time: 66,813 s
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Percentage time preprocessing: 3.57%
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Effective parallelization: 10.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 11.57 sec, max 21.58 sec, min 1.56 sec)
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 11.25 sec, max 11.25 sec, min 11.25 sec)
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 8.07 sec, max 8.07 sec, min 8.07 sec)
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display:                                        FCloudRenderViewPS100 (compiled    1 times, average 5.14 sec, max 5.14 sec, min 5.14 sec)
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 4.67 sec, max 7.80 sec, min 1.53 sec)
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.91% of total time (compiled  262 times, average 0.92 sec, max 2.37 sec, min 0.58 sec)
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 8.06% of total time (compiled   68 times, average 2.22 sec, max 6.37 sec, min 0.80 sec)
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 6.02% of total time (compiled  321 times, average 0.35 sec, max 1.17 sec, min 0.15 sec)
+[2025.04.30-11.42.51:821][218]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 5.74% of total time (compiled   96 times, average 1.12 sec, max 1.57 sec, min 0.81 sec)
+[2025.04.30-11.42.51:822][218]LogShaderCompilers: Display:                                                FOcclusionRGS - 5.18% of total time (compiled  192 times, average 0.50 sec, max 0.88 sec, min 0.24 sec)
+[2025.04.30-11.42.51:822][218]LogShaderCompilers: Display: === Material stats ===
+[2025.04.30-11.42.51:822][218]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.30-11.42.51:822][218]LogShaderCompilers: Display: Materials Translated:    198
+[2025.04.30-11.42.51:822][218]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2025.04.30-11.42.51:822][218]LogShaderCompilers: Display: Material Translation Only: 0.07 s (43%)
+[2025.04.30-11.42.51:822][218]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.30-11.42.51:822][218]LogShaderCompilers: Display: Material Cache Hits: 1 (1%)
+[2025.04.30-11.42.51:822][218]LogShaderCompilers: Display: ================================================
+[2025.04.30-11.42.58:325][595]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.42.58:325][595]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.42.58:325][595]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.42.58:325][595]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.42.58:367][598]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.42.58:367][598]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.42.58:367][598]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.42.58:367][598]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.42.58:367][598]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.42.58:841][623]MaterialEditorStats: Base pass shader: 138 instructions
+[2025.04.30-11.42.58:841][623]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.42.58:841][623]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.42.58:841][623]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.42.58:841][623]MaterialEditorStats: Shader Count: 4
+[2025.04.30-11.42.58:841][623]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.43.02:728][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-11.43.02:784][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.04.30-11.43.02:791][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.04.30-11.43.02:796][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.04.30-11.43.02:799][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/AC/3CYU7BRA1TSA3M6667FPOM
+[2025.04.30-11.43.02:799][847]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/3CYU7BRA1TSA3M6667FPOMD34CD26A4E6BA3AAAFA0BEB0A115205D.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/AC/3CYU7BRA1TSA3M6667FPOM.uasset'
+[2025.04.30-11.43.02:801][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/E/9A/8M96UUONME92N2MGIJ55N2
+[2025.04.30-11.43.02:801][847]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/8M96UUONME92N2MGIJ55N25CF098144B09631B9DCC018BA65D4CE8.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/E/9A/8M96UUONME92N2MGIJ55N2.uasset'
+[2025.04.30-11.43.02:803][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/2/NG/144CNQ4T4I46IU1ZMLF15P
+[2025.04.30-11.43.02:803][847]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/144CNQ4T4I46IU1ZMLF15PEC9534A3446FCF353A3A7EA9E273FAE7.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/2/NG/144CNQ4T4I46IU1ZMLF15P.uasset'
+[2025.04.30-11.43.02:809][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/L7/K6HK83NBPUIYS4FVSY848C
+[2025.04.30-11.43.02:810][847]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/K6HK83NBPUIYS4FVSY848C9791D84C41C0D2DB93AEA3A05ECD0F44.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/L7/K6HK83NBPUIYS4FVSY848C.uasset'
+[2025.04.30-11.43.02:811][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/2/CX/VER2HP45MYOUSFY7VJLEF2
+[2025.04.30-11.43.02:812][847]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/VER2HP45MYOUSFY7VJLEF2512AC33F497193822E1886B82144AEA9.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/2/CX/VER2HP45MYOUSFY7VJLEF2.uasset'
+[2025.04.30-11.43.02:813][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/D/N7/7FSZ63S2DLJW3FH7GQ4VCK
+[2025.04.30-11.43.02:814][847]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/7FSZ63S2DLJW3FH7GQ4VCKBFE1A87B4FA0E354CD3F1FBA19030606.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/D/N7/7FSZ63S2DLJW3FH7GQ4VCK.uasset'
+[2025.04.30-11.43.02:815][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/8/H2/WHF9KQXNHCWYL9DMV40JCU
+[2025.04.30-11.43.02:815][847]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/WHF9KQXNHCWYL9DMV40JCUB13D380A46CB91F97AC9ED92D0EABC86.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/8/H2/WHF9KQXNHCWYL9DMV40JCU.uasset'
+[2025.04.30-11.43.02:818][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/B/DJ/SSPA4DEIF8S1U6RRF8NINW
+[2025.04.30-11.43.02:818][847]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/SSPA4DEIF8S1U6RRF8NINW1507C4BF4E887EEAA6FA439697969021.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/B/DJ/SSPA4DEIF8S1U6RRF8NINW.uasset'
+[2025.04.30-11.43.02:819][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/3/I7/YNMTI4RTDPL804B6YFVYZ1
+[2025.04.30-11.43.02:819][847]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/YNMTI4RTDPL804B6YFVYZ10EE8B1F04812FE7234C5BBA9B6E72B83.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/3/I7/YNMTI4RTDPL804B6YFVYZ1.uasset'
+[2025.04.30-11.43.02:821][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/C/TJ/FN4A7KBN4E8FMTCX9BHH6C
+[2025.04.30-11.43.02:821][847]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/FN4A7KBN4E8FMTCX9BHH6C6980BCC24D5FB38A863C548897EA3D06.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/C/TJ/FN4A7KBN4E8FMTCX9BHH6C.uasset'
+[2025.04.30-11.43.02:824][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/EW/WR7P0AD6K3CFM0AC5HCCQU
+[2025.04.30-11.43.02:824][847]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/WR7P0AD6K3CFM0AC5HCCQUCCEDC9124D7B797017DA0EB07857B34A.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/EW/WR7P0AD6K3CFM0AC5HCCQU.uasset'
+[2025.04.30-11.43.02:837][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.862 ms (total: 897.304 ms)
+[2025.04.30-11.43.02:871][847]LogContentValidation: Display: Starting to validate 11 assets
+[2025.04.30-11.43.02:871][847]LogContentValidation: Enabled validators:
+[2025.04.30-11.43.02:871][847]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-11.43.02:871][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-11.43.02:871][847]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-11.43.02:872][847]LogContentValidation: Display: Validating asset /Game/Challenge.Challenge
+[2025.04.30-11.43.02:872][847]AssetCheck: /Game/Challenge Validating asset
+[2025.04.30-11.43.06:607][983]LogSlate: Window 'Message' being destroyed
+[2025.04.30-11.43.06:611][983]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/M_Water.M_Water
+(Selecting 'No' will cause all changes to be lost!)
+[2025.04.30-11.43.07:494][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.04.30-11.43.08:459][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.04.30-11.43.08:503][983]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.04.30-11.43.08:503][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.30-11.43.08:585][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.30-11.43.10:900][ 96]LogSlate: Window 'Emissicered1' being destroyed
+[2025.04.30-11.43.10:915][ 96]LogSlate: Window 'Emissicered1' being destroyed
+[2025.04.30-11.43.10:933][ 96]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.04.30-11.43.10:933][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.30-11.43.10:950][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.04.30-11.43.21:861][870]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Water.M_Water
+[2025.04.30-11.43.22:031][870]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.43.22:031][870]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.43.22:031][870]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.43.22:031][870]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.43.22:110][872]MaterialEditorStats: Base pass shader: 138 instructions
+[2025.04.30-11.43.22:110][872]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.43.22:110][872]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.43.22:110][872]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.43.22:110][872]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.43.22:110][872]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.43.27:987][188]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.43.27:987][188]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.43.27:987][188]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.43.27:987][188]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.43.28:044][190]MaterialEditorStats: Base pass shader: 138 instructions
+[2025.04.30-11.43.28:044][190]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.43.28:044][190]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.43.28:044][190]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.43.28:044][190]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.43.28:044][190]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.43.30:566][326]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.43.30:566][326]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.43.30:566][326]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.43.30:566][326]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.43.30:612][328]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.43.30:612][328]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.43.30:612][328]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.43.30:612][328]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.43.30:612][328]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.43.35:072][582]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.43.35:072][582]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.43.35:072][582]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.43.35:072][582]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.43.35:112][584]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.43.35:112][584]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.43.35:112][584]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.43.35:112][584]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.43.35:112][584]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.43.36:685][670]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.43.36:685][670]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.43.36:685][670]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.43.36:685][670]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.43.36:730][672]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.43.36:730][672]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.43.36:730][672]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.43.36:730][672]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.43.36:730][672]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.43.40:384][869]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.43.40:384][869]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.43.40:384][869]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.43.40:384][869]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.43.40:416][871]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.43.40:416][871]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.43.40:416][871]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.43.40:416][871]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.43.40:416][871]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.43.43:442][ 41]LogMaterialEditor: Saving and Compiling material M_Water
+[2025.04.30-11.43.43:522][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.04.30-11.43.44:588][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.04.30-11.43.44:600][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-11.43.44:657][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Water] ([1] browsable assets)...
+[2025.04.30-11.43.44:664][ 41]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Water.M_Water]
+[2025.04.30-11.43.44:664][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Water]
+[2025.04.30-11.43.44:664][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Water" FILE="../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset" SILENT=true
+[2025.04.30-11.43.44:666][ 41]LogSavePackage: Moving output files for package: /Game/Materials/M_Water
+[2025.04.30-11.43.44:666][ 41]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/M_WaterD70C4DE54BF9B9C8CB1E5F9CD2C6A66F.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset'
+[2025.04.30-11.43.44:675][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.029 ms (total: 972.333 ms)
+[2025.04.30-11.43.44:705][ 41]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-11.43.44:705][ 41]LogContentValidation: Enabled validators:
+[2025.04.30-11.43.44:705][ 41]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-11.43.44:705][ 41]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-11.43.44:705][ 41]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-11.43.44:706][ 41]LogContentValidation: Display: Validating asset /Game/Materials/M_Water.M_Water
+[2025.04.30-11.43.44:706][ 41]AssetCheck: /Game/Materials/M_Water Validating asset
+[2025.04.30-11.43.44:721][ 41]MaterialEditorStats: Base pass shader: 230 instructions
+[2025.04.30-11.43.44:721][ 41]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.43.44:721][ 41]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.43.44:721][ 41]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.43.44:721][ 41]MaterialEditorStats: Shader Count: 13
+[2025.04.30-11.43.44:721][ 41]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.43.45:303][ 68]LogSlate: Window 'M_Water' being destroyed
+[2025.04.30-11.43.45:318][ 68]LogSlate: Window 'M_Water' being destroyed
+[2025.04.30-11.43.45:341][ 68]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.04.30-11.43.45:341][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.30-11.43.45:358][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.04.30-11.44.00:704][241]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Water.M_Water
+[2025.04.30-11.44.00:885][241]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.44.00:885][241]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.44.00:885][241]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.44.00:885][241]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.44.00:957][243]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.44.00:957][243]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.44.00:957][243]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.44.00:957][243]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.44.00:957][243]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.44.04:235][431]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.44.04:235][431]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.44.04:235][431]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.44.04:235][431]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.44.04:303][433]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.44.04:304][433]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.44.04:304][433]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.44.04:304][433]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.44.04:304][433]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.44.07:467][610]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.44.07:467][610]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.44.07:467][610]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.44.07:467][610]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.44.07:525][612]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.44.07:525][612]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.44.07:525][612]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.44.07:525][612]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.44.07:525][612]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.44.12:825][897]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.30-11.44.12:833][897]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.44.12:833][897]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.44.12:833][897]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.44.12:833][897]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.44.12:877][899]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.44.12:877][899]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.44.12:877][899]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.44.12:877][899]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.44.12:877][899]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.44.20:691][337]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.30-11.44.20:702][337]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.44.20:702][337]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.44.20:702][337]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.44.20:702][337]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.44.20:746][339]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.44.20:746][339]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.44.20:746][339]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.44.20:746][339]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.44.20:746][339]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.44.24:469][555]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.44.24:469][555]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.44.24:469][555]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.44.24:469][555]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.44.24:522][557]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.44.24:523][557]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.44.24:523][557]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.44.24:523][557]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.44.24:523][557]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.44.33:864][ 88]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameterVolume) ParamVolume> Volume sample needs UVW input
+
+[2025.04.30-11.44.33:882][ 88]MaterialEditorStats: Error: [SM6] (Node TextureSampleParameterVolume) ParamVolume> Volume sample needs UVW input
+[2025.04.30-11.44.47:104][834]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameterVolume) ParamVolume> Volume sample needs UVW input
+
+[2025.04.30-11.44.47:138][834]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Function ParallaxOcclusionMapping_BoundedUVs: Missing function input 'Heightmap Texture'
+
+[2025.04.30-11.44.47:145][834]MaterialEditorStats: Error: [SM6] Function ParallaxOcclusionMapping_BoundedUVs: Missing function input 'Heightmap Texture'
+[2025.04.30-11.44.49:295][944]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameterVolume) ParamVolume> Volume sample needs UVW input
+
+[2025.04.30-11.44.49:297][944]MaterialEditorStats: Error: [SM6] (Node TextureSampleParameterVolume) ParamVolume> Volume sample needs UVW input
+[2025.04.30-11.45.03:080][720]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameterVolume) ParamVolume> Volume sample needs UVW input
+
+[2025.04.30-11.45.03:082][720]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameterVolume) Cannot cast from larger type float4 to smaller type float3.
+
+[2025.04.30-11.45.03:087][720]MaterialEditorStats: Error: [SM6] (Node TextureSampleParameterVolume) Cannot cast from larger type float4 to smaller type float3.
+[2025.04.30-11.45.06:957][934]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameterVolume) Cannot cast from larger type float4 to smaller type float3.
+
+[2025.04.30-11.45.06:961][934]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameterVolume) Cannot cast from larger type float4 to smaller type float3.
+
+[2025.04.30-11.45.06:962][934]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.30-11.45.10:036][106]LogMaterialEditor: Saving and Compiling material M_Water
+[2025.04.30-11.45.11:335][106]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2025.04.30-11.45.11:374][106]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameterVolume) Cannot cast from larger type float4 to smaller type float3.
+
+[2025.04.30-11.45.11:384][106]LogMaterial: Warning: [AssetLog] C:\Users\Alumno\Documents\GitHub\Challenge\MyProject\Content\Materials\M_Water.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameterVolume) Cannot cast from larger type float4 to smaller type float3.
+
+[2025.04.30-11.45.11:397][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.04.30-11.45.11:432][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.04.30-11.45.11:442][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-11.45.11:497][106]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Water] ([1] browsable assets)...
+[2025.04.30-11.45.11:514][106]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Water.M_Water]
+[2025.04.30-11.45.11:514][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Water]
+[2025.04.30-11.45.11:514][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Water" FILE="../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset" SILENT=true
+[2025.04.30-11.45.11:516][106]LogSavePackage: Moving output files for package: /Game/Materials/M_Water
+[2025.04.30-11.45.11:516][106]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/M_Water316E46D8465DC198748B30967D540EC2.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset'
+[2025.04.30-11.45.11:525][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.259 ms (total: 1.05 sec)
+[2025.04.30-11.45.11:561][106]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-11.45.11:561][106]LogContentValidation: Enabled validators:
+[2025.04.30-11.45.11:561][106]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-11.45.11:561][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-11.45.11:561][106]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-11.45.11:562][106]LogContentValidation: Display: Validating asset /Game/Materials/M_Water.M_Water
+[2025.04.30-11.45.11:562][106]AssetCheck: /Game/Materials/M_Water Validating asset
+[2025.04.30-11.45.14:303][254]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.45.14:303][254]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.45.14:303][254]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.45.14:303][254]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.45.14:383][256]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.45.14:383][256]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.45.14:383][256]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.45.14:383][256]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.45.14:383][256]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.45.16:226][355]LogMaterialEditor: Saving and Compiling material M_Water
+[2025.04.30-11.45.16:306][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.04.30-11.45.17:282][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.04.30-11.45.17:294][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-11.45.17:349][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Water] ([1] browsable assets)...
+[2025.04.30-11.45.17:355][355]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Water.M_Water]
+[2025.04.30-11.45.17:355][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Water]
+[2025.04.30-11.45.17:355][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Water" FILE="../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset" SILENT=true
+[2025.04.30-11.45.17:359][355]LogSavePackage: Moving output files for package: /Game/Materials/M_Water
+[2025.04.30-11.45.17:359][355]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/M_Water12B92DF74E58FC22E564CA8E9FFCEA71.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset'
+[2025.04.30-11.45.17:368][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.090 ms (total: 1.12 sec)
+[2025.04.30-11.45.17:415][355]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-11.45.17:415][355]LogContentValidation: Enabled validators:
+[2025.04.30-11.45.17:415][355]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-11.45.17:415][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-11.45.17:415][355]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-11.45.17:416][355]LogContentValidation: Display: Validating asset /Game/Materials/M_Water.M_Water
+[2025.04.30-11.45.17:416][355]AssetCheck: /Game/Materials/M_Water Validating asset
+[2025.04.30-11.45.17:431][355]MaterialEditorStats: Base pass shader: 230 instructions
+[2025.04.30-11.45.17:431][355]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.45.17:431][355]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.45.17:431][355]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.45.17:431][355]MaterialEditorStats: Shader Count: 13
+[2025.04.30-11.45.17:431][355]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.45.20:970][548]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.45.20:970][548]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.45.20:970][548]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.45.20:970][548]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.45.21:022][550]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.45.21:022][550]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.45.21:022][550]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.45.21:022][550]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.45.21:022][550]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.45.27:889][937]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.45.27:889][937]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.45.27:890][937]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.45.27:890][937]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.45.27:939][939]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.45.27:939][939]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.45.27:939][939]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.45.27:939][939]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.45.27:939][939]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.45.30:635][ 90]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.45.30:635][ 90]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.45.30:635][ 90]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.45.30:635][ 90]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.45.30:692][ 92]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.45.30:692][ 92]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.45.30:692][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.45.30:692][ 92]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.45.30:692][ 92]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: ================================================
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Total job queries 9115, among them cache hits 573 (6.29%), DDC hits 3371 (36.98%), Duplicates 1451 (15.92%)
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Tracking 7082 distinct input hashes that result in 6522 distinct outputs (92.09%)
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: RAM used: 147,69 MiB of 1,60 GiB budget. Usage: 9.01%
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Shaders Compiled: 3711
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Jobs assigned 3711, completed 3711 (100%)
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Average time worker was idle: 96.11 s
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Time job spent in pending queue: average 55.32 s, longest 128.50 s
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Job execution time: average 4.72 s, max 32.82 s
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Job life time (pending + execution): average 60.04 s, max 131.91
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Shader code size: average 44,91 KiB, min 2,706 KiB, max 332,057 KiB
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 196.12 s
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.91%
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Jobs were issued in 624 batches (only local compilation was used), average 5.95 jobs/batch
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Average processing rate: 18.92 jobs/sec
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Total thread time: 1891,914 s
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Total thread preprocess time: 69,215 s
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Percentage time preprocessing: 3.66%
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Effective parallelization: 9.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 11.57 sec, max 21.58 sec, min 1.56 sec)
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 11.25 sec, max 11.25 sec, min 11.25 sec)
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 8.07 sec, max 8.07 sec, min 8.07 sec)
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display:                                        FCloudRenderViewPS100 (compiled    1 times, average 5.14 sec, max 5.14 sec, min 5.14 sec)
+[2025.04.30-11.45.51:829][312]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 4.67 sec, max 7.80 sec, min 1.53 sec)
+[2025.04.30-11.45.51:830][312]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.30-11.45.51:830][312]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.77% of total time (compiled  262 times, average 0.92 sec, max 2.37 sec, min 0.58 sec)
+[2025.04.30-11.45.51:830][312]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 7.97% of total time (compiled   68 times, average 2.22 sec, max 6.37 sec, min 0.80 sec)
+[2025.04.30-11.45.51:830][312]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.95% of total time (compiled  321 times, average 0.35 sec, max 1.17 sec, min 0.15 sec)
+[2025.04.30-11.45.51:830][312]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 5.68% of total time (compiled   96 times, average 1.12 sec, max 1.57 sec, min 0.81 sec)
+[2025.04.30-11.45.51:830][312]LogShaderCompilers: Display:                                                FOcclusionRGS - 5.12% of total time (compiled  192 times, average 0.50 sec, max 0.88 sec, min 0.24 sec)
+[2025.04.30-11.45.51:830][312]LogShaderCompilers: Display: === Material stats ===
+[2025.04.30-11.45.51:830][312]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.30-11.45.51:830][312]LogShaderCompilers: Display: Materials Translated:    273
+[2025.04.30-11.45.51:830][312]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2025.04.30-11.45.51:830][312]LogShaderCompilers: Display: Material Translation Only: 0.08 s (44%)
+[2025.04.30-11.45.51:830][312]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.30-11.45.51:830][312]LogShaderCompilers: Display: Material Cache Hits: 1 (0%)
+[2025.04.30-11.45.51:830][312]LogShaderCompilers: Display: ================================================
+[2025.04.30-11.46.00:959][839]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node Multiply) Arithmetic between types float4 and float3 are undefined
+
+[2025.04.30-11.46.00:964][839]MaterialEditorStats: Error: [SM6] (Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2025.04.30-11.46.08:925][298]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.46.08:925][298]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.08:925][298]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.46.08:925][298]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.08:983][300]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.46.08:983][300]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.46.08:983][300]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.08:983][300]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.46.08:983][300]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.13:175][549]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.46.13:175][549]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.13:175][549]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.46.13:175][549]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.13:244][551]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.46.13:244][551]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.46.13:244][551]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.13:244][551]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.46.13:244][551]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.21:864][ 40]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.46.21:864][ 40]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.21:864][ 40]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.46.21:864][ 40]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.21:923][ 42]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.46.21:923][ 42]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.46.21:923][ 42]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.21:923][ 42]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.46.21:923][ 42]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.24:549][184]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.46.24:549][184]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.24:549][184]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.46.24:549][184]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.24:608][186]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.46.24:608][186]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.46.24:608][186]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.24:608][186]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.46.24:608][186]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.26:834][300]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.46.26:834][300]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.26:834][300]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.46.26:834][300]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.26:869][302]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.46.26:869][302]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.46.26:869][302]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.26:869][302]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.46.26:869][302]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.29:773][456]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.30-11.46.29:781][456]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.46.29:781][456]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.29:781][456]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.46.29:781][456]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.29:826][458]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.46.29:826][458]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.46.29:826][458]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.29:826][458]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.46.29:826][458]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.32:519][617]LogMaterialEditor: Saving and Compiling material M_Water
+[2025.04.30-11.46.32:600][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.04.30-11.46.33:575][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.04.30-11.46.33:587][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-11.46.33:645][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Water] ([1] browsable assets)...
+[2025.04.30-11.46.33:654][617]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Water.M_Water]
+[2025.04.30-11.46.33:654][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Water]
+[2025.04.30-11.46.33:654][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Water" FILE="../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset" SILENT=true
+[2025.04.30-11.46.33:657][617]LogSavePackage: Moving output files for package: /Game/Materials/M_Water
+[2025.04.30-11.46.33:657][617]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/M_WaterB5322A684947E7DC408183A4EE94C168.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset'
+[2025.04.30-11.46.33:665][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.811 ms (total: 1.20 sec)
+[2025.04.30-11.46.33:710][617]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-11.46.33:710][617]LogContentValidation: Enabled validators:
+[2025.04.30-11.46.33:710][617]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-11.46.33:710][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-11.46.33:710][617]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-11.46.33:711][617]LogContentValidation: Display: Validating asset /Game/Materials/M_Water.M_Water
+[2025.04.30-11.46.33:711][617]AssetCheck: /Game/Materials/M_Water Validating asset
+[2025.04.30-11.46.33:726][617]MaterialEditorStats: Base pass shader: 228 instructions
+[2025.04.30-11.46.33:726][617]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.46.33:726][617]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.46.33:726][617]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.33:726][617]MaterialEditorStats: Shader Count: 13
+[2025.04.30-11.46.33:726][617]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.37:240][815]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.46.37:240][815]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.37:240][815]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.46.37:240][815]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.37:282][818]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.46.37:282][818]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.46.37:282][818]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.37:283][818]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.46.37:283][818]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.39:251][926]LogMaterialEditor: Saving and Compiling material M_Water
+[2025.04.30-11.46.39:327][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.04.30-11.46.40:398][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.04.30-11.46.40:409][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-11.46.40:449][926]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Water] ([1] browsable assets)...
+[2025.04.30-11.46.40:456][926]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Water.M_Water]
+[2025.04.30-11.46.40:456][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Water]
+[2025.04.30-11.46.40:456][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Water" FILE="../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset" SILENT=true
+[2025.04.30-11.46.40:458][926]LogSavePackage: Moving output files for package: /Game/Materials/M_Water
+[2025.04.30-11.46.40:458][926]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/M_Water32320CDD41960E05F248A691B7AB2CDB.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset'
+[2025.04.30-11.46.40:469][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.988 ms (total: 1.26 sec)
+[2025.04.30-11.46.40:500][926]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-11.46.40:500][926]LogContentValidation: Enabled validators:
+[2025.04.30-11.46.40:500][926]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-11.46.40:500][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-11.46.40:500][926]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-11.46.40:501][926]LogContentValidation: Display: Validating asset /Game/Materials/M_Water.M_Water
+[2025.04.30-11.46.40:501][926]AssetCheck: /Game/Materials/M_Water Validating asset
+[2025.04.30-11.46.40:517][926]MaterialEditorStats: Base pass shader: 228 instructions
+[2025.04.30-11.46.40:517][926]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.46.40:517][926]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.46.40:517][926]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.40:517][926]MaterialEditorStats: Shader Count: 13
+[2025.04.30-11.46.40:517][926]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.44:679][166]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.46.44:679][166]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.44:679][166]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.46.44:680][166]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.04.30-11.46.44:743][168]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.46.44:744][168]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.46.44:744][168]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.44:744][168]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.46.44:744][168]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.04.30-11.46.49:870][454]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.46.49:870][454]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.49:870][454]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.46.49:870][454]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.04.30-11.46.49:920][456]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.46.49:920][456]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.46.49:920][456]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.49:920][456]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.46.49:920][456]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.04.30-11.46.51:550][546]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.46.51:550][546]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.51:550][546]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.46.51:550][546]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.51:609][548]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.46.51:609][548]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.46.51:609][548]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.51:609][548]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.46.51:609][548]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.46.53:491][646]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.46.53:491][646]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.53:491][646]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.46.53:491][646]MaterialEditorStats: Preshaders: 4  (5 param fetches, 10 ops)
+[2025.04.30-11.46.53:525][648]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.46.53:525][648]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.46.53:525][648]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.53:525][648]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.46.53:525][648]MaterialEditorStats: Preshaders: 4  (5 param fetches, 10 ops)
+[2025.04.30-11.46.57:428][869]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.30-11.46.57:438][869]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.46.57:438][869]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.57:438][869]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.46.57:438][869]MaterialEditorStats: Preshaders: 4  (5 param fetches, 10 ops)
+[2025.04.30-11.46.57:483][871]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.46.57:483][871]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.46.57:483][871]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.46.57:483][871]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.46.57:483][871]MaterialEditorStats: Preshaders: 4  (5 param fetches, 10 ops)
+[2025.04.30-11.46.59:581][993]LogMaterialEditor: Saving and Compiling material M_Water
+[2025.04.30-11.46.59:659][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.04.30-11.47.00:634][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.04.30-11.47.00:646][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-11.47.00:699][993]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Water] ([1] browsable assets)...
+[2025.04.30-11.47.00:705][993]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Water.M_Water]
+[2025.04.30-11.47.00:705][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Water]
+[2025.04.30-11.47.00:705][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Water" FILE="../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset" SILENT=true
+[2025.04.30-11.47.00:707][993]LogSavePackage: Moving output files for package: /Game/Materials/M_Water
+[2025.04.30-11.47.00:707][993]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/M_WaterA64952184705713819A7AE93E2777E95.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset'
+[2025.04.30-11.47.00:717][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.592 ms (total: 1.33 sec)
+[2025.04.30-11.47.00:749][993]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-11.47.00:749][993]LogContentValidation: Enabled validators:
+[2025.04.30-11.47.00:749][993]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-11.47.00:749][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-11.47.00:749][993]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-11.47.00:750][993]LogContentValidation: Display: Validating asset /Game/Materials/M_Water.M_Water
+[2025.04.30-11.47.00:750][993]AssetCheck: /Game/Materials/M_Water Validating asset
+[2025.04.30-11.47.00:765][993]MaterialEditorStats: Base pass shader: 230 instructions
+[2025.04.30-11.47.00:765][993]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.47.00:765][993]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.47.00:765][993]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.47.00:765][993]MaterialEditorStats: Shader Count: 13
+[2025.04.30-11.47.00:766][993]MaterialEditorStats: Preshaders: 4  (5 param fetches, 10 ops)
+[2025.04.30-11.47.02:541][ 91]LogSlate: Window 'M_Water' being destroyed
+[2025.04.30-11.47.02:556][ 91]LogSlate: Window 'M_Water' being destroyed
+[2025.04.30-11.47.02:584][ 91]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.04.30-11.47.02:584][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.30-11.47.02:609][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.04.30-11.47.16:916][194]Cmd: EDIT COPY
+[2025.04.30-11.47.17:098][209]Cmd: EDIT PASTE
+[2025.04.30-11.47.33:916][467]Cmd: EDIT COPY
+[2025.04.30-11.47.34:110][483]Cmd: EDIT PASTE
+[2025.04.30-11.47.49:696][693]Cmd: EDIT COPY
+[2025.04.30-11.47.49:889][710]Cmd: EDIT PASTE
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: ================================================
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Total job queries 9310, among them cache hits 735 (7.89%), DDC hits 3371 (36.21%), Duplicates 1451 (15.59%)
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Tracking 7115 distinct input hashes that result in 6551 distinct outputs (92.07%)
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: RAM used: 148,54 MiB of 1,60 GiB budget. Usage: 9.07%
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Shaders Compiled: 3744
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Jobs assigned 3744, completed 3744 (100%)
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Average time worker was idle: 91.96 s
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Time job spent in pending queue: average 54.83 s, longest 128.50 s
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Job execution time: average 4.69 s, max 32.82 s
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Job life time (pending + execution): average 59.52 s, max 131.91
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Shader code size: average 44,916 KiB, min 2,706 KiB, max 332,057 KiB
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 203.68 s
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.91%
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Jobs were issued in 657 batches (only local compilation was used), average 5.70 jobs/batch
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Average processing rate: 18.38 jobs/sec
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Total thread time: 1908,42 s
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Total thread preprocess time: 71,049 s
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Percentage time preprocessing: 3.72%
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Effective parallelization: 9.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 11.57 sec, max 21.58 sec, min 1.56 sec)
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 11.25 sec, max 11.25 sec, min 11.25 sec)
+[2025.04.30-11.48.51:830][416]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 8.07 sec, max 8.07 sec, min 8.07 sec)
+[2025.04.30-11.48.51:831][416]LogShaderCompilers: Display:                                        FCloudRenderViewPS100 (compiled    1 times, average 5.14 sec, max 5.14 sec, min 5.14 sec)
+[2025.04.30-11.48.51:831][416]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 4.67 sec, max 7.80 sec, min 1.53 sec)
+[2025.04.30-11.48.51:831][416]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.30-11.48.51:831][416]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.66% of total time (compiled  262 times, average 0.92 sec, max 2.37 sec, min 0.58 sec)
+[2025.04.30-11.48.51:831][416]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 7.90% of total time (compiled   68 times, average 2.22 sec, max 6.37 sec, min 0.80 sec)
+[2025.04.30-11.48.51:831][416]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.90% of total time (compiled  321 times, average 0.35 sec, max 1.17 sec, min 0.15 sec)
+[2025.04.30-11.48.51:831][416]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 5.63% of total time (compiled   96 times, average 1.12 sec, max 1.57 sec, min 0.81 sec)
+[2025.04.30-11.48.51:831][416]LogShaderCompilers: Display:                                                FOcclusionRGS - 5.08% of total time (compiled  192 times, average 0.50 sec, max 0.88 sec, min 0.24 sec)
+[2025.04.30-11.48.51:831][416]LogShaderCompilers: Display: === Material stats ===
+[2025.04.30-11.48.51:831][416]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.30-11.48.51:831][416]LogShaderCompilers: Display: Materials Translated:    317
+[2025.04.30-11.48.51:831][416]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2025.04.30-11.48.51:831][416]LogShaderCompilers: Display: Material Translation Only: 0.08 s (45%)
+[2025.04.30-11.48.51:831][416]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.30-11.48.51:831][416]LogShaderCompilers: Display: Material Cache Hits: 1 (0%)
+[2025.04.30-11.48.51:831][416]LogShaderCompilers: Display: ================================================
+[2025.04.30-11.48.57:404][833]Cmd: EDIT COPY
+[2025.04.30-11.48.57:576][849]Cmd: EDIT PASTE
+[2025.04.30-11.49.40:877][125]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.30-11.49.50:766][806]Cmd: EDIT COPY
+[2025.04.30-11.49.51:021][823]Cmd: EDIT PASTE
+[2025.04.30-11.50.34:711][411]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.30-11.50.39:611][779]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.30-11.50.55:361][779]Cmd: TRANSACTION UNDO
+[2025.04.30-11.50.55:361][779]LogEditorTransaction: Undo Clicking on Actors
+[2025.04.30-11.50.55:725][784]Cmd: TRANSACTION UNDO
+[2025.04.30-11.50.55:725][784]LogEditorTransaction: Undo Scale Elements
+[2025.04.30-11.50.56:029][795]Cmd: TRANSACTION UNDO
+[2025.04.30-11.50.56:029][795]LogEditorTransaction: Undo Move Elements
+[2025.04.30-11.50.56:737][843]Cmd: TRANSACTION UNDO
+[2025.04.30-11.50.56:737][843]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.30-11.51.35:420][442]Cmd: EDIT COPY
+[2025.04.30-11.51.35:650][457]Cmd: EDIT PASTE
+[2025.04.30-11.51.52:388][533]Cmd: EDIT COPY
+[2025.04.30-11.51.52:589][547]Cmd: EDIT PASTE
+[2025.04.30-11.51.53:969][551]LogSlate: Took 0.008685 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.30-11.52.02:781][ 96]Cmd: EDIT COPY
+[2025.04.30-11.52.02:972][109]Cmd: EDIT PASTE
+[2025.04.30-11.52.13:326][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-11.52.13:399][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.04.30-11.52.13:410][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.04.30-11.52.13:417][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.04.30-11.52.13:419][756]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/EW/WR7P0AD6K3CFM0AC5HCCQU
+[2025.04.30-11.52.13:419][756]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/WR7P0AD6K3CFM0AC5HCCQUB7A1286045E87BD717E67CB4625F1677.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/EW/WR7P0AD6K3CFM0AC5HCCQU.uasset'
+[2025.04.30-11.52.13:421][756]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/C/7S/BBIFZ4SQY89DXZFRLH8QJS
+[2025.04.30-11.52.13:421][756]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/BBIFZ4SQY89DXZFRLH8QJS790A45B047EE61DDABB54B9D4D9C0478.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/C/7S/BBIFZ4SQY89DXZFRLH8QJS.uasset'
+[2025.04.30-11.52.13:423][756]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/B/40/IWWOWN27XN7JKJPV4CAUQD
+[2025.04.30-11.52.13:423][756]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/IWWOWN27XN7JKJPV4CAUQD63501C324A456501FE9BBF98AC414564.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/B/40/IWWOWN27XN7JKJPV4CAUQD.uasset'
+[2025.04.30-11.52.13:424][756]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/JH/ALF6CEXCWZEX2SL8K8E7VX
+[2025.04.30-11.52.13:424][756]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/ALF6CEXCWZEX2SL8K8E7VXCCFF90BB4988F573794C408B95CCEFAD.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/JH/ALF6CEXCWZEX2SL8K8E7VX.uasset'
+[2025.04.30-11.52.13:426][756]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/6/0W/T66W5KT5QEXWB30U82J9TL
+[2025.04.30-11.52.13:426][756]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/T66W5KT5QEXWB30U82J9TL5058AC6842EB88A388A48883F72AEB6B.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/6/0W/T66W5KT5QEXWB30U82J9TL.uasset'
+[2025.04.30-11.52.13:428][756]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/8/ES/VVPVD1MQY83EAXIZXXCJ80
+[2025.04.30-11.52.13:428][756]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/VVPVD1MQY83EAXIZXXCJ801D8F5374413182620A5B3CAF040F0310.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/8/ES/VVPVD1MQY83EAXIZXXCJ80.uasset'
+[2025.04.30-11.52.13:430][756]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/9/BZ/X3B0L8CQY5QWVI9WKGFQHZ
+[2025.04.30-11.52.13:430][756]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/X3B0L8CQY5QWVI9WKGFQHZD9BDF89440A065A055D8BFB519B217F5.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/9/BZ/X3B0L8CQY5QWVI9WKGFQHZ.uasset'
+[2025.04.30-11.52.13:433][756]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/8/YD/C73FSFFHYUKSNRMYSWS12Z
+[2025.04.30-11.52.13:433][756]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/C73FSFFHYUKSNRMYSWS12ZA671C6E64CE6852D28E0379CDC0E71AB.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/8/YD/C73FSFFHYUKSNRMYSWS12Z.uasset'
+[2025.04.30-11.52.13:435][756]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/D/W4/AGDZ1LAQFI0L7PXPO5D8T5
+[2025.04.30-11.52.13:435][756]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/AGDZ1LAQFI0L7PXPO5D8T50EF4438C43F8318BB85F9B996C72EE68.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/D/W4/AGDZ1LAQFI0L7PXPO5D8T5.uasset'
+[2025.04.30-11.52.13:453][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.917 ms (total: 1.46 sec)
+[2025.04.30-11.52.13:506][756]LogContentValidation: Display: Starting to validate 9 assets
+[2025.04.30-11.52.13:506][756]LogContentValidation: Enabled validators:
+[2025.04.30-11.52.13:506][756]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-11.52.13:506][756]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-11.52.13:506][756]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-11.52.13:506][756]LogContentValidation: Display: Validating asset /Game/Challenge.Challenge
+[2025.04.30-11.52.13:507][756]AssetCheck: /Game/Challenge Validating asset
+[2025.04.30-11.52.14:852][849]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.30-11.52.14:867][849]LogContentBundle: [Challenge(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.30-11.52.14:867][849]LogWorldPartition: Display: GenerateStreaming for 'Challenge' started...
+[2025.04.30-11.52.14:875][849]LogWorldPartition: Display: GenerateStreaming for 'Challenge' took 8.443 ms (total: 19.752 ms)
+[2025.04.30-11.52.14:877][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.30-11.52.14:877][849]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Challenge
+[2025.04.30-11.52.14:880][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002451s)
+[2025.04.30-11.52.14:880][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Challenge.Challenge to /Game/UEDPIE_0_Challenge.Challenge (0.002476s)
+[2025.04.30-11.52.14:887][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.04.30-11.52.14:888][849]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.04.30-11.52.14:889][849]LogWorldPartition: ULevel::OnLevelLoaded(Challenge)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.30-11.52.14:889][849]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.30-11.52.14:889][849]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Challenge.Challenge, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.30-11.52.14:889][849]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.30-11.52.14:892][849]LogContentBundle: [Challenge(Standalone)] Creating new container.
+[2025.04.30-11.52.14:892][849]LogWorldPartition: Display: WorldPartition initialize took 3.342 ms (total: 989.833 ms)
+[2025.04.30-11.52.14:892][849]LogPlayLevel: PIE: World Init took: (0.004235s)
+[2025.04.30-11.52.14:917][849]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.04.30-11.52.14:917][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.30-11.52.14:917][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.30-11.52.14:917][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.30-11.52.14:917][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.30-11.52.14:917][849]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.30-11.52.14:917][849]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.30-11.52.14:917][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.30-11.52.14:917][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.30-11.52.14:917][849]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.30-11.52.14:917][849]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.30-11.52.14:917][849]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.30-11.52.14:919][849]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.30-11.52.14:947][849]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.04.30-11.52.14:948][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.30-11.52.14:948][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.30-11.52.14:948][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.30-11.52.14:949][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.04.30-11.52.14:949][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.04.30-11.52.14:950][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.04.30-11.52.14:950][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.04.30-11.52.14:950][849]LogInit: FAudioDevice initialized with ID 3.
+[2025.04.30-11.52.14:950][849]LogAudio: Display: Audio Device (ID: 3) registered with world 'Challenge'.
+[2025.04.30-11.52.14:950][849]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.30-11.52.14:953][849]LogLoad: Game class is 'GameModeBase'
+[2025.04.30-11.52.14:954][849]LogWorld: Bringing World /Game/UEDPIE_0_Challenge.Challenge up for play (max tick rate 0) at 2025.04.30-13.52.14
+[2025.04.30-11.52.14:954][849]LogWorld: Bringing up level for play took: 0.000509
+[2025.04.30-11.52.14:955][849]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.04.30-11.52.14:960][849]LogStreaming: Display: FlushAsyncLoading(): 309 QueuedPackages, 0 AsyncPackages
+[2025.04.30-11.52.15:968][849]PIE: Server logged in
+[2025.04.30-11.52.15:969][849]PIE: Play in editor total start time 1,107 seconds.
+[2025.04.30-11.53.00:634][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.30-11.53.00:634][453]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Challenge
+[2025.04.30-11.53.00:640][453]LogWorld: UWorld::CleanupWorld for Challenge, bSessionEnded=true, bCleanupResources=true
+[2025.04.30-11.53.00:640][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.30-11.53.00:640][453]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Challenge.Challenge
+[2025.04.30-11.53.00:640][453]LogContentBundle: [Challenge(Standalone)] Deleting container.
+[2025.04.30-11.53.00:640][453]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.04.30-11.53.00:640][453]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.04.30-11.53.00:643][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.30-11.53.00:643][453]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Challenge, Actor: /Game/UEDPIE_0_Challenge.Challenge:PersistentLevel.PoliceCarCamara_11
+[2025.04.30-11.53.00:643][453]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Challenge, Actor: /Game/UEDPIE_0_Challenge.Challenge:PersistentLevel.CatCamara_9
+[2025.04.30-11.53.00:643][453]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Challenge, Actor: /Game/UEDPIE_0_Challenge.Challenge:PersistentLevel.RubbishCamera_7
+[2025.04.30-11.53.00:649][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.30-11.53.00:659][453]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.30-11.53.00:659][453]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.30-11.53.00:659][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.30-11.53.00:660][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.30-11.53.00:664][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.30-11.53.00:672][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.04.30-11.53.00:754][454]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.04.30-11.53.07:794][924]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Water.M_Water
+[2025.04.30-11.53.07:964][924]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.53.07:964][924]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.53.07:964][924]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.53.07:964][924]MaterialEditorStats: Preshaders: 4  (5 param fetches, 10 ops)
+[2025.04.30-11.53.08:055][926]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.53.08:055][926]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.53.08:055][926]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.53.08:055][926]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.53.08:055][926]MaterialEditorStats: Preshaders: 4  (5 param fetches, 10 ops)
+[2025.04.30-11.53.12:298][164]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.53.12:298][164]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.53.12:298][164]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.53.12:298][164]MaterialEditorStats: Preshaders: 4  (5 param fetches, 10 ops)
+[2025.04.30-11.53.12:350][166]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.53.12:350][166]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.53.12:350][166]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.53.12:350][166]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.53.12:350][166]MaterialEditorStats: Preshaders: 4  (5 param fetches, 10 ops)
+[2025.04.30-11.53.16:438][388]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.53.16:438][388]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.53.16:438][388]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.53.16:438][388]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.53.16:498][390]MaterialEditorStats: Base pass vertex shader: 308 instructions
+[2025.04.30-11.53.16:498][390]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.30-11.53.16:498][390]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.53.16:498][390]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.53.16:498][390]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.04.30-11.53.35:492][434]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.53.35:492][434]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.53.35:492][434]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.53.35:492][434]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.53.35:531][435]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.53.35:531][435]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.53.35:531][435]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.53.35:532][435]MaterialEditorStats: Shader Count: 3
+[2025.04.30-11.53.35:532][435]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.53.35:558][436]MaterialEditorStats: Base pass shader: 138 instructions
+[2025.04.30-11.53.35:558][436]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.53.35:558][436]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.53.35:558][436]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.53.35:558][436]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.53.35:558][436]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.53.41:705][771]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.30-11.53.41:711][771]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.53.41:711][771]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.53.41:711][771]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.53.41:711][771]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.53.41:738][773]MaterialEditorStats: Base pass shader: 138 instructions
+[2025.04.30-11.53.41:738][773]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.53.41:738][773]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.53.41:738][773]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.53.41:738][773]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.53.41:738][773]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.53.59:664][772]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.53.59:664][772]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.53.59:664][772]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.53.59:664][772]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.53.59:703][775]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.53.59:703][775]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.53.59:703][775]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.53.59:703][775]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.53.59:703][775]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.54.00:350][809]MaterialEditorStats: Base pass shader: 138 instructions
+[2025.04.30-11.54.00:350][809]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.54.00:350][809]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.54.00:350][809]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.54.00:350][809]MaterialEditorStats: Shader Count: 4
+[2025.04.30-11.54.00:350][809]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.54.18:053][791]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.54.18:054][791]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.54.18:054][791]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.54.18:054][791]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.54.18:082][793]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.54.18:082][793]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.54.18:082][793]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.54.18:082][793]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.54.18:082][793]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.54.18:679][823]MaterialEditorStats: Base pass shader: 132 instructions
+[2025.04.30-11.54.18:679][823]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.54.18:679][823]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.54.18:679][823]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.54.18:679][823]MaterialEditorStats: Shader Count: 4
+[2025.04.30-11.54.18:679][823]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: ================================================
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Total job queries 9417, among them cache hits 833 (8.85%), DDC hits 3371 (35.80%), Duplicates 1451 (15.41%)
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Tracking 7124 distinct input hashes that result in 6556 distinct outputs (92.03%)
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: RAM used: 148,67 MiB of 1,60 GiB budget. Usage: 9.07%
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Shaders Compiled: 3753
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Jobs assigned 3753, completed 3753 (100%)
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Average time worker was idle: 92.70 s
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Time job spent in pending queue: average 54.70 s, longest 128.50 s
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Job execution time: average 4.68 s, max 32.82 s
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Job life time (pending + execution): average 59.38 s, max 131.91
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Shader code size: average 44,897 KiB, min 2,706 KiB, max 332,057 KiB
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 206.46 s
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.91%
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Jobs were issued in 666 batches (only local compilation was used), average 5.64 jobs/batch
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Average processing rate: 18.18 jobs/sec
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Total thread time: 1912,555 s
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Total thread preprocess time: 72,161 s
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Percentage time preprocessing: 3.77%
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Effective parallelization: 9.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 11.57 sec, max 21.58 sec, min 1.56 sec)
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 11.25 sec, max 11.25 sec, min 11.25 sec)
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 8.07 sec, max 8.07 sec, min 8.07 sec)
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display:                                        FCloudRenderViewPS100 (compiled    1 times, average 5.14 sec, max 5.14 sec, min 5.14 sec)
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 4.67 sec, max 7.80 sec, min 1.53 sec)
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.63% of total time (compiled  262 times, average 0.92 sec, max 2.37 sec, min 0.58 sec)
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 7.88% of total time (compiled   68 times, average 2.22 sec, max 6.37 sec, min 0.80 sec)
+[2025.04.30-11.54.51:858][643]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.89% of total time (compiled  321 times, average 0.35 sec, max 1.17 sec, min 0.15 sec)
+[2025.04.30-11.54.51:859][643]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 5.62% of total time (compiled   96 times, average 1.12 sec, max 1.57 sec, min 0.81 sec)
+[2025.04.30-11.54.51:859][643]LogShaderCompilers: Display:                                                FOcclusionRGS - 5.07% of total time (compiled  192 times, average 0.50 sec, max 0.88 sec, min 0.24 sec)
+[2025.04.30-11.54.51:859][643]LogShaderCompilers: Display: === Material stats ===
+[2025.04.30-11.54.51:859][643]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.30-11.54.51:859][643]LogShaderCompilers: Display: Materials Translated:    335
+[2025.04.30-11.54.51:859][643]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2025.04.30-11.54.51:859][643]LogShaderCompilers: Display: Material Translation Only: 0.08 s (45%)
+[2025.04.30-11.54.51:859][643]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.30-11.54.51:859][643]LogShaderCompilers: Display: Material Cache Hits: 1 (0%)
+[2025.04.30-11.54.51:859][643]LogShaderCompilers: Display: ================================================
+[2025.04.30-11.54.52:014][649]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.54.52:014][649]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.54.52:014][649]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.54.52:014][649]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.54.52:111][651]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.54.52:111][651]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.54.52:111][651]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.54.52:111][651]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.54.52:111][651]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.54.52:774][685]MaterialEditorStats: Base pass shader: 131 instructions
+[2025.04.30-11.54.52:774][685]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.54.52:774][685]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.54.52:774][685]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.54.52:774][685]MaterialEditorStats: Shader Count: 4
+[2025.04.30-11.54.52:774][685]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.54.54:615][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.04.30-11.54.54:618][780]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Challenge' took 0.012
+[2025.04.30-11.54.54:618][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Secuencer] ([1] browsable assets)...
+[2025.04.30-11.54.54:618][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Secuencer]
+[2025.04.30-11.54.54:628][780]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cinematics/Secuencer_Auto2
+[2025.04.30-11.54.54:629][780]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Secuencer_Auto20AE814C2486825C56ECCD6A4F3B4525C.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/Cinematics/Secuencer_Auto2.uasset'
+[2025.04.30-11.54.54:629][780]LogFileHelpers: Auto-saving content packages took 0.011
+[2025.04.30-11.54.55:921][850]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.54.55:921][850]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.54.55:921][850]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.54.55:921][850]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.54.55:979][852]MaterialEditorStats: Base pass shader: 132 instructions
+[2025.04.30-11.54.55:979][852]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.54.55:979][852]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.54.55:979][852]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.54.55:979][852]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.54.55:979][852]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.54.59:097][ 21]LogMaterialEditor: Saving and Compiling material M_Water
+[2025.04.30-11.54.59:176][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.04.30-11.55.00:041][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.04.30-11.55.00:051][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-11.55.00:092][ 21]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Water] ([1] browsable assets)...
+[2025.04.30-11.55.00:100][ 21]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Water.M_Water]
+[2025.04.30-11.55.00:100][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Water]
+[2025.04.30-11.55.00:100][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Water" FILE="../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset" SILENT=true
+[2025.04.30-11.55.00:101][ 21]LogSavePackage: Moving output files for package: /Game/Materials/M_Water
+[2025.04.30-11.55.00:102][ 21]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/M_WaterEB5297994B77D30D506A939B7F0CF205.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset'
+[2025.04.30-11.55.00:109][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.234 ms (total: 1.52 sec)
+[2025.04.30-11.55.00:142][ 21]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-11.55.00:142][ 21]LogContentValidation: Enabled validators:
+[2025.04.30-11.55.00:142][ 21]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-11.55.00:142][ 21]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-11.55.00:142][ 21]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-11.55.00:143][ 21]LogContentValidation: Display: Validating asset /Game/Materials/M_Water.M_Water
+[2025.04.30-11.55.00:143][ 21]AssetCheck: /Game/Materials/M_Water Validating asset
+[2025.04.30-11.55.03:543][235]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.30-11.55.33:647][180]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.30-11.55.33:653][180]LogShaderCompilers: Display: Cancelled job 0x000008EC28881000 with pending SubmitJob call.
+[2025.04.30-11.55.33:653][180]LogShaderCompilers: Display: Cancelled job 0x000008EC28889800 with pending SubmitJob call.
+[2025.04.30-11.55.33:655][180]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.55.33:655][180]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.55.33:655][180]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.55.33:655][180]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.55.33:656][180]LogShaderCompilers: Display: Cancelled job 0x000008EC2888B000 with pending SubmitJob call.
+[2025.04.30-11.55.33:656][180]LogShaderCompilers: Display: Cancelled job 0x000008EC28882800 with pending SubmitJob call.
+[2025.04.30-11.55.33:658][180]LogShaderCompilers: Display: Cancelled job 0x000008EC28886800 with pending SubmitJob call.
+[2025.04.30-11.55.33:683][182]MaterialEditorStats: Base pass shader: 132 instructions
+[2025.04.30-11.55.33:684][182]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.55.33:684][182]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.55.33:684][182]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.55.33:684][182]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.55.33:684][182]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.55.41:966][687]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.55.41:966][687]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.55.41:966][687]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.55.41:966][687]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.55.42:012][689]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.55.42:012][689]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.55.42:012][689]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.55.42:012][689]MaterialEditorStats: Shader Count: 2
+[2025.04.30-11.55.42:012][689]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.55.42:726][728]MaterialEditorStats: Base pass shader: 132 instructions
+[2025.04.30-11.55.42:726][728]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.55.42:726][728]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.55.42:726][728]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.55.42:726][728]MaterialEditorStats: Shader Count: 4
+[2025.04.30-11.55.42:726][728]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.55.44:356][828]LogMaterialEditor: Saving and Compiling material M_Water
+[2025.04.30-11.55.44:436][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.04.30-11.55.45:312][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.04.30-11.55.45:325][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-11.55.45:382][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Water] ([1] browsable assets)...
+[2025.04.30-11.55.45:392][828]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Water.M_Water]
+[2025.04.30-11.55.45:392][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Water]
+[2025.04.30-11.55.45:393][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Water" FILE="../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset" SILENT=true
+[2025.04.30-11.55.45:394][828]LogSavePackage: Moving output files for package: /Game/Materials/M_Water
+[2025.04.30-11.55.45:395][828]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/M_WaterCEB623E14947304A6CB6C2B787341372.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset'
+[2025.04.30-11.55.45:401][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.502 ms (total: 1.59 sec)
+[2025.04.30-11.55.45:446][828]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-11.55.45:446][828]LogContentValidation: Enabled validators:
+[2025.04.30-11.55.45:446][828]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-11.55.45:446][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-11.55.45:446][828]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-11.55.45:448][828]LogContentValidation: Display: Validating asset /Game/Materials/M_Water.M_Water
+[2025.04.30-11.55.45:448][828]AssetCheck: /Game/Materials/M_Water Validating asset
+[2025.04.30-11.56.16:433][134]LogEditorViewport: Clicking Background
+[2025.04.30-11.56.29:819][999]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.30-11.56.29:832][999]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.56.29:832][999]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.56.29:832][999]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.56.29:832][999]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.56.29:858][  0]MaterialEditorStats: Base pass shader: 132 instructions
+[2025.04.30-11.56.29:858][  0]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.56.29:858][  0]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.56.29:858][  0]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.56.29:858][  0]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.56.29:858][  0]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.56.36:337][357]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.30-11.56.36:347][357]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.56.36:347][357]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.56.36:347][357]MaterialEditorStats: Shader Count: 0
+[2025.04.30-11.56.36:347][357]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.56.36:377][358]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.56.36:378][358]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.56.36:378][358]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.56.36:378][358]MaterialEditorStats: Shader Count: 4
+[2025.04.30-11.56.36:378][358]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.56.36:393][359]MaterialEditorStats: Base pass shader: 132 instructions
+[2025.04.30-11.56.36:393][359]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2025.04.30-11.56.36:393][359]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.30-11.56.36:393][359]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.30-11.56.36:393][359]MaterialEditorStats: Shader Count: 5
+[2025.04.30-11.56.36:393][359]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.04.30-11.56.37:322][414]LogMaterialEditor: Saving and Compiling material M_Water
+[2025.04.30-11.56.37:408][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.04.30-11.56.37:566][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.04.30-11.56.37:575][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-11.56.37:623][414]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Water] ([1] browsable assets)...
+[2025.04.30-11.56.37:630][414]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Water.M_Water]
+[2025.04.30-11.56.37:630][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Water]
+[2025.04.30-11.56.37:630][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Water" FILE="../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset" SILENT=true
+[2025.04.30-11.56.37:632][414]LogSavePackage: Moving output files for package: /Game/Materials/M_Water
+[2025.04.30-11.56.37:632][414]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/M_Water88A26D404629838B91B1E6ACA36AEDAA.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Materials/M_Water.uasset'
+[2025.04.30-11.56.37:639][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.189 ms (total: 1.66 sec)
+[2025.04.30-11.56.37:672][414]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-11.56.37:672][414]LogContentValidation: Enabled validators:
+[2025.04.30-11.56.37:672][414]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-11.56.37:672][414]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-11.56.37:672][414]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-11.56.37:673][414]LogContentValidation: Display: Validating asset /Game/Materials/M_Water.M_Water
+[2025.04.30-11.56.37:673][414]AssetCheck: /Game/Materials/M_Water Validating asset
+[2025.04.30-11.56.39:749][535]LogSlate: Window 'M_Water' being destroyed
+[2025.04.30-11.56.39:764][535]LogSlate: Window 'M_Water' being destroyed
+[2025.04.30-11.56.39:788][535]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.04.30-11.56.39:788][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.30-11.56.39:812][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.04.30-11.56.41:867][698]LogEditorViewport: Clicking Background
+[2025.04.30-11.57.29:777][388]LogEditorViewport: Clicking Background
+[2025.04.30-11.57.30:600][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-11.57.30:678][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.04.30-11.57.30:688][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.04.30-11.57.30:694][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.04.30-11.57.30:695][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/5/EW/WR7P0AD6K3CFM0AC5HCCQU
+[2025.04.30-11.57.30:696][468]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/WR7P0AD6K3CFM0AC5HCCQU4C2B565B4CE1A7DC8E91018E5A4207E6.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/5/EW/WR7P0AD6K3CFM0AC5HCCQU.uasset'
+[2025.04.30-11.57.30:697][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/B/40/IWWOWN27XN7JKJPV4CAUQD
+[2025.04.30-11.57.30:698][468]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/IWWOWN27XN7JKJPV4CAUQD096A629E443E3C0973AE509860F9044E.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/B/40/IWWOWN27XN7JKJPV4CAUQD.uasset'
+[2025.04.30-11.57.30:699][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/1/JH/ALF6CEXCWZEX2SL8K8E7VX
+[2025.04.30-11.57.30:700][468]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/ALF6CEXCWZEX2SL8K8E7VX7B601A20447FCECEAA6491B189139001.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/1/JH/ALF6CEXCWZEX2SL8K8E7VX.uasset'
+[2025.04.30-11.57.30:702][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Challenge/6/0W/T66W5KT5QEXWB30U82J9TL
+[2025.04.30-11.57.30:702][468]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/T66W5KT5QEXWB30U82J9TLD73596014CD28C7662D2EC809B20383B.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/__ExternalActors__/Challenge/6/0W/T66W5KT5QEXWB30U82J9TL.uasset'
+[2025.04.30-11.57.30:718][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.478 ms (total: 1.78 sec)
+[2025.04.30-11.57.30:749][468]LogContentValidation: Display: Starting to validate 4 assets
+[2025.04.30-11.57.30:749][468]LogContentValidation: Enabled validators:
+[2025.04.30-11.57.30:749][468]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-11.57.30:749][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-11.57.30:749][468]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-11.57.30:749][468]LogContentValidation: Display: Validating asset /Game/Challenge.Challenge
+[2025.04.30-11.57.30:750][468]AssetCheck: /Game/Challenge Validating asset
