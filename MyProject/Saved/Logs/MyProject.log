@@ -14060,3 +14060,123 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.05.07-11.50.33:557][614]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cinematics/Pending_MoviePipelinePrimaryConfig_Auto6
 [2025.05.07-11.50.33:557][614]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Pending_MoviePipelinePrimaryConf853CA4CC4B775D698FFF28B68E073280.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/Cinematics/Pending_MoviePipelinePrimaryConfig_Auto6.uasset'
 [2025.05.07-11.50.33:561][614]LogFileHelpers: Auto-saving content packages took 0.004
+[2025.05.07-12.25.24:699][887]LogDerivedDataCache: D:/ZZ_Cache/Unreal: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.07-13.25.24:699][683]LogDerivedDataCache: D:/ZZ_Cache/Unreal: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.07-14.25.24:699][481]LogDerivedDataCache: D:/ZZ_Cache/Unreal: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.07-15.25.24:699][278]LogDerivedDataCache: D:/ZZ_Cache/Unreal: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.07-15.44.26:023][559]LogCore: Display: Tracing Screenshot "HighresScreenshot00005" taken with size: 3232 x 1818
+[2025.05.07-15.44.26:744][560]LogClient: High resolution screenshot saved as C:/Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Screenshots/WindowsEditor/HighresScreenshot00005.png
+[2025.05.07-16.19.57:723][166]LogSlate: Window 'Pending_MoviePipelinePrimaryConfig' being destroyed
+[2025.05.07-16.19.57:728][166]LogSlate: Window 'Pending_MoviePipelinePrimaryConfig' being destroyed
+[2025.05.07-16.20.05:197][353]Cmd: r.ResetRenderTargetsExtent
+[2025.05.07-16.20.05:197][353]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2025.05.07-16.20.05:197][353]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2025.05.07-16.21.33:328][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.05.07-16.21.33:331][537]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Challenge' took 0.033
+[2025.05.07-16.21.33:332][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Secuencer] ([1] browsable assets)...
+[2025.05.07-16.21.33:332][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Secuencer]
+[2025.05.07-16.21.33:347][537]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cinematics/Secuencer_Auto7
+[2025.05.07-16.21.33:348][537]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Secuencer_Auto7B3DBF1A847E43236EB175F8341B09779.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Autosaves/Game/Cinematics/Secuencer_Auto7.uasset'
+[2025.05.07-16.21.33:354][537]LogFileHelpers: Auto-saving content packages took 0.023
+[2025.05.07-16.24.37:875][627]LogCore: Display: Tracing Screenshot "HighresScreenshot00006" taken with size: 2054 x 1156
+[2025.05.07-16.24.38:177][628]LogClient: High resolution screenshot saved as C:/Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Screenshots/WindowsEditor/HighresScreenshot00006.png
+[2025.05.07-16.25.24:700][908]LogDerivedDataCache: D:/ZZ_Cache/Unreal: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.07-16.25.30:344][991]Cmd: r.ResetRenderTargetsExtent
+[2025.05.07-16.25.30:344][991]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2025.05.07-16.25.30:344][991]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2025.05.07-16.26.02:653][689]LogCore: Display: Tracing Screenshot "HighresScreenshot00007" taken with size: 2054 x 1156
+[2025.05.07-16.26.02:963][690]LogClient: High resolution screenshot saved as C:/Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Screenshots/WindowsEditor/HighresScreenshot00007.png
+[2025.05.07-16.26.15:993][870]Cmd: r.ResetRenderTargetsExtent
+[2025.05.07-16.26.15:993][870]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2025.05.07-16.26.15:993][870]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2025.05.07-16.26.55:444][204]LogCore: Display: Tracing Screenshot "HighresScreenshot00008" taken with size: 2054 x 1156
+[2025.05.07-16.26.55:738][205]LogClient: High resolution screenshot saved as C:/Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Screenshots/WindowsEditor/HighresScreenshot00008.png
+[2025.05.07-16.42.40:129][167]LogCore: Display: Tracing Screenshot "HighresScreenshot00009" taken with size: 2054 x 1156
+[2025.05.07-16.42.40:410][168]LogClient: High resolution screenshot saved as C:/Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Screenshots/WindowsEditor/HighresScreenshot00009.png
+[2025.05.07-16.48.00:621][389]Cmd: r.ResetRenderTargetsExtent
+[2025.05.07-16.48.00:621][389]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2025.05.07-16.48.00:621][389]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2025.05.07-16.51.47:877][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.07-16.51.49:486][521]LogSlate: Window 'Save Content' being destroyed
+[2025.05.07-16.51.49:509][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.07-16.51.49:547][521]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Pending_MoviePipelinePrimaryConfig] ([1] browsable assets)...
+[2025.05.07-16.51.49:547][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Pending_MoviePipelinePrimaryConfig]
+[2025.05.07-16.51.49:549][521]LogSavePackage: Moving output files for package: /Game/Cinematics/Pending_MoviePipelinePrimaryConfig
+[2025.05.07-16.51.49:549][521]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/Pending_MoviePipelinePrimaryConfED6F196D44B513B2DBF74D97C0FF2B00.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Cinematics/Pending_MoviePipelinePrimaryConfig.uasset'
+[2025.05.07-16.51.49:554][521]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Secuencer] ([1] browsable assets)...
+[2025.05.07-16.51.49:554][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Secuencer]
+[2025.05.07-16.51.49:554][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cinematics/Secuencer" FILE="../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Cinematics/Secuencer.uasset" SILENT=true
+[2025.05.07-16.51.49:567][521]LogSavePackage: Moving output files for package: /Game/Cinematics/Secuencer
+[2025.05.07-16.51.49:567][521]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Saved/SecuencerADD1CCAA43DF2257E627189BA5C68858.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Challenge/MyProject/Content/Cinematics/Secuencer.uasset'
+[2025.05.07-16.51.49:577][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.371 ms (total: 370.569 ms)
+[2025.05.07-16.51.49:648][521]LogStall: Shutdown...
+[2025.05.07-16.51.49:654][521]LogStall: Shutdown complete.
+[2025.05.07-16.51.50:394][521]LogSlate: Window 'Movie Render Queue' being destroyed
+[2025.05.07-16.51.50:402][521]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2025.05.07-16.51.50:482][521]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2025.05.07-16.51.50:581][521]LogContentValidation: Display: Starting to validate 2 assets
+[2025.05.07-16.51.50:581][521]LogContentValidation: Enabled validators:
+[2025.05.07-16.51.50:581][521]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.07-16.51.50:581][521]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.07-16.51.50:581][521]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.07-16.51.50:581][521]LogContentValidation: Display: Validating asset /Game/Cinematics/Pending_MoviePipelinePrimaryConfig.Pending_MoviePipelinePrimaryConfig
+[2025.05.07-16.51.50:581][521]AssetCheck: /Game/Cinematics/Pending_MoviePipelinePrimaryConfig Validating asset
+[2025.05.07-16.51.50:581][521]LogContentValidation: Display: Validating asset /Game/Cinematics/Secuencer.Secuencer
+[2025.05.07-16.51.50:581][521]AssetCheck: /Game/Cinematics/Secuencer Validating asset
+[2025.05.07-16.51.50:587][521]Cmd: QUIT_EDITOR
+[2025.05.07-16.51.50:587][521]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.07-16.51.50:593][522]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.07-16.51.50:593][522]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.07-16.51.50:593][522]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.07-16.51.50:605][522]LogWorld: UWorld::CleanupWorld for Challenge, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-16.51.50:606][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-16.51.50:606][522]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Challenge.Challenge
+[2025.05.07-16.51.50:608][522]LogContentBundle: [Challenge(Standalone)] Deleting container.
+[2025.05.07-16.51.50:608][522]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.05.07-16.51.50:608][522]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.05.07-16.51.50:626][522]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.07-16.51.50:705][522]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-16.51.50:705][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-16.51.50:706][522]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-16.51.50:706][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-16.51.50:706][522]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-16.51.50:706][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-16.51.50:706][522]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-16.51.50:706][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-16.51.50:707][522]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-16.51.50:707][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-16.51.50:895][522]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.07-16.51.50:905][522]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.07-16.51.50:905][522]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.07-16.51.50:905][522]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.07-16.51.51:185][522]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.07-16.51.51:185][522]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.07-16.51.51:185][522]LogAudio: Display: Audio Device unregistered from world 'Challenge'.
+[2025.05.07-16.51.51:185][522]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.07-16.51.51:185][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.07-16.51.51:187][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.07-16.51.51:197][522]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.07-16.51.51:197][522]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.07-16.51.51:198][522]LogWindowsTextInputMethodSystem: Activated input method: Spanish (Spain, International Sort) - (Keyboard).
+[2025.05.07-16.51.51:201][522]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.07-16.51.51:202][522]LogExit: Preparing to exit.
+[2025.05.07-16.51.51:252][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.07-16.51.51:686][522]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.07-16.51.51:735][522]LogExit: Editor shut down
+[2025.05.07-16.51.51:740][522]LogExit: Transaction tracking system shut down
+[2025.05.07-16.51.52:123][522]LogExit: Object subsystem successfully closed.
+[2025.05.07-16.51.52:240][522]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.07-16.51.53:395][522]MemoryProfiler: Shutdown
+[2025.05.07-16.51.53:396][522]NetworkingProfiler: Shutdown
+[2025.05.07-16.51.53:396][522]LoadingProfiler: Shutdown
+[2025.05.07-16.51.53:396][522]TimingProfiler: Shutdown
+[2025.05.07-16.51.53:563][522]LogOpenImageDenoise: OIDN shutting down
+[2025.05.07-16.51.53:977][522]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.05.07-16.51.53:977][522]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1DDBEACA-4795-607E-117D-BA930168DA47%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=adc3aedb4f507ac03902689f8f44605d%7Cd25802d7307046888565adaccaf426b7%7C38abf257-8459-44f2-bd3d-7683af6bfa73&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.07-16.51.53:986][522]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.07-16.51.53:987][522]RenderDocPlugin: plugin has been unloaded.
+[2025.05.07-16.51.53:990][522]LogXGEController: Cleaning working directory: C:/Users/Alumno/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.05.07-16.51.53:994][522]LogPakFile: Destroying PakPlatformFile
+[2025.05.07-16.51.54:527][522]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.07-16.51.54:584][522]LogExit: Exiting.
+[2025.05.07-16.51.54:604][522]Log file closed, 05/07/25 18:51:54
